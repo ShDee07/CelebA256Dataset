@@ -1,0 +1,10 @@
+The man has mouth slightly open, and mustache and is wearing hat.
+He has mustache. He is chubby and wears hat. He has beard.
+This person has big nose and wears hat.
+The person has big nose and wears hat. He is chubby.
+He has big lips, mustache, and mouth slightly open. He wears hat. He is chubby.
+He is wearing hat. He has big lips, mouth slightly open, and big nose. He is chubby.
+This man has mouth slightly open. He is chubby and is wearing hat. He has beard.
+The man has mouth slightly open. He wears hat.
+This man has big lips. He wears hat. He is chubby.
+The person is chubby and has mustache, big nose, and big lips. 

@@ -1,0 +1,10 @@
+This man has bushy eyebrows, and mustache.
+The person has mustache, and bushy eyebrows.
+The man is young and has mustache, and pointy nose.
+The man has pointy nose. He is young.
+This man is young and has bushy eyebrows, and pointy nose.
+The man has mustache, and pointy nose.
+The person is young and has mustache, and bushy eyebrows. 
+He has pointy nose, and mustache. He is young.
+This man has bushy eyebrows. He is young. He has beard.
+This person has bushy eyebrows, and pointy nose.

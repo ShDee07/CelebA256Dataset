@@ -1,0 +1,10 @@
+This person wears heavy makeup. She has black hair, and high cheekbones.
+She is wearing lipstick. She has black hair. She is young.
+This person has black hair, and high cheekbones. She is wearing lipstick.
+This person has high cheekbones, and black hair. She wears heavy makeup. She is young.
+She wears heavy makeup. She is young and has black hair.
+This woman has black hair, and high cheekbones. She wears heavy makeup.
+The person has black hair. She is young and is wearing heavy makeup.
+This person has arched eyebrows. She is young. She wears heavy makeup.
+This woman has black hair and wears lipstick. She is young.
+This woman wears lipstick. She has high cheekbones. She is young.

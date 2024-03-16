@@ -1,0 +1,10 @@
+The person has big nose, receding hairline, and bushy eyebrows. He is attractive.
+The man has bags under eyes, and big nose.
+The man has receding hairline, and bags under eyes. He is attractive.
+The man is attractive and has bushy eyebrows, receding hairline, and bags under eyes.
+The person has bags under eyes, bushy eyebrows, and receding hairline. He is attractive.
+This person is attractive and has bags under eyes, big nose, and receding hairline.
+This man has receding hairline, bags under eyes, and bushy eyebrows. He is attractive. He has beard.
+He has bags under eyes, receding hairline, and big nose. He is attractive. He has beard.
+This person has receding hairline.
+The man is attractive and has bags under eyes, and bushy eyebrows. 

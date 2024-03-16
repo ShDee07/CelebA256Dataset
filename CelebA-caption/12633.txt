@@ -1,0 +1,10 @@
+The person has mustache. He is young.
+This person has black hair, and high cheekbones. He is young. He has beard.
+The man has high cheekbones, and big lips. He is young. He has beard.
+He has big nose, high cheekbones, black hair, and big lips.
+The man has black hair.
+This person has big nose, black hair, high cheekbones, and mustache.
+The person has mustache, big nose, high cheekbones, and black hair.
+The man has big nose, black hair, mustache, and high cheekbones. He is young.
+The person has mustache, and black hair.
+This person has mustache, and black hair.

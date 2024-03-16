@@ -1,0 +1,10 @@
+The woman has black hair. She is young.
+She is young and has arched eyebrows.
+She has black hair, arched eyebrows, and pointy nose. She is young.
+The person has arched eyebrows, pointy nose, and bangs. She is young.
+The person has bangs, pointy nose, and black hair.
+The person has black hair, pointy nose, and bangs. She is young.
+This woman has arched eyebrows, and bangs. She is young.
+The woman has pointy nose, black hair, and bangs.
+She has pointy nose.
+The woman has bangs, pointy nose, and arched eyebrows. She is young.

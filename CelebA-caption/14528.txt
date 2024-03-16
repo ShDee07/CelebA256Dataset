@@ -1,0 +1,10 @@
+The person wears hat. He has big nose.
+The man has sideburns, and big nose. He is wearing hat.
+He wears hat. He has bags under eyes, and mouth slightly open.
+He wears hat. He has sideburns, and big nose.
+The person has bags under eyes, and mouth slightly open and wears hat.
+This person has big nose, sideburns, and bags under eyes and wears hat. 
+This man has bags under eyes, and big nose. He is wearing hat.
+He wears hat. He has bags under eyes.
+The man has sideburns. He is wearing hat.
+This man. He is wearing hat has big nose, mouth slightly open, and sideburns. 

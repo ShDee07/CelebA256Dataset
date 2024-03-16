@@ -1,0 +1,10 @@
+The person has sideburns, and straight hair.
+The man has sideburns.
+The person has straight hair, sideburns, and eyeglasses. He is young.
+This person is young and has straight hair. 
+This person is young and has eyeglasses. 
+The man has straight hair, and sideburns. He is young. He has beard.
+This man has sideburns, and eyeglasses.
+He has eyeglasses, and black hair. He is attractive.
+This person has eyeglasses.
+He has sideburns, and black hair.

@@ -1,0 +1,10 @@
+The man is young and has pointy nose. 
+The person has pointy nose. He is young. He has beard.
+This man has pointy nose.
+The man has goatee. He is young. He has beard.
+This person has pointy nose. He is young. He has beard.
+This man has goatee.
+He has goatee. He is young. He has beard.
+The man has pointy nose. He is young. He has beard.
+He has goatee.
+The man is young and has goatee.

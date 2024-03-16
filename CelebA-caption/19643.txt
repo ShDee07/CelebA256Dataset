@@ -1,0 +1,10 @@
+This man has pointy nose. He wears hat. He is young.
+This person has pointy nose and is wearing hat.
+He is wearing hat. He is young and has pointy nose.
+He has bushy eyebrows. He is young. He wears hat. He has no beard.
+The person has bushy eyebrows. He is young. He is wearing hat. He has no beard.
+This man has pointy nose. He wears hat. He is young.
+This man has pointy nose. He is young and is wearing hat. He has no beard.
+The man has bushy eyebrows and is wearing hat.
+This man has pointy nose. He is young. He wears hat. He has no beard.
+He is young and has bushy eyebrows. 

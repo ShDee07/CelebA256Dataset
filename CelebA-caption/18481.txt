@@ -1,0 +1,10 @@
+The person has pale skin. He is wearing earrings. He is young.
+The man has pale skin. He is young. He wears earrings. He has no beard.
+This person has pale skin and wears earrings. He is young.
+The person wears earrings. He has pale skin.
+He is young and has blond hair. 
+The man is wearing earrings. He has blond hair.
+He has pale skin. He is wearing earrings.
+The man is wearing earrings. He has pale skin.
+He is wearing earrings. He has blond hair. He is young.
+The person has pale skin. He is young. He is wearing earrings. He has no beard.

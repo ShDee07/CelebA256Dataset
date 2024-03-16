@@ -1,0 +1,10 @@
+The man has mustache. He is young. He has beard.
+This man has bushy eyebrows, narrow eyes, straight hair, and mustache. He is attractive.
+This person has narrow eyes, straight hair, and mustache.
+This person has goatee, mustache, and bushy eyebrows. He is attractive. He has beard.
+The man has narrow eyes, bushy eyebrows, and goatee.
+The person has bushy eyebrows, mustache, goatee, and narrow eyes. He is attractive. He has beard.
+The man has straight hair, bushy eyebrows, narrow eyes, and goatee. He is attractive. He has beard.
+The person has bushy eyebrows. He is young.
+He has bushy eyebrows. He is young.
+This person is young and has bushy eyebrows, and goatee.

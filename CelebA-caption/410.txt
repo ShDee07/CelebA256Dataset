@@ -1,0 +1,10 @@
+This person has eyeglasses. He is young.
+The man has goatee. He is young.
+This man is young and has eyeglasses, and goatee.
+This man has eyeglasses.
+This person has goatee.
+This young person has sideburns, and eyeglasses. 
+This young man has goatee. 
+He is young and has goatee.
+The person is young and has goatee.
+This young person has eyeglasses, and sideburns. 

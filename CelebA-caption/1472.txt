@@ -1,0 +1,10 @@
+The person is young and has straight hair, big nose, and sideburns. 
+This person is young and has eyeglasses, mustache, big nose, and sideburns. 
+He has big nose, sideburns, mustache, and straight hair. He is young. He has beard.
+This man is young and has straight hair.
+He has eyeglasses, big nose, and mustache. He is young. He has beard.
+This person has big nose, and straight hair.
+The person has mustache, straight hair, and sideburns.
+The person has sideburns, straight hair, mustache, and eyeglasses. He is young. He has beard.
+This man has big nose, and mustache.
+The man has mustache. He is young.

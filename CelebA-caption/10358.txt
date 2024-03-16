@@ -1,0 +1,10 @@
+The woman is chubby and has bags under eyes. 
+She has blond hair. She is chubby. She wears necklace.
+This person is chubby and has bags under eyes. 
+She is wearing necklace. She has bags under eyes. She is chubby.
+She is wearing necklace. She is chubby and has blond hair.
+The person has bags under eyes. She wears necklace. She is chubby.
+She is wearing necklace. She has blond hair. She is chubby.
+She wears necklace. She has blond hair. She is chubby.
+She has blond hair. She is chubby. She wears necklace.
+She has bags under eyes. She wears necklace. She is chubby.

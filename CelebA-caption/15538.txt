@@ -1,0 +1,10 @@
+This young man has sideburns, receding hairline, and wavy hair. 
+This young man has wavy hair, and sideburns. 
+This person has bushy eyebrows, sideburns, and receding hairline. He is young. He has beard.
+He has bushy eyebrows, receding hairline, and wavy hair. He is young. He has beard.
+The person has brown hair, bushy eyebrows, and wavy hair.
+This person has wavy hair, and sideburns. He is young. He has beard.
+He has bushy eyebrows, receding hairline, wavy hair, and brown hair. He is young.
+The person has receding hairline. He is young.
+This man has receding hairline, bushy eyebrows, and brown hair.
+He is young and has wavy hair, sideburns, bushy eyebrows, and brown hair.

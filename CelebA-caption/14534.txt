@@ -1,0 +1,10 @@
+The person has bangs, double chin, and brown hair. He is chubby.
+The man has big nose, and brown hair. He is smiling.
+This man has bangs, and big nose.
+He has double chin.
+This man has brown hair. He is chubby.
+The person has bangs, brown hair, double chin, and eyeglasses. He is smiling.
+The man is chubby and has eyeglasses, and double chin. 
+He has double chin, eyeglasses, and big nose. He is smiling.
+This person is chubby and has double chin, brown hair, and eyeglasses.
+This man has eyeglasses, big nose, double chin, and bangs.

@@ -1,0 +1,10 @@
+The man has brown hair, blond hair, and bags under eyes. He is attractive. He wears necktie. He has beard.
+He has blond hair. He is wearing necktie.
+This person has bangs. He is young and wears necktie. He has beard.
+This person has blond hair, bags under eyes, and bangs. He wears necktie. He is young.
+This person wears necktie. He has brown hair, bags under eyes, and bangs. He is young.
+The man is wearing necktie. He has bags under eyes.
+This man is young and has brown hair, and bags under eyes. 
+This man is wearing necktie. He has bangs, bags under eyes, and blond hair.
+The man has bangs, brown hair, and blond hair. He wears necktie. He is young.
+This person is attractive and has blond hair, bangs, and brown hair. 

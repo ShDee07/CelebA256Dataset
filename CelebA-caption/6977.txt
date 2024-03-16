@@ -1,0 +1,10 @@
+The person has pointy nose, eyeglasses, and double chin and is wearing necktie. He is bald.
+The person has double chin, big lips, and eyeglasses and is wearing necktie. He is chubby.
+The man has double chin, pointy nose, and eyeglasses. He is wearing necktie.
+The person has eyeglasses, big lips, pointy nose, and big nose. He is bald and is wearing necktie. He has no beard.
+This person is chubby and has big nose, double chin, eyeglasses, and big lips. 
+He is wearing necktie. He has eyeglasses, big nose, big lips, and pointy nose. He is bald.
+He has eyeglasses and wears necktie.
+This person is chubby and has big nose. 
+The person is wearing necktie. He has big nose, and eyeglasses. He is chubby.
+He is wearing necktie. He has double chin. He is chubby.

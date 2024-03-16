@@ -1,0 +1,10 @@
+The person has high cheekbones and wears earrings. She is young.
+She is wearing lipstick. She has brown hair. She is attractive.
+The person is wearing lipstick. She has brown hair, and high cheekbones.
+The woman has pointy nose. She is wearing lipstick. She is attractive.
+This woman has brown hair. She wears lipstick.
+The woman has brown hair. She is attractive and is wearing lipstick.
+She is wearing lipstick. She is attractive and has pointy nose.
+This woman has pointy nose, and high cheekbones. She is wearing earrings. She is attractive.
+This woman is attractive and has brown hair. 
+The person has pointy nose, and brown hair. She wears earrings.

@@ -1,0 +1,10 @@
+The woman has straight hair, and big lips. She is attractive.
+The person has big lips. She is young.
+She has straight hair.
+She is young and has straight hair. 
+She has eyeglasses.
+She is attractive and has straight hair, and big lips. 
+The woman is attractive and has straight hair, and eyeglasses. 
+This person is attractive and has eyeglasses. 
+The person is young and has eyeglasses, and straight hair. 
+This woman has big lips, and straight hair.

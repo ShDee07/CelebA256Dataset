@@ -1,0 +1,10 @@
+This man is bald and has gray hair, and bags under eyes.
+This man has big nose, bags under eyes, and gray hair.
+The person is bald and has receding hairline. 
+The person has gray hair, and big nose. He is bald.
+He has gray hair, bags under eyes, and receding hairline.
+The person has big nose.
+The person has receding hairline, and gray hair. He is bald.
+He has receding hairline. He is bald. He has no beard.
+The person is bald and has gray hair, big nose, and bags under eyes.
+He has receding hairline, and bags under eyes.

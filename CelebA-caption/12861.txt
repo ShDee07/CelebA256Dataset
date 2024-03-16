@@ -1,0 +1,10 @@
+The person has . He is young and is wearing hat. He has beard.
+The person has . He is young. He is wearing hat. He has beard.
+This person has . He wears hat. He is young.
+He is wearing hat. He is young and has .
+He wears hat. He has . He is young.
+This man has . He is young and is wearing hat. He has beard.
+This man has . He is young and is wearing hat. He has beard.
+The person has  and is wearing hat.
+This person has  and wears hat. He is young.
+This young man has . 

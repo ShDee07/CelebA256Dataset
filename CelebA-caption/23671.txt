@@ -1,0 +1,10 @@
+The person has straight hair. He is young.
+This person has eyeglasses, and straight hair.
+The person is young and has eyeglasses, straight hair, and oval face.
+The man has oval face.
+The man has straight hair, brown hair, and oval face.
+This man has oval face, and brown hair.
+The man has oval face, and brown hair.
+This young person has brown hair. 
+The person has brown hair, eyeglasses, and oval face. He is young. He has beard.
+The man has eyeglasses.

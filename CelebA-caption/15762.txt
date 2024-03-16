@@ -1,0 +1,10 @@
+This person has wavy hair. She is wearing hat.
+The woman wears lipstick. She has high cheekbones, and brown hair.
+She wears heavy makeup. She has brown hair.
+The person has wavy hair, and brown hair and wears lipstick.
+She wears lipstick, and heavy makeup. She has high cheekbones, and wavy hair.
+This person has wavy hair and wears hat, and heavy makeup.
+The person is wearing hat. She has high cheekbones, and brown hair.
+She. She wears heavy makeup has brown hair. 
+She is wearing hat. She has brown hair, and wavy hair.
+The person has high cheekbones, and brown hair and is wearing heavy makeup, and lipstick.

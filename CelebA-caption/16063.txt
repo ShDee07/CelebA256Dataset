@@ -1,0 +1,10 @@
+This person wears hat. He has gray hair, bags under eyes, and big nose.
+He has eyeglasses and wears hat. 
+The person is wearing hat. He has gray hair.
+He is wearing hat. He has gray hair, bags under eyes, and eyeglasses.
+He is wearing hat. He has gray hair, eyeglasses, and bags under eyes.
+He. He wears hat has bags under eyes. 
+He wears hat. He has big nose.
+This person has bags under eyes. He is wearing hat.
+This person. He wears hat has big nose, gray hair, and eyeglasses. 
+The man has gray hair, eyeglasses, and big nose. He is wearing hat.

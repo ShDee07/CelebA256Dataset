@@ -1,0 +1,10 @@
+This young person has gray hair, and mouth slightly open. 
+This man has double chin, receding hairline, mustache, and mouth slightly open.
+The person has mustache, and gray hair.
+The man has receding hairline, and gray hair.
+The person has mustache, and receding hairline. He is chubby. He has beard.
+The man has big nose, receding hairline, mouth slightly open, and double chin. He is young.
+This man is chubby and has bags under eyes, gray hair, and big nose.
+This man has mustache, and receding hairline.
+The person has double chin, and receding hairline. He is young. He has beard.
+This person has big nose, mustache, bags under eyes, gray hair, mouth slightly open, and double chin.

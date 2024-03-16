@@ -1,0 +1,10 @@
+This person has goatee and wears hat. He is young.
+This man has goatee. He wears hat.
+He is wearing hat. He has goatee. He is young.
+He is young and has goatee. 
+This young man has goatee. 
+He is young and has goatee. 
+The person is young and has goatee. 
+He is wearing hat. He is young and has goatee.
+This person has goatee. He is wearing hat. He is young.
+He has goatee. He wears hat.

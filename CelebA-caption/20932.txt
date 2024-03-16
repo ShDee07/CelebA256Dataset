@@ -1,0 +1,10 @@
+This person has sideburns. He is attractive.
+This person has goatee. He is attractive.
+He is young and has goatee, and pointy nose. 
+He has wavy hair.
+This person has brown hair, and wavy hair. He is attractive.
+This person has wavy hair, and brown hair. He is attractive. He has beard.
+He has pointy nose, and wavy hair.
+The person has brown hair, pointy nose, wavy hair, and goatee.
+The man has pointy nose, wavy hair, and goatee.
+The person has pointy nose, and goatee. He is young. He has beard.

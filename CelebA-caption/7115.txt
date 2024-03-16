@@ -1,0 +1,10 @@
+This person has mouth slightly open. She is wearing earrings. She is young.
+She is wearing earrings. She has mouth slightly open. She is young.
+She has mouth slightly open and is wearing earrings.
+She wears earrings. She is young and has mouth slightly open.
+This woman wears earrings. She has mouth slightly open. She is young.
+The woman has mouth slightly open. She is young. She wears earrings.
+This woman has mouth slightly open. She is young and wears earrings.
+She is wearing earrings. She has mouth slightly open. She is young.
+She has mouth slightly open. She is young. She is wearing earrings.
+This woman has mouth slightly open. She wears earrings.

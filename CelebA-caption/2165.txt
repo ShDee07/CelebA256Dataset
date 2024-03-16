@@ -1,0 +1,10 @@
+The person has bangs.
+This person has eyeglasses.
+This man has bangs. He is young.
+The man has eyeglasses. He is smiling. He has beard.
+This person has eyeglasses.
+This person is young and has eyeglasses. 
+He has bangs.
+This man has bangs. He is young. He has beard.
+The man has eyeglasses.
+He has eyeglasses. He is smiling.

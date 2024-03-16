@@ -1,0 +1,10 @@
+The man has bangs. He is attractive.
+The person is young and has bushy eyebrows.
+The man has bushy eyebrows.
+The man is young and has wavy hair.
+The person has wavy hair, and bangs.
+He is attractive and has bushy eyebrows, and wavy hair. 
+This person has bushy eyebrows, and bangs.
+The man has bangs, and wavy hair.
+This person is young and has bangs, and wavy hair.
+The man has bangs, and wavy hair. He is young. He has no beard.

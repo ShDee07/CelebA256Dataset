@@ -1,0 +1,10 @@
+The man has eyeglasses, and mouth slightly open. He wears hat. He is young.
+This person has mouth slightly open, and big lips. He is wearing hat.
+This man has big lips. He wears hat. He is young.
+He wears hat. He is young and has eyeglasses.
+This man is young and has big lips, and eyeglasses. 
+The person has eyeglasses, and mouth slightly open. He is young. He is wearing hat. He has no beard.
+He has mouth slightly open and is wearing hat. He is young.
+This person has mouth slightly open. He is young. He wears hat. He has no beard.
+This person wears hat. He has eyeglasses, and mouth slightly open. He is young.
+The person has big lips and wears hat. He is young.

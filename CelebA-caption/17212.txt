@@ -1,0 +1,10 @@
+The man has high cheekbones. He is bald. He has beard.
+This person has eyeglasses. He is bald.
+This person has high cheekbones.
+This man has high cheekbones.
+The man has eyeglasses.
+The person is bald and has eyeglasses.
+The person has eyeglasses.
+He has high cheekbones.
+This man is young and has eyeglasses. 
+This person is bald and has high cheekbones.

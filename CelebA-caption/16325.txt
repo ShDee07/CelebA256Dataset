@@ -1,0 +1,10 @@
+This woman has oval face. She is young. She is wearing hat.
+She has oval face and is wearing hat. She is young.
+The person has oval face and wears hat.
+This person has mouth slightly open. She is wearing hat. She is young.
+This young woman has mouth slightly open. 
+This person is young and has mouth slightly open. 
+The person has mouth slightly open. She is young. She wears hat.
+She has mouth slightly open. She is wearing hat.
+She wears hat. She is young and has oval face.
+The person wears hat. She has oval face. She is young.

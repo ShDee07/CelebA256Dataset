@@ -1,0 +1,10 @@
+This person has pointy nose.
+This person has bushy eyebrows. 
+This man has pointy nose, and bushy eyebrows.
+This man has pointy nose.
+This person has pointy nose, and bags under eyes.
+This person has pointy nose, and bags under eyes.
+This man has bags under eyes, and bushy eyebrows.
+He has bags under eyes.
+He has bags under eyes.
+This person has bushy eyebrows, and pointy nose.

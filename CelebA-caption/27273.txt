@@ -1,0 +1,10 @@
+The man has mouth slightly open, and pointy nose. He is young.
+This person has pointy nose, and mouth slightly open.
+This person is young and has mouth slightly open. 
+The man has mouth slightly open, and bushy eyebrows.
+This person is young and has bushy eyebrows.
+The man has bushy eyebrows. He is young.
+The person has bushy eyebrows.
+The person has pointy nose. He is young. He has no beard.
+This person has mouth slightly open, and pointy nose. He is young.
+This person has bushy eyebrows. He is young.

@@ -1,0 +1,10 @@
+The man has bags under eyes. He is attractive.
+This man is attractive and has bushy eyebrows.
+He has bags under eyes.
+The man has bushy eyebrows.
+The man has big nose.
+This person has big nose, and bags under eyes.
+The man is attractive and has bags under eyes, and big nose. 
+He has bushy eyebrows.
+This person has bushy eyebrows, and big nose. He is attractive.
+The person has bags under eyes. He is attractive.

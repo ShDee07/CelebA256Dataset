@@ -1,0 +1,10 @@
+This man has eyeglasses.
+This person has receding hairline.
+This person has eyeglasses, receding hairline, mouth slightly open, and bags under eyes.
+He has bags under eyes, gray hair, mouth slightly open, and eyeglasses.
+He has bags under eyes, gray hair, mouth slightly open, and eyeglasses.
+The person has mouth slightly open, receding hairline, and gray hair.
+This man has bags under eyes.
+This man has bags under eyes.
+The person has gray hair, bags under eyes, and receding hairline. 
+The person has gray hair, receding hairline, eyeglasses, and bags under eyes.

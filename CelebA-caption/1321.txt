@@ -1,0 +1,10 @@
+This person has eyeglasses, and big nose. She is young.
+This woman has brown hair, and big nose.
+This woman has brown hair, and eyeglasses. She is young.
+She has brown hair.
+This person has brown hair, and big nose.
+She has eyeglasses, and big nose. She is young.
+She is young and has big nose. 
+This woman has eyeglasses.
+This person is young and has big nose.
+She is young and has brown hair. 

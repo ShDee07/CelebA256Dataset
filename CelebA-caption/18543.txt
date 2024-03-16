@@ -1,0 +1,10 @@
+This person has eyeglasses, and big nose.
+This man has goatee, mustache, sideburns, and eyeglasses.
+He is young and has goatee, big nose, and sideburns. 
+This person has big nose, mustache, and sideburns.
+The man has eyeglasses, and sideburns. He is young.
+This person has sideburns.
+The man has mustache. He is young.
+This person has sideburns, and goatee.
+This person is young and has eyeglasses, mustache, goatee, and sideburns. 
+This man has goatee, big nose, and sideburns. He is young. He has beard.

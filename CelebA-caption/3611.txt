@@ -1,0 +1,10 @@
+The woman is wearing lipstick. She has wavy hair, arched eyebrows, and black hair.
+The person is wearing lipstick. She has arched eyebrows, bushy eyebrows, wavy hair, and black hair. She is young.
+The person has arched eyebrows, bushy eyebrows, and pointy nose. She wears heavy makeup. She is young.
+The person has pointy nose. She is young. She is wearing lipstick.
+She has wavy hair. She is wearing lipstick. She is young.
+She wears heavy makeup. She is young and has wavy hair, black hair, bushy eyebrows, and arched eyebrows.
+The woman has black hair. She wears lipstick.
+She is wearing lipstick. She is young and has wavy hair, arched eyebrows, black hair, and bushy eyebrows.
+The woman has black hair, bushy eyebrows, wavy hair, and arched eyebrows. She is young. She wears heavy makeup.
+She wears lipstick. She has black hair. She is young.

@@ -1,0 +1,10 @@
+The person has double chin, and eyeglasses.
+The man has eyeglasses, and double chin.
+The man has eyeglasses.
+He has double chin, and eyeglasses. 
+This person has double chin, and big nose.
+He has big nose.
+The man has big nose, and double chin.
+The man has eyeglasses.
+This person has big nose.
+This man has big nose, and eyeglasses.

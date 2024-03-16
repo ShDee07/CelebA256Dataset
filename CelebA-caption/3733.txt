@@ -1,0 +1,10 @@
+This woman wears lipstick. She has pointy nose. She is young.
+This woman is wearing lipstick. She has brown hair.
+This woman has brown hair and is wearing lipstick. She is young.
+The woman wears lipstick. She has pointy nose.
+She has wavy hair. She is young and wears lipstick.
+This person has pointy nose and wears lipstick.
+The woman has wavy hair and wears lipstick.
+This young woman has wavy hair, and brown hair. 
+This woman has brown hair. She is young and wears lipstick.
+The woman has brown hair and is wearing lipstick.

@@ -1,0 +1,10 @@
+The woman has receding hairline, bags under eyes, and arched eyebrows. She wears lipstick. She is attractive.
+She wears lipstick. She has big lips. She is young.
+She wears lipstick. She is attractive and has bags under eyes.
+She wears lipstick. She has arched eyebrows, receding hairline, and big lips. She is attractive.
+This woman is wearing lipstick. She has bags under eyes.
+The person has arched eyebrows. She wears lipstick. She is attractive.
+The woman is wearing lipstick. She has big lips.
+She wears lipstick. She has bags under eyes, and receding hairline.
+The person has bags under eyes, and big lips. She is attractive and wears lipstick.
+The woman is attractive and has bags under eyes. 

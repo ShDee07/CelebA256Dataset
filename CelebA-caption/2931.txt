@@ -1,0 +1,10 @@
+This person has big nose.
+The person has eyeglasses, and mustache.
+This person has mustache. He is young. He has beard.
+This man has big nose. He is young. He has beard.
+This man has big nose. He is young.
+He has eyeglasses, and big nose.
+This man has big nose. He is young.
+This person is young and has eyeglasses, and mustache. 
+He is young and has mustache, and big nose.
+He is young and has big nose.

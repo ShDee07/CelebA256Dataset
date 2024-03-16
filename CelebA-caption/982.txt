@@ -1,0 +1,10 @@
+This person has pointy nose. She is young and wears lipstick.
+She has pointy nose. She is attractive. She wears lipstick.
+She is wearing lipstick. She is young and has pointy nose.
+The person has bags under eyes and is wearing lipstick. She is attractive.
+The person has arched eyebrows, and pointy nose. She is attractive. She is wearing lipstick.
+This person is attractive and has pointy nose, and arched eyebrows. 
+The person wears lipstick. She has pointy nose, and arched eyebrows.
+The woman is attractive and has pointy nose, and bags under eyes. 
+This woman has arched eyebrows, and bags under eyes and is wearing lipstick. She is young.
+This woman is wearing lipstick. She has bags under eyes, and pointy nose. She is young.

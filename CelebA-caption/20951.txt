@@ -1,0 +1,10 @@
+He is young and has black hair. 
+He has arched eyebrows.
+This person has goatee, black hair, and oval face. He is young.
+The man is young and has arched eyebrows, and oval face. 
+This man has bushy eyebrows, and goatee.
+The man is young and has bushy eyebrows, and goatee. 
+He has arched eyebrows, and black hair. He is young.
+He has goatee.
+This person has bushy eyebrows.
+The person is young and has goatee, arched eyebrows, black hair, and bushy eyebrows.

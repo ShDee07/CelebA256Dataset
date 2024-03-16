@@ -1,0 +1,10 @@
+The person has oval face.
+The person has eyeglasses, and oval face. 
+The person has brown hair.
+He has eyeglasses, and brown hair.
+He has eyeglasses.
+He has eyeglasses.
+This person has brown hair.
+The man has oval face.
+The person has oval face, and eyeglasses.
+The person has oval face, and eyeglasses.

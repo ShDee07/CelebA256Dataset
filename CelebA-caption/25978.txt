@@ -1,0 +1,10 @@
+This person is wearing necktie. He has gray hair.
+The man has receding hairline. He wears necktie.
+The person has receding hairline. He wears necktie.
+He wears necktie. He has receding hairline.
+He wears necktie. He has receding hairline.
+This man has gray hair and wears necktie.
+This man. He wears necktie has receding hairline. 
+He. He is wearing necktie has receding hairline. 
+This person. He wears necktie has gray hair. 
+He has gray hair. He wears necktie. 

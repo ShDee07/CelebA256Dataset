@@ -1,0 +1,10 @@
+This woman has receding hairline. She is wearing lipstick. She is young.
+This person has eyeglasses. She wears lipstick. She is young.
+The person has receding hairline and wears heavy makeup. She is young.
+This person is wearing heavy makeup. She has receding hairline.
+This person is wearing lipstick. She has receding hairline. She is young.
+This person has receding hairline and wears lipstick. She is young.
+The person has eyeglasses and is wearing lipstick.
+This woman has receding hairline and is wearing heavy makeup.
+She is young and has eyeglasses. 
+This person has eyeglasses and wears heavy makeup. She is young.

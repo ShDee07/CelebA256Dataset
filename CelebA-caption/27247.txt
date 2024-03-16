@@ -1,0 +1,10 @@
+The person has gray hair, and big nose. 
+The person has receding hairline, and big nose.
+The man has big nose, and gray hair.
+He has receding hairline.
+This person has gray hair, and receding hairline.
+This man has receding hairline.
+The person has big nose.
+The man has big nose, and receding hairline.
+The man has big nose, and receding hairline.
+This person has gray hair, and receding hairline. 

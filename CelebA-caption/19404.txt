@@ -1,0 +1,10 @@
+He has pointy nose, eyeglasses, and oval face.
+The person is young and has oval face.
+The man has oval face, and sideburns.
+The person is bald and has sideburns, pointy nose, and eyeglasses.
+This man has eyeglasses, sideburns, and pointy nose. He is young. He has beard.
+The person has oval face.
+This person has eyeglasses. He is bald.
+The person is bald and has sideburns. 
+This bald man has sideburns, eyeglasses, and pointy nose. 
+He has oval face, and sideburns.

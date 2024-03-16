@@ -1,0 +1,10 @@
+This person has straight hair, and wavy hair. He is attractive.
+The person is attractive and has wavy hair.
+This man has brown hair, straight hair, and pale skin.
+He is attractive and has bushy eyebrows, and bags under eyes.
+The man is young and has straight hair, and pale skin.
+This man is young and has straight hair, bushy eyebrows, and wavy hair.
+This man is attractive and has wavy hair, brown hair, straight hair, pale skin, and bags under eyes. 
+He has brown hair, bags under eyes, and straight hair.
+He has straight hair, brown hair, bags under eyes, wavy hair, and pale skin. He is attractive.
+This man has bushy eyebrows, and pale skin. He is attractive. He has beard.

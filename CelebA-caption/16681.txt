@@ -1,0 +1,10 @@
+The man is young and has oval face. 
+The man is young and has bushy eyebrows.
+This man has oval face. He is young.
+This person has bushy eyebrows. He is young.
+The man has oval face.
+This man is young and has bushy eyebrows.
+The person has oval face. He is young. He has beard.
+The person is young and has oval face.
+He has bushy eyebrows. He is young. He has beard.
+He has bushy eyebrows.

@@ -1,0 +1,10 @@
+She is attractive and has brown hair.
+The person has eyeglasses.
+She is attractive and has eyeglasses. 
+The woman has brown hair. She is young.
+She has eyeglasses.
+This woman is attractive and has brown hair.
+The woman is attractive and has eyeglasses.
+The person is young and has eyeglasses. 
+This woman is young and has brown hair. 
+This person has brown hair. She is attractive.

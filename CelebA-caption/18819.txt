@@ -1,0 +1,10 @@
+The person has gray hair and wears heavy makeup.
+This attractive person has pointy nose. 
+She is wearing earrings. She has gray hair. She is attractive.
+She has pointy nose and wears heavy makeup. She is attractive.
+The woman has gray hair. She wears heavy makeup. She is attractive.
+She is wearing heavy makeup. She is attractive and has pointy nose.
+The person is attractive and has pointy nose. 
+This person has pointy nose. She wears earrings. She is attractive.
+The person has gray hair and wears earrings. She is attractive.
+She is wearing earrings. She is attractive and has gray hair.

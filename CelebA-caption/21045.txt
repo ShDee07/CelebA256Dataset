@@ -1,0 +1,10 @@
+The man has sideburns, and wavy hair.
+The man has wavy hair.
+The man has eyeglasses, goatee, and wavy hair.
+The person is young and has sideburns, eyeglasses, and wavy hair.
+The man has eyeglasses, and goatee.
+The man is young and has sideburns.
+The man is young and has goatee, and sideburns.
+The person has sideburns, and goatee.
+The man has eyeglasses.
+This man is young and has eyeglasses, wavy hair, and sideburns. 

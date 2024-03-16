@@ -1,0 +1,10 @@
+This person has eyeglasses, and pointy nose.
+The person has mouth slightly open. She is young.
+This woman is young and has eyeglasses.
+The person is young and has mouth slightly open.
+The woman is young and has eyeglasses, and brown hair. 
+This person has pointy nose, and brown hair. She is young.
+The woman is young and has pointy nose, mouth slightly open, and brown hair.
+She is young and has eyeglasses, brown hair, and mouth slightly open.
+This woman has brown hair, eyeglasses, and pointy nose.
+This young person has brown hair. 

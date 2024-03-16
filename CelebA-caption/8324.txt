@@ -1,0 +1,10 @@
+She is wearing lipstick. She is young and has bags under eyes, and big lips.
+She wears lipstick. She has arched eyebrows. She is young.
+The person is wearing lipstick. She has wavy hair.
+This woman has arched eyebrows, bags under eyes, big lips, and brown hair. She wears lipstick. She is young.
+This woman has bags under eyes, big lips, and brown hair. She is wearing lipstick. She is young.
+The woman has wavy hair, brown hair, big lips, and bags under eyes. She is young. She is wearing lipstick.
+The woman is young and has bags under eyes. 
+She wears lipstick. She has big lips, arched eyebrows, and bags under eyes. She is young.
+She wears lipstick. She has arched eyebrows, brown hair, wavy hair, and bags under eyes. She is young.
+The woman is wearing lipstick. She has wavy hair, big lips, brown hair, and arched eyebrows.

@@ -1,0 +1,10 @@
+This person has pointy nose, and sideburns. He is wearing necktie. He is bald.
+The person has pointy nose, and sideburns and wears necktie.
+He has receding hairline, and pointy nose. He is wearing necktie. He is bald.
+The man has sideburns, and receding hairline. He is bald. He wears necktie. He has beard.
+This bald man has eyeglasses, sideburns, and receding hairline. 
+He wears necktie. He is bald and has eyeglasses, sideburns, and pointy nose.
+This bald person has receding hairline, eyeglasses, and sideburns. 
+This bald man has pointy nose. 
+This man has pointy nose, eyeglasses, and sideburns. He is bald. He is wearing necktie. He has beard.
+This man has sideburns. He is bald and wears necktie. He has beard.

@@ -1,0 +1,10 @@
+The person has black hair, and pale skin. She is young. She wears lipstick.
+This person has arched eyebrows. She is young. She is wearing lipstick.
+The person has pale skin, black hair, and arched eyebrows and is wearing lipstick. She is young.
+She wears lipstick. She has arched eyebrows, and pale skin.
+This woman has black hair, pale skin, and pointy nose. She is young. She is wearing lipstick.
+The person has pale skin. She is young. She is wearing lipstick.
+She wears lipstick. She has arched eyebrows, and black hair. She is young.
+The woman has arched eyebrows, pale skin, and pointy nose. She is young and is wearing lipstick.
+The woman has pointy nose. She is wearing lipstick.
+This person has pointy nose, black hair, and arched eyebrows. She is young and is wearing lipstick.

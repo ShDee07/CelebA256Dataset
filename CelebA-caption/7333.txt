@@ -1,0 +1,10 @@
+This person has brown hair, goatee, mustache, and bushy eyebrows.
+This young person has mustache, and brown hair. 
+This man has sideburns, goatee, and brown hair.
+This person has mustache.
+The person has mustache, and bushy eyebrows. He is young.
+The man has bushy eyebrows, sideburns, and mustache.
+The man is young and has goatee, brown hair, and bushy eyebrows.
+The man has goatee. He is young.
+This person is young and has goatee, and mustache. 
+This man is young and has bushy eyebrows, brown hair, and sideburns. 

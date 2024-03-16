@@ -1,0 +1,10 @@
+The person is attractive and has straight hair. 
+This man has straight hair. He is wearing necktie. He is attractive.
+The man has straight hair. He is attractive and is wearing necktie. He has beard.
+He is attractive and has straight hair. 
+The man wears necktie. He has straight hair.
+He has bags under eyes. He is attractive. He is wearing necktie. He has beard.
+The person has bags under eyes. He is attractive and is wearing necktie. He has beard.
+The man wears necktie. He has straight hair.
+He wears necktie. He has straight hair.
+The person has bags under eyes. He is attractive and wears necktie. He has beard.

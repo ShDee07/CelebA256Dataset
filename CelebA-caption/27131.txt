@@ -1,0 +1,10 @@
+This man has sideburns and is wearing necktie.
+The person is wearing necktie. He has sideburns.
+The person has goatee, pointy nose, and sideburns. He wears necktie.
+He is wearing necktie. He has sideburns, and pointy nose.
+He wears necktie. He has pointy nose, sideburns, and brown hair. He.
+This person is wearing necktie. He has pointy nose, and brown hair.
+The person has pointy nose, sideburns, and goatee and wears necktie.
+He wears necktie. He has pointy nose, and brown hair.
+He has goatee, and pointy nose and wears necktie. 
+The man has brown hair, and pointy nose and wears necktie.

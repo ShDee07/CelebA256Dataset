@@ -1,0 +1,10 @@
+This person has bushy eyebrows, and brown hair. He is young.
+This man has brown hair, straight hair, and bushy eyebrows. He is young. He has no beard.
+This man has straight hair. He is young.
+This person has straight hair. He is young.
+This person has brown hair, and straight hair. He is young. He has no beard.
+This man is young and has brown hair, oval face, bangs, and straight hair. 
+This person is young and has oval face, and bushy eyebrows.
+This man has oval face, bushy eyebrows, brown hair, and bangs.
+He has oval face.
+This man has bangs, straight hair, oval face, and brown hair. He is young. He has no beard.

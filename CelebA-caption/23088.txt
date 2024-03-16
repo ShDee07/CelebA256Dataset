@@ -1,0 +1,10 @@
+This person has oval face and wears earrings.
+He is young and has goatee. 
+This person has oval face. He is wearing earrings. He is young.
+This man has goatee and wears earrings.
+He is young and has oval face. 
+This person has goatee and is wearing earrings. He is young.
+The person is young and has goatee. 
+He has goatee. He is wearing earrings. He is young.
+The man has oval face. He is young. He wears earrings. He has beard.
+The person has oval face and is wearing earrings. He is young.

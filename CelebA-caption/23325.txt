@@ -1,0 +1,10 @@
+This woman has wavy hair and wears lipstick. She is young.
+This person has wavy hair. She is young and is wearing lipstick.
+The woman has bags under eyes. She is attractive and wears lipstick.
+The woman wears lipstick. She has bags under eyes. She is attractive.
+This woman has bags under eyes. She is attractive and is wearing lipstick.
+This person has wavy hair. She is wearing lipstick. She is attractive.
+This person has bags under eyes. She wears lipstick.
+She has bags under eyes. She is attractive and is wearing lipstick.
+She is attractive and has wavy hair. 
+This person is attractive and has bags under eyes. 

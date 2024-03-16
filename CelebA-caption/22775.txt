@@ -1,0 +1,10 @@
+This man has bags under eyes, and sideburns. 
+He has bags under eyes, and bushy eyebrows.
+He has bags under eyes, and bushy eyebrows.
+The person has goatee.
+The person has bags under eyes, and goatee.
+This person has bags under eyes, bushy eyebrows, and sideburns.
+The man has bushy eyebrows, sideburns, and goatee. 
+The man has goatee, bushy eyebrows, and bags under eyes.
+The man has goatee, bushy eyebrows, and bags under eyes.
+He has sideburns, and goatee.

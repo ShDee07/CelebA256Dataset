@@ -1,0 +1,10 @@
+The person has oval face. She is young. She is wearing earrings.
+She has oval face and is wearing necklace. She is young.
+She has oval face. She wears necklace. She is young.
+This woman wears earrings. She has brown hair. She is young.
+This young person has oval face. 
+This woman has oval face. She is young. She wears necklace.
+This woman is young and has brown hair. 
+The woman wears earrings. She has brown hair.
+She wears earrings. She is young and has brown hair.
+The person has oval face and wears earrings. She is young.

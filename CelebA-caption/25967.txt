@@ -1,0 +1,10 @@
+The person is chubby and has arched eyebrows. 
+This man is bald and has bags under eyes, and arched eyebrows. 
+He is wearing necktie. He is bald and has bags under eyes.
+This bald man has arched eyebrows. 
+This person wears necktie. He has bags under eyes, and oval face. He is chubby.
+This person has oval face. He is bald and wears necktie. He has no beard.
+This bald man has arched eyebrows, and bags under eyes. 
+He wears necktie. He has arched eyebrows, and bags under eyes. He is chubby.
+The man has arched eyebrows, and oval face. He is wearing necktie. He is chubby.
+This person has oval face, and arched eyebrows. He is bald and wears necktie. He has no beard.

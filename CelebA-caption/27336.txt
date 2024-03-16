@@ -1,0 +1,10 @@
+This man has bushy eyebrows. He is young.
+He has bushy eyebrows, pointy nose, and pale skin.
+This man has pale skin, and straight hair.
+This man has straight hair, and mouth slightly open.
+He is young and has straight hair, and pointy nose.
+This person has bushy eyebrows, straight hair, pale skin, and mouth slightly open.
+This person has pale skin, mouth slightly open, bushy eyebrows, and pointy nose. He is young. He has beard.
+He is young and has straight hair, mouth slightly open, bushy eyebrows, and pointy nose. 
+This person has bushy eyebrows, straight hair, and pale skin.
+This person has straight hair, and pointy nose. He is young.

@@ -1,0 +1,10 @@
+The woman has brown hair. She is young and wears necklace.
+The person has brown hair. She wears necklace. She is attractive.
+The person has brown hair. She is young. She is wearing heavy makeup.
+This woman has brown hair and is wearing necklace.
+The woman has brown hair. She is young. She wears heavy makeup.
+The person has brown hair. She is wearing necklace.
+She wears necklace. She has brown hair. She is young.
+This person has brown hair and is wearing heavy makeup. She is young.
+This woman is attractive and has brown hair. 
+This person has brown hair and is wearing heavy makeup.

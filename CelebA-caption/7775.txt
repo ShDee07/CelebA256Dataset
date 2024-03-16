@@ -1,0 +1,10 @@
+This man has eyeglasses, and black hair. He is young. He has no beard.
+He has mouth slightly open, big nose, eyeglasses, and wavy hair.
+The man has big nose.
+He has black hair, and mouth slightly open. He is young. He has no beard.
+This man is young and has eyeglasses, and wavy hair.
+The man has eyeglasses, big nose, and black hair. He is young.
+The man has eyeglasses, big nose, and mouth slightly open.
+The person has black hair.
+The man has mouth slightly open, eyeglasses, and black hair. He is young. He has no beard.
+The person is young and has eyeglasses, black hair, and mouth slightly open. 

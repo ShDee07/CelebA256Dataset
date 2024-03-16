@@ -1,0 +1,10 @@
+The woman is attractive and has brown hair. 
+The person has bags under eyes and wears heavy makeup, and lipstick. She is attractive.
+She is young and has bags under eyes. 
+The woman has bags under eyes. She is wearing heavy makeup. She is young.
+This young woman has brown hair. 
+She is wearing earrings, and lipstick. She is young and has brown hair.
+This woman has bags under eyes. She wears heavy makeup. She is young.
+This attractive person has brown hair. 
+This young person has brown hair. 
+This person has brown hair. She is young. She wears lipstick, and earrings.

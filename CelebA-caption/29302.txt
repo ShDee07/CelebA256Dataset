@@ -1,0 +1,10 @@
+The person has mustache.
+He is young and has mustache, oval face, and eyeglasses. 
+The man has mustache, eyeglasses, and big nose. He is young.
+The man has eyeglasses, and big nose.
+He has eyeglasses, and oval face. He is young.
+This person has big nose, mustache, and oval face.
+This man has oval face, big nose, and mustache.
+This person has big nose, eyeglasses, and oval face.
+This person has big nose, mustache, and eyeglasses. He is young.
+He is young and has oval face.

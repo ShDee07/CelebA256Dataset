@@ -1,0 +1,10 @@
+She is wearing lipstick. She is young and has arched eyebrows.
+This person is wearing lipstick. She has bangs. She is young.
+This person has bangs and wears lipstick. She is young.
+The person has bangs and wears lipstick.
+The woman has bangs and wears lipstick.
+The woman has bangs. She is young and wears lipstick.
+This young woman has arched eyebrows. 
+This woman has arched eyebrows. She is young and wears lipstick.
+The woman is wearing lipstick. She has arched eyebrows.
+This person has arched eyebrows. She is young. She is wearing lipstick.

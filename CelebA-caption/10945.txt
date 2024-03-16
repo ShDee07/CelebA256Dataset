@@ -1,0 +1,10 @@
+This person has wavy hair. She is young. She is wearing lipstick.
+She is wearing lipstick. She is young and has wavy hair, and bushy eyebrows.
+She wears heavy makeup. She has mouth slightly open.
+This person has bushy eyebrows. She wears heavy makeup.
+This person has mouth slightly open and is wearing lipstick. She is young.
+She is young and has wavy hair. 
+This woman is young and has bushy eyebrows, and mouth slightly open. 
+The woman has bushy eyebrows. She wears lipstick.
+This woman is young and has bushy eyebrows. 
+The person has mouth slightly open, and bushy eyebrows. She is young. She wears lipstick.

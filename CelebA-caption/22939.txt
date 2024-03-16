@@ -1,0 +1,10 @@
+This person wears earrings. She has wavy hair.
+She is wearing lipstick, and heavy makeup. She has brown hair, and pointy nose. She is young.
+She is wearing heavy makeup. She is young and has pointy nose.
+The person has brown hair and wears earrings, and lipstick.
+This person is young and has pointy nose, and wavy hair. 
+This person has brown hair and wears earrings, and heavy makeup. She is young.
+She is wearing lipstick, and earrings. She is young and has brown hair.
+This woman has pointy nose. She is young. She is wearing heavy makeup, and earrings.
+The person is young and has brown hair, and wavy hair. 
+The person has wavy hair, and pointy nose. She is young and is wearing earrings.

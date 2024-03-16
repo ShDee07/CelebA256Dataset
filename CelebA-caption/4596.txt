@@ -1,0 +1,10 @@
+The man has bags under eyes, and sideburns. He is attractive. He has beard.
+The person has sideburns, bags under eyes, and mustache. He is attractive. He has beard.
+The person is attractive and has goatee.
+The person has goatee, and mustache. He is attractive.
+This man is attractive and has bags under eyes, and sideburns.
+This attractive person has goatee. 
+This man has mustache, bags under eyes, and sideburns.
+This person is attractive and has bags under eyes, and sideburns.
+This man has goatee. He is attractive.
+The person has bags under eyes, and goatee.

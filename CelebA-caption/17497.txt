@@ -1,0 +1,10 @@
+The man has bushy eyebrows, and pointy nose and wears hat.
+The man has bushy eyebrows, and pointy nose. He wears hat.
+He wears hat. He has mouth slightly open, and pointy nose. He is young.
+This man wears hat. He has bushy eyebrows.
+He wears hat. He is young and has bushy eyebrows.
+This young man has mouth slightly open, and bushy eyebrows. 
+This person has bushy eyebrows, and mouth slightly open. He wears hat.
+This young person has bushy eyebrows, and mouth slightly open. 
+He wears hat. He is young and has mouth slightly open.
+The person is wearing hat. He has mouth slightly open, and bushy eyebrows.

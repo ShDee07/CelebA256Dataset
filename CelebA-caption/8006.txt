@@ -1,0 +1,10 @@
+This person has bushy eyebrows, oval face, and black hair. She is wearing earrings. She is young.
+She has oval face, bushy eyebrows, and arched eyebrows. She is young and is wearing earrings.
+This young person has oval face. 
+This woman has black hair, arched eyebrows, and bushy eyebrows. She is young. She wears earrings.
+The woman has arched eyebrows, black hair, and bushy eyebrows. She is wearing earrings.
+The woman is young and has bushy eyebrows. 
+She wears earrings. She has arched eyebrows, oval face, and black hair. She is young.
+She wears earrings. She is young and has black hair.
+She wears earrings. She has oval face.
+She has oval face, and arched eyebrows. She is young. She wears earrings.

@@ -1,0 +1,10 @@
+The person is wearing necktie. He has oval face. He is attractive.
+The man has oval face, and arched eyebrows and is wearing necktie. He is bald.
+The person has arched eyebrows. He is bald. He wears necktie. He has beard.
+He has arched eyebrows and wears necktie.
+He wears necktie. He is bald and has oval face.
+He is attractive and has sideburns. 
+The person is attractive and has oval face, and arched eyebrows. 
+This man is bald and has oval face. 
+He has oval face, and sideburns. He is wearing necktie.
+The person has oval face. He is attractive. He wears necktie. He has beard.

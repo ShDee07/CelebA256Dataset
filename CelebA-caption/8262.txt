@@ -1,0 +1,10 @@
+This man has gray hair, and bags under eyes. He is wearing hat.
+The man has receding hairline. He is chubby. He wears hat. He has beard.
+The person has gray hair, mustache, receding hairline, and goatee. He is chubby and wears hat. He has beard.
+The person has receding hairline and is wearing hat. He is chubby.
+He wears hat. He is chubby and has goatee, gray hair, receding hairline, bags under eyes, and big nose.
+This person has big nose, goatee, mustache, bags under eyes, and gray hair. He wears hat.
+He is chubby and has goatee, and receding hairline. 
+He has gray hair, and bags under eyes. He is chubby and wears hat. He has beard.
+The man is wearing hat. He has receding hairline, bags under eyes, and gray hair. He is chubby.
+The man wears hat. He has goatee, big nose, receding hairline, mustache, and bags under eyes. He is chubby.

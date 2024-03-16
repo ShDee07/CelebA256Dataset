@@ -1,0 +1,10 @@
+This man has oval face.
+The person is attractive and has black hair.
+The person has pointy nose. He is young. He has no beard.
+This man is young and has oval face, and pointy nose.
+This person is attractive and has black hair. 
+The person is young and has oval face.
+This man is attractive and has oval face, and pointy nose. 
+This person is young and has pointy nose.
+He is attractive and has black hair.
+The man is young and has black hair, and pointy nose.

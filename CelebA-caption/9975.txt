@@ -1,0 +1,10 @@
+The person has arched eyebrows. She is attractive and is wearing lipstick.
+She wears necklace. She is attractive and has arched eyebrows.
+This woman has arched eyebrows and wears lipstick. She is attractive.
+This person is wearing necklace. She has arched eyebrows.
+The person has wavy hair and wears necklace. She is young.
+This person has wavy hair. She is attractive and is wearing necklace.
+She is wearing necklace. She has wavy hair. She is attractive.
+She is young and has wavy hair. 
+She is wearing lipstick. She has arched eyebrows. She is young.
+This person has wavy hair and is wearing necklace.

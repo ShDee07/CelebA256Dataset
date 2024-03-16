@@ -1,0 +1,10 @@
+The person has big lips, mustache, eyeglasses, and oval face. He is young. He has beard.
+This man has goatee, mustache, eyeglasses, and oval face.
+This person has mustache. He is young.
+The person is young and has big lips, eyeglasses, oval face, and goatee.
+He is young and has goatee, big lips, mustache, and oval face. 
+The person has mustache, eyeglasses, and goatee. He is young.
+This man has goatee, big lips, and eyeglasses. He is young.
+This person has eyeglasses, mustache, oval face, and big lips. He is young.
+The man has oval face. He is young.
+This person has goatee, big lips, mustache, and eyeglasses.

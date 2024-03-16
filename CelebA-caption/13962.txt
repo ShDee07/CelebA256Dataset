@@ -1,0 +1,10 @@
+The person has black hair and is wearing earrings. She is young.
+This person has black hair. She is young. She is wearing earrings.
+The woman has black hair. She is young and wears earrings.
+The person is young and has wavy hair. 
+She is young and has wavy hair. 
+The person is young and has black hair. 
+This person has wavy hair. She is wearing earrings.
+This woman has wavy hair. She is young. She is wearing earrings.
+This person wears earrings. She has wavy hair. She is young.
+This person has black hair. She is wearing earrings.

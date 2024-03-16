@@ -1,0 +1,10 @@
+This woman is wearing lipstick. She has blond hair, eyeglasses, and pointy nose.
+She is wearing necklace. She has blond hair, eyeglasses, and pointy nose.
+She is wearing necklace. She has eyeglasses.
+She is wearing lipstick. She has pointy nose, and eyeglasses.
+This woman has blond hair, and eyeglasses. She wears necklace.
+The person has eyeglasses, and pointy nose and wears necklace. 
+This person has pointy nose. She is wearing lipstick.
+She is wearing lipstick. She has blond hair, and eyeglasses.
+The woman has wavy hair and is wearing lipstick.
+The person has blond hair, eyeglasses, and pointy nose and is wearing necklace.

@@ -1,0 +1,10 @@
+This man has big nose. He is chubby. He has no beard.
+The person has big nose, and double chin.
+The man has receding hairline.
+He has double chin, and receding hairline.
+The person has receding hairline, and eyeglasses.
+This person has receding hairline. He is chubby. He has no beard.
+This man has receding hairline.
+This man has big nose. He is chubby. He has no beard.
+The man is chubby and has double chin, big nose, and receding hairline. 
+This person has eyeglasses, and double chin. He is chubby.

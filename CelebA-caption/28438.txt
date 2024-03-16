@@ -1,0 +1,10 @@
+He is wearing hat. He is young and has eyeglasses.
+This person is young and has eyeglasses. 
+This person has eyeglasses and wears hat.
+The person is young and has eyeglasses. 
+He has eyeglasses and is wearing hat. He is young.
+The man wears hat. He has eyeglasses.
+The person is wearing hat. He has eyeglasses.
+He is wearing hat. He is young and has eyeglasses.
+The man is young and has eyeglasses. 
+This man has eyeglasses. He wears hat. He is young.

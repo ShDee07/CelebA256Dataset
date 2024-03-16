@@ -1,0 +1,10 @@
+The man has wavy hair. He is attractive.
+He has wavy hair.
+He is attractive and has wavy hair.
+He has wavy hair.
+This person has bangs.
+He has bangs. He is attractive.
+The person has bangs. He is attractive. He has no beard.
+The person has bangs. He is young. He has no beard.
+This person has wavy hair.
+This person has wavy hair.

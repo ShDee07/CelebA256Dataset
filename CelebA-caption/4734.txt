@@ -1,0 +1,10 @@
+The man has sideburns, bags under eyes, and pointy nose. He is attractive. He is wearing hat. He has beard.
+He wears hat. He has goatee, bags under eyes, and pointy nose.
+He has sideburns and is wearing necktie.
+He has sideburns and wears necktie.
+The person has sideburns, and bags under eyes. He is wearing hat.
+The man has bags under eyes, sideburns, and goatee. He is wearing necktie.
+The person has goatee, and sideburns and is wearing necktie.
+He wears necktie. He is attractive and has bags under eyes, and sideburns.
+He is wearing necktie. He has pointy nose. He is attractive.
+The person has goatee, pointy nose, and bags under eyes. He is attractive. He wears hat. He has beard.

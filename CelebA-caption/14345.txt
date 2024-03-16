@@ -1,0 +1,10 @@
+The person has black hair, and straight hair and wears lipstick. She is attractive.
+She has straight hair and wears lipstick.
+She wears lipstick. She has straight hair.
+The person has black hair and is wearing lipstick. She is attractive.
+She has bushy eyebrows, and straight hair and wears lipstick.
+She wears lipstick. She is attractive and has black hair.
+This woman has black hair, and bushy eyebrows. She wears lipstick.
+She wears lipstick. She is young and has bushy eyebrows, and straight hair.
+She has straight hair and is wearing lipstick.
+The woman is wearing lipstick. She has straight hair, and bushy eyebrows.

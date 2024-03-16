@@ -1,0 +1,10 @@
+The person has arched eyebrows, and blond hair and wears lipstick. She is attractive.
+She is wearing heavy makeup. She has blond hair.
+The person has bangs and is wearing lipstick.
+The woman is attractive and has blond hair. 
+The woman is wearing lipstick. She has bangs.
+She wears lipstick. She has blond hair, and bangs. She is attractive.
+She is wearing heavy makeup. She has arched eyebrows, and blond hair.
+The woman has arched eyebrows and wears heavy makeup.
+The person is attractive and has blond hair, and bangs. 
+The woman is attractive and has bangs, and arched eyebrows. 

@@ -1,0 +1,10 @@
+The man is young and has bags under eyes, and mustache.
+The man has mustache, and goatee. He is young.
+The man has bags under eyes.
+The person has goatee.
+The man has eyeglasses, and big nose. He is young. He has beard.
+This young person has sideburns, mustache, wavy hair, eyeglasses, and big nose. 
+This young man has wavy hair, sideburns, and eyeglasses. 
+The man has bags under eyes, big nose, eyeglasses, mustache, and wavy hair. He is young. He has beard.
+The man has wavy hair, and bags under eyes. He is young. He has beard.
+This man has big nose, eyeglasses, mustache, and sideburns. He is young.

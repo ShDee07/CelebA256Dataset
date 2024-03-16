@@ -1,0 +1,10 @@
+The man has goatee, big nose, bushy eyebrows, and big lips. He is young. He has beard.
+He has goatee, bushy eyebrows, big nose, and mustache. He is young. He has beard.
+The person has big lips, and mustache. He is attractive. He has beard.
+The person has big nose. He is young.
+The person has goatee, bushy eyebrows, mustache, and big nose. He is attractive. He has beard.
+This person is young and has bushy eyebrows, mustache, goatee, and big lips. 
+This person is attractive and has mustache, bushy eyebrows, goatee, and big lips. 
+He is young and has bushy eyebrows, big nose, goatee, and big lips. 
+The person has big nose.
+The person is attractive and has goatee, big nose, and mustache. 

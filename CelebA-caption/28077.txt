@@ -1,0 +1,10 @@
+This person has wavy hair. She is young.
+The woman has narrow eyes, bushy eyebrows, and black hair.
+She is young and has black hair, and narrow eyes. 
+This woman is young and has narrow eyes, wavy hair, and bushy eyebrows.
+The person has narrow eyes, and wavy hair.
+The woman has black hair, and narrow eyes.
+This person has black hair, and narrow eyes.
+The person has bushy eyebrows.
+The woman is young and has wavy hair, and black hair.
+This woman has bushy eyebrows. She is young.

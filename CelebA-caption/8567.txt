@@ -1,0 +1,10 @@
+He has eyeglasses, and sideburns.
+The person has sideburns, and big nose.
+This man is bald and has eyeglasses.
+He has big nose, and eyeglasses.
+The man has sideburns. He is bald.
+The man has big nose. He is chubby. He has beard.
+The man has sideburns, and big nose. He is bald.
+He is chubby and has eyeglasses, and sideburns.
+The person is chubby and has eyeglasses. 
+This person has eyeglasses.

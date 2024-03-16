@@ -1,0 +1,10 @@
+The person has big lips, and bangs. She is wearing heavy makeup. She is attractive.
+The person has brown hair. She is wearing heavy makeup.
+The person wears heavy makeup. She has brown hair, and bangs.
+The person has bangs. She is attractive and wears heavy makeup.
+This woman has brown hair and wears heavy makeup. She is young.
+She wears earrings. She has brown hair. She is attractive.
+This woman has bangs and is wearing earrings.
+This woman is young and has bangs, and brown hair. 
+She has bangs. She is attractive. She is wearing earrings.
+This person has bangs. She is young and wears earrings.

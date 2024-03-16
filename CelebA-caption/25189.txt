@@ -1,0 +1,10 @@
+This man has brown hair. He is young and wears necklace. He has no beard.
+He has brown hair. He wears necklace.
+He is wearing necklace. He is young and has brown hair.
+This young man has brown hair. 
+The person wears necklace. He has brown hair. He is young.
+This person has brown hair. He is young and is wearing necklace. He has no beard.
+This young man has brown hair. 
+This man is wearing necklace. He has brown hair.
+This man has brown hair and wears necklace. He is young.
+This young man has brown hair. 

@@ -1,0 +1,10 @@
+The person has mustache. He is young.
+The person is young and has narrow eyes, and mustache.
+The person has big nose, and goatee. He is young.
+This man has narrow eyes, and big nose. He is young. He has beard.
+The person has mustache, goatee, big nose, and narrow eyes. He is young. He has beard.
+The man is young and has mustache, and bags under eyes. 
+This man has narrow eyes.
+The man has goatee, bags under eyes, and big nose. He is young. He has beard.
+The man is young and has narrow eyes, and big nose.
+The person has bags under eyes, big nose, and narrow eyes.

@@ -1,0 +1,10 @@
+This man has oval face, and receding hairline.
+This man has high cheekbones, and bags under eyes.
+The person has receding hairline, bags under eyes, and eyeglasses.
+This person has high cheekbones, receding hairline, oval face, and bags under eyes.
+The person has receding hairline, and eyeglasses.
+This man has bags under eyes, and eyeglasses. 
+This person has eyeglasses. 
+This person has oval face, bags under eyes, eyeglasses, and receding hairline.
+The person has eyeglasses, and high cheekbones.
+This man has eyeglasses, and receding hairline.

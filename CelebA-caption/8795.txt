@@ -1,0 +1,10 @@
+The person has bags under eyes.
+This person is young and has straight hair.
+The man is young and has big nose.
+This man has straight hair.
+This person is young and has big nose, and bags under eyes. 
+The man has bags under eyes, and big nose.
+He is young and has bags under eyes. 
+The person is young and has big nose, and straight hair.
+This person is young and has bags under eyes, and straight hair.
+The person has bags under eyes, and big nose. He is young. He has no beard.

@@ -1,0 +1,10 @@
+The woman has blond hair. She is wearing necklace. She is young.
+The person has blond hair, receding hairline, and straight hair and wears necklace. She is young.
+This person has receding hairline, and straight hair. She is young. She is wearing necklace.
+The woman is young and has eyeglasses, and receding hairline. 
+She has eyeglasses, straight hair, and receding hairline and is wearing necklace.
+The person is wearing necklace. She has receding hairline. She is young.
+She has eyeglasses, and receding hairline. She is young and wears necklace.
+This woman is young and has blond hair, and eyeglasses. 
+She has blond hair, eyeglasses, and straight hair and wears necklace. She is young.
+She has straight hair, blond hair, and eyeglasses. She is wearing necklace. She is young.

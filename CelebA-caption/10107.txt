@@ -1,0 +1,10 @@
+This man has big nose. He is young. He has beard.
+This person has big nose.
+The person has sideburns.
+This person has big nose. He is young. He has beard.
+The person has sideburns. He is young. He has beard.
+He is young and has sideburns.
+This man has big nose. He is young. He has beard.
+The man is young and has sideburns.
+This person has big nose.
+This man is young and has big nose.

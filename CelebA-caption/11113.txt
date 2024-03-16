@@ -1,0 +1,10 @@
+The person has pointy nose. She wears lipstick. She is attractive.
+This person has pointy nose, and oval face. She is attractive. She wears heavy makeup.
+She wears lipstick. She has wavy hair. She is young.
+She is wearing lipstick. She is young and has big lips, wavy hair, and oval face.
+This person has big lips, and wavy hair. She wears lipstick.
+The person is young and has pointy nose. 
+This person has oval face and wears lipstick. She is young.
+She wears lipstick. She has pointy nose, wavy hair, and big lips. She is young.
+This person is young and has wavy hair, and oval face. 
+The woman wears lipstick. She has big lips, oval face, and pointy nose. She is young.

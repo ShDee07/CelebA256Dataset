@@ -1,0 +1,10 @@
+This person has arched eyebrows. He is wearing hat.
+This man has bushy eyebrows. He is young. He wears hat. He has no beard.
+He has arched eyebrows. He is young and is wearing hat. He has no beard.
+He is wearing hat. He is young and has bushy eyebrows.
+The person has bushy eyebrows. He is wearing hat. He is young.
+This person is young and has arched eyebrows. 
+This man has arched eyebrows. He wears hat.
+The person is wearing hat. He has bushy eyebrows.
+The man has bushy eyebrows. He is young and is wearing hat. He has no beard.
+The man wears hat. He has bushy eyebrows. He is young.

@@ -1,0 +1,10 @@
+The man has big nose, and brown hair. He is young. He is wearing necktie. He has no beard.
+The man has bags under eyes, wavy hair, and big nose. He is attractive. He wears necktie. He has no beard.
+He is wearing necktie. He has wavy hair, brown hair, and bags under eyes. He is young.
+The man has big nose. He is young and wears necktie. He has no beard.
+The man has brown hair, wavy hair, and bags under eyes. He is wearing necktie.
+He has bags under eyes, brown hair, and big nose. He is attractive and wears necktie. He has no beard.
+This person is attractive and has brown hair. 
+This man has big nose. He is wearing necktie.
+He has big nose. He is attractive. He wears necktie. He has no beard.
+The person has brown hair, and wavy hair. He wears necktie. He is young.

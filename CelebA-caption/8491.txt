@@ -1,0 +1,10 @@
+This man is young and has straight hair.
+This man has bags under eyes, mouth slightly open, and straight hair. He is young.
+The man has straight hair, and bags under eyes. He is young.
+This man has black hair, and bushy eyebrows. He is young.
+This man has straight hair, and mouth slightly open.
+The man has straight hair, bags under eyes, bushy eyebrows, and mouth slightly open. He is young.
+This person has bags under eyes, mouth slightly open, and bushy eyebrows.
+He is young and has bushy eyebrows, straight hair, bags under eyes, and mouth slightly open.
+This man is young and has straight hair, bushy eyebrows, and black hair. 
+The person is young and has bushy eyebrows, black hair, straight hair, and bags under eyes.

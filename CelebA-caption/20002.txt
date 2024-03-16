@@ -1,0 +1,10 @@
+This man has black hair. He wears hat.
+This person has black hair. He wears hat.
+The man has black hair. He is wearing hat.
+This man has black hair and is wearing hat. 
+He wears hat. He has black hair.
+The person and is wearing hat has black hair. 
+He wears hat. He has black hair.
+This man has black hair and is wearing hat.
+This man has black hair. He is wearing hat.
+This person has big nose. He is wearing hat. 

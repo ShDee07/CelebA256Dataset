@@ -1,0 +1,10 @@
+This woman wears necklace. She has straight hair. She is young.
+She wears necklace. She is young and has straight hair, and mouth slightly open.
+This woman has oval face, and straight hair. She wears necklace.
+She has oval face. She is young. She wears earrings.
+The person has oval face and wears earrings.
+This woman is young and has oval face, and mouth slightly open. 
+She is wearing earrings. She has oval face, and mouth slightly open. She is young.
+This young woman has oval face, and mouth slightly open. 
+She is wearing necklace. She has mouth slightly open, and oval face. She is young.
+The woman has mouth slightly open, and straight hair and wears necklace.

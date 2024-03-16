@@ -1,0 +1,10 @@
+This young man has bushy eyebrows, goatee, and sideburns. 
+This man has bushy eyebrows, brown hair, goatee, sideburns, and straight hair. He is young.
+The person has sideburns, and straight hair. He is young. He has beard.
+This man is young and has arched eyebrows.
+He has straight hair, arched eyebrows, and goatee. He is young. He has beard.
+The person has brown hair, and straight hair. He is young. He has beard.
+This man is young and has bushy eyebrows, straight hair, sideburns, goatee, and brown hair. 
+He has goatee, straight hair, arched eyebrows, sideburns, and brown hair. He is young. He has beard.
+This person is young and has arched eyebrows, brown hair, bushy eyebrows, and goatee.
+This person has sideburns, arched eyebrows, goatee, and straight hair.

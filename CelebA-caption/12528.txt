@@ -1,0 +1,10 @@
+This man has pointy nose, bushy eyebrows, black hair, mustache, sideburns, and goatee.
+The person has bushy eyebrows, big nose, and goatee.
+The person has bushy eyebrows, big nose, and goatee.
+The man has sideburns, big nose, mustache, and bushy eyebrows.
+This person has black hair.
+The man has goatee, sideburns, big nose, black hair, mustache, and bushy eyebrows.
+The man has pointy nose, big nose, mustache, bushy eyebrows, and goatee.
+The person has black hair, pointy nose, mustache, sideburns, goatee, and big nose.
+The person has pointy nose, bushy eyebrows, and mustache.
+The man has bushy eyebrows, and sideburns.

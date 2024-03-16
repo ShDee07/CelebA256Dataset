@@ -1,0 +1,10 @@
+The man has narrow eyes. He is young.
+He is young and has bushy eyebrows, black hair, sideburns, straight hair, and mustache.
+This man is young and has sideburns, mustache, narrow eyes, black hair, and straight hair. 
+The person has sideburns, straight hair, black hair, mustache, bushy eyebrows, and goatee.
+This person has black hair, and goatee. He is young.
+He is young and has sideburns, narrow eyes, straight hair, black hair, goatee, and mustache.
+The man has goatee, narrow eyes, straight hair, and mustache. He is young. He has beard.
+This man has sideburns, narrow eyes, straight hair, bushy eyebrows, and mustache. He is young. He has beard.
+This man is young and has bushy eyebrows, sideburns, narrow eyes, black hair, and mustache.
+This man has goatee, sideburns, black hair, and bushy eyebrows. He is young. He has beard.

@@ -1,0 +1,10 @@
+This man has straight hair. He is attractive. He has beard.
+This person has sideburns, pointy nose, and mustache. He is attractive.
+This person is attractive and has pointy nose, and straight hair.
+The man has straight hair, goatee, sideburns, brown hair, and pointy nose.
+The man has goatee, straight hair, brown hair, pointy nose, and sideburns.
+The person has brown hair, and straight hair.
+He has pointy nose, mustache, and brown hair. He is attractive. He has beard.
+This man has goatee, mustache, and sideburns.
+The person has brown hair, pointy nose, goatee, and straight hair.
+He is attractive and has goatee, pointy nose, sideburns, and mustache. 

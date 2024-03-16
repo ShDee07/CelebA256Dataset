@@ -1,0 +1,10 @@
+The person is young and has bushy eyebrows, and straight hair. 
+The person is young and has oval face, and straight hair. 
+This person is young and has bushy eyebrows, and straight hair.
+This woman is young and has oval face.
+This woman is young and has bushy eyebrows, and oval face.
+She has oval face, and bushy eyebrows. She is young.
+She has bushy eyebrows, and oval face. She is young.
+She has bushy eyebrows, and straight hair. She is young.
+The person has oval face, and bushy eyebrows. She is young.
+This woman has oval face, and straight hair. She is young.

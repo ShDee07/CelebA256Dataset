@@ -1,0 +1,10 @@
+This person is bald and has gray hair.
+He has gray hair. He is bald. He has no beard.
+This man has pointy nose.
+The man has pointy nose. He is bald.
+He has gray hair.
+The man is bald and has pointy nose.
+The person is bald and has pointy nose. 
+The man has gray hair. He is bald.
+He has pointy nose. He is bald. He has no beard.
+This person has pointy nose.

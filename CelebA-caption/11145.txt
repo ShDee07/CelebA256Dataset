@@ -1,0 +1,10 @@
+The woman has brown hair and wears lipstick.
+This person has pale skin, and arched eyebrows. She is attractive and wears heavy makeup.
+She has brown hair, and pale skin. She is attractive and is wearing heavy makeup.
+The person has brown hair. She is young. She wears lipstick.
+This young woman has brown hair, and pale skin. 
+This young person has pale skin. 
+She has arched eyebrows and wears lipstick.
+This woman is attractive and has arched eyebrows, and pale skin. 
+The person has arched eyebrows. She is young. She wears heavy makeup.
+This person has pale skin. She wears lipstick.

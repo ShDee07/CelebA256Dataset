@@ -1,0 +1,10 @@
+He has sideburns, black hair, and goatee. He is young.
+He has eyeglasses.
+The person is young and has eyeglasses, sideburns, and black hair.
+He is young and has black hair.
+This person is young and has eyeglasses, sideburns, and black hair. 
+He has black hair.
+He has sideburns, and eyeglasses. He is young. He has beard.
+He has goatee, eyeglasses, and black hair.
+The man is young and has sideburns, black hair, and eyeglasses.
+This man has eyeglasses, sideburns, and black hair.

@@ -1,0 +1,10 @@
+The man has straight hair. He is young. He has beard.
+The man has mustache.
+The person has mustache, and straight hair.
+He has goatee. He is young. He has beard.
+The man has goatee. He is young.
+The man has straight hair, and mustache.
+He has bags under eyes.
+This man has mustache.
+This person has bags under eyes, goatee, and mustache.
+The person has goatee. He is young. He has beard.

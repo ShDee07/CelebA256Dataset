@@ -1,0 +1,10 @@
+The woman has big nose. She is wearing lipstick.
+The woman has arched eyebrows. She wears lipstick. She is young.
+The woman has arched eyebrows. She wears necklace.
+She has arched eyebrows. She wears necklace.
+She is young and has big nose. 
+This woman has arched eyebrows. She is wearing necklace. She is young.
+She wears necklace. She is young and has big nose.
+This woman has arched eyebrows. She is young and wears necklace.
+The person has arched eyebrows and is wearing necklace.
+This person wears necklace. She has big nose. She is young.

@@ -1,0 +1,10 @@
+The person wears lipstick. She has brown hair. She is attractive.
+The woman is attractive and has brown hair. 
+She has eyeglasses. She is wearing lipstick. She is attractive.
+The woman has eyeglasses. She wears lipstick. She is attractive.
+The person has eyeglasses and wears lipstick. She is young.
+The woman is young and has brown hair. 
+This attractive person has eyeglasses. 
+The woman is young and has brown hair. 
+She has brown hair and wears lipstick.
+The woman has brown hair and is wearing lipstick. She is young.

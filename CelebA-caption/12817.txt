@@ -1,0 +1,10 @@
+The person has eyeglasses and is wearing hat.
+He wears hat. He has big nose. He is young.
+This man has big nose. He wears hat. He is young.
+He has big nose and is wearing hat. He is young.
+The person has big nose. He is young and wears hat. He has no beard.
+He has big nose. He is wearing hat. He is young.
+The person is young and has big nose. 
+This man has eyeglasses. He is young and is wearing hat. He has no beard.
+The person is wearing hat. He has eyeglasses. He is young.
+The person has eyeglasses. He is young. He is wearing hat. He has no beard.

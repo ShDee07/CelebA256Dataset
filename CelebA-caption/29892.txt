@@ -1,0 +1,10 @@
+This woman has brown hair, and wavy hair. She is young.
+She has brown hair, pointy nose, and oval face.
+She has pointy nose, and brown hair.
+This woman has oval face, pointy nose, and wavy hair.
+This person has wavy hair, oval face, and pointy nose. She is attractive.
+The person has brown hair, and pointy nose.
+This person is attractive and has oval face, wavy hair, and brown hair.
+This person is young and has oval face, and pointy nose. 
+The person has oval face. She is attractive.
+This person has oval face, brown hair, and pointy nose.

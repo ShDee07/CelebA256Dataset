@@ -1,0 +1,10 @@
+This person has bushy eyebrows, and black hair.
+The man has black hair.
+The person has black hair, and bushy eyebrows.
+This man has black hair, and mustache. He is young.
+The man has bushy eyebrows.
+He has black hair, and bushy eyebrows.
+The man has bushy eyebrows. He is young. He has beard.
+The person is young and has black hair.
+This person has black hair, and mustache. He is young. He has beard.
+This person has bushy eyebrows. He is young. He has beard.

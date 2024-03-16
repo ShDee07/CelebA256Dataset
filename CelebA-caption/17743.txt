@@ -1,0 +1,10 @@
+The woman has big nose. She is attractive.
+The woman has black hair, and big nose. She is attractive.
+This woman is young and has bushy eyebrows, and big nose. 
+This woman has black hair. She is attractive.
+She has bushy eyebrows, and black hair.
+She has black hair, and bushy eyebrows.
+The person has big nose. She is attractive.
+The person is young and has bushy eyebrows, and black hair.
+The person is young and has black hair, and big nose. 
+This woman has black hair. She is attractive.

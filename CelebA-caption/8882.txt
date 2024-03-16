@@ -1,0 +1,10 @@
+The man has  and wears necktie.
+This man has . He is bald and wears necktie. He has no beard.
+The person has  and wears necktie. He is bald.
+He wears necktie. He has . He is bald.
+He wears necktie. He has . He is bald.
+This person has . He is wearing necktie. He is bald.
+He has . He is wearing necktie.
+He wears necktie. He has . He is bald.
+He is wearing necktie. He is bald and has .
+This bald man has . 

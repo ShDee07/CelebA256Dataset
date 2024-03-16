@@ -1,0 +1,10 @@
+The man has brown hair. He is attractive. He has beard.
+The person is young and has brown hair. 
+This person has pointy nose. He is attractive.
+This person has pointy nose. He is young. He has beard.
+The man has brown hair.
+This person is attractive and has pointy nose.
+This man is young and has brown hair.
+This man has brown hair.
+The person is young and has brown hair.
+This person has pointy nose. He is attractive. He has beard.

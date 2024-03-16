@@ -1,0 +1,10 @@
+This person has pale skin, and black hair. He is young.
+The man has pointy nose.
+The person is young and has pale skin, and black hair.
+The person is young and has pointy nose, and pale skin.
+This young person has pale skin. 
+He has pointy nose, and black hair. He is attractive.
+He has pointy nose. He is young. He has no beard.
+The person has black hair, and pale skin.
+This person has pointy nose. He is attractive. He has no beard.
+The man has pale skin.

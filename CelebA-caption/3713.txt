@@ -1,0 +1,10 @@
+This person has blond hair and wears earrings. She is young.
+The woman has pointy nose, and blond hair. She wears earrings. She is young.
+This person is wearing earrings. She has bangs, and pointy nose.
+The woman has bangs, and blond hair and wears earrings. She is young.
+She has pointy nose. She is young and wears earrings.
+The woman has bangs and is wearing earrings. She is young.
+She is wearing earrings. She has bangs, and blond hair. She is young.
+She is young and has blond hair, and bangs. 
+This person has pointy nose, and blond hair. She is young and wears earrings.
+The woman has bangs, and pointy nose. She wears earrings. She is young.

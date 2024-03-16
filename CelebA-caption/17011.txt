@@ -1,0 +1,10 @@
+He has blond hair. He is young. He has beard.
+He has blond hair, and mustache. He is young. He has beard.
+The man has sideburns, and mustache. He is young.
+The man has blond hair. He is young. He has beard.
+This person is young and has sideburns.
+He has mustache. He is young. He has beard.
+He has blond hair, and sideburns.
+The man is young and has mustache, and blond hair. 
+This person is young and has blond hair. 
+This young person has mustache. 

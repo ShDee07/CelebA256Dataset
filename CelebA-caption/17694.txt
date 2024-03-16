@@ -1,0 +1,10 @@
+The person is wearing hat. He has sideburns. He is young.
+The man has big nose, and eyeglasses. He is young and wears hat. He has beard.
+This person is young and has big nose. 
+This man has sideburns, and big nose. He is wearing hat. He is young.
+He has big nose, and eyeglasses. He wears hat. He is young.
+The person is young and has sideburns, and eyeglasses. 
+This man has sideburns and wears hat. He is young.
+He is young and has big nose. 
+The man is wearing hat. He has big nose, and sideburns. He is young.
+This person has eyeglasses, and big nose. He is young. He is wearing hat. He has beard.

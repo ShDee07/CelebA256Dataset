@@ -1,0 +1,10 @@
+This woman has pointy nose. She wears necklace.
+The person has pointy nose. She is young. She wears necklace.
+She wears necklace. She has brown hair. She is young.
+The person has pointy nose. She is young and wears necklace.
+The person has brown hair and is wearing necklace. She is young.
+This woman is wearing necklace. She has brown hair.
+The person is young and has brown hair. 
+The person has pointy nose. She wears necklace. She is young.
+The person has brown hair. She wears necklace. She is young.
+She has brown hair. She wears necklace. She is young.

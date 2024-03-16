@@ -1,0 +1,10 @@
+The woman has black hair. She is young and is wearing heavy makeup, and lipstick.
+She wears lipstick, and heavy makeup. She is young and has black hair, and bangs.
+This person has black hair. She wears earrings.
+The person is wearing lipstick. She has straight hair.
+The woman has black hair. She is wearing heavy makeup.
+She wears earrings. She is young and has bangs, and black hair.
+She is wearing lipstick. She is young and has bangs, and straight hair.
+She wears heavy makeup, earrings. She has straight hair.
+She is young and has straight hair. 
+She is wearing earrings, and heavy makeup. She has bangs, and straight hair. She is young.

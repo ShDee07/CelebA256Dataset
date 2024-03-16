@@ -1,0 +1,10 @@
+The person wears earrings. She has bangs.
+This person has bangs. She is young. She wears earrings.
+This person has bangs. She wears earrings. She is young.
+This person has bangs. She is young. She is wearing earrings.
+The person has bangs and is wearing earrings.
+She is wearing earrings. She has bangs. She is young.
+This woman wears earrings. She has bangs. She is young.
+The woman is young and has bangs. 
+The person has bangs. She is young and is wearing earrings.
+This woman has bangs. She is wearing earrings. She is young.

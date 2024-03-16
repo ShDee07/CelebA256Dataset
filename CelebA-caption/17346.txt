@@ -1,0 +1,10 @@
+This woman is wearing lipstick. She has blond hair, big lips, and arched eyebrows.
+The person has wavy hair. She is attractive. She is wearing lipstick.
+This person has wavy hair and wears lipstick. She is attractive.
+This woman wears lipstick. She has wavy hair, big lips, and arched eyebrows. She is attractive.
+This attractive person has blond hair. 
+She is wearing lipstick. She is attractive and has wavy hair, and blond hair.
+This person has blond hair, and wavy hair. She is attractive and wears lipstick.
+This person has blond hair and is wearing lipstick. She is attractive.
+This woman has big lips, wavy hair, and blond hair. She is attractive. She is wearing lipstick.
+She is attractive and has arched eyebrows, and wavy hair. 

@@ -1,0 +1,10 @@
+This man has brown hair, goatee, and sideburns. He is young.
+The man has bags under eyes, and goatee. He is young.
+This man is young and has sideburns, brown hair, and goatee.
+He has goatee. He is young.
+The person is young and has brown hair. 
+This man has brown hair, goatee, and bags under eyes.
+This person has bags under eyes, and brown hair. He is young. He has beard.
+He has sideburns, goatee, and brown hair.
+He has goatee, and sideburns. He is young. He has beard.
+He is young and has goatee, and brown hair.

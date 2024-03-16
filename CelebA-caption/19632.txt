@@ -1,0 +1,10 @@
+The man has narrow eyes, straight hair, double chin, and eyeglasses.
+The person has black hair. He is chubby. He has beard.
+This man has black hair, double chin, narrow eyes, and big nose.
+This man has mustache, bushy eyebrows, and eyeglasses.
+This man has mustache.
+The man has black hair, eyeglasses, straight hair, mustache, big nose, and bushy eyebrows.
+He has big nose. He is chubby. He has beard.
+This man has mustache, bushy eyebrows, double chin, narrow eyes, straight hair, and big nose.
+He has mustache, double chin, straight hair, black hair, and bushy eyebrows. He is chubby.
+He is chubby and has double chin, and eyeglasses.

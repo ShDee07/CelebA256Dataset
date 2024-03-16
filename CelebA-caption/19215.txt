@@ -1,0 +1,10 @@
+This person has receding hairline. She is young and wears lipstick.
+The person has pointy nose and wears earrings, and lipstick. She is young.
+The woman has straight hair, and receding hairline. She wears lipstick. She is young.
+The person is wearing lipstick. She has straight hair.
+She is wearing lipstick, and heavy makeup. She has straight hair. She is young.
+This woman has arched eyebrows. She is attractive and wears earrings.
+The woman is wearing earrings, heavy makeup. She has pointy nose, arched eyebrows, and straight hair. She is attractive.
+This woman is young and has receding hairline, arched eyebrows, and pointy nose. 
+The person has straight hair, and pointy nose. She is wearing earrings, and lipstick. She is young.
+She has straight hair, and receding hairline and wears earrings, and lipstick.

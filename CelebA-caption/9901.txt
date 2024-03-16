@@ -1,0 +1,10 @@
+This man is chubby and has receding hairline, big nose, gray hair, and bags under eyes.
+This person has receding hairline, bags under eyes, and big nose. He is chubby.
+This man has big nose.
+This person is bald and has receding hairline, bags under eyes, gray hair, and double chin. 
+The person is chubby and has receding hairline, double chin, bags under eyes, and gray hair. 
+This man is bald and has gray hair, and double chin.
+This person has gray hair, receding hairline, big nose, and bags under eyes.
+The man has big nose, gray hair, bags under eyes, and double chin. He is bald.
+This man has receding hairline, and gray hair.
+This man has gray hair, bags under eyes, and big nose. He is bald. He has beard.

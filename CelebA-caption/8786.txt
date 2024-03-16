@@ -1,0 +1,10 @@
+This person wears earrings. She has wavy hair, and bangs. She is smiling.
+The woman is wearing necklace. She has mouth slightly open, and high cheekbones.
+This person wears necklace. She has bags under eyes.
+The woman has wavy hair, bangs, bags under eyes, and high cheekbones. She is smiling and wears necklace.
+This woman is smiling and has bags under eyes, wavy hair, and bangs. 
+This person is smiling and has mouth slightly open, and bangs. 
+She has high cheekbones. She is smiling and is wearing necklace.
+This woman wears earrings. She has bangs, wavy hair, and mouth slightly open. She is smiling.
+The person has high cheekbones, mouth slightly open, wavy hair, and bags under eyes and is wearing earrings. She is smiling.
+This smiling woman has wavy hair, bangs, and high cheekbones. 

@@ -1,0 +1,10 @@
+This person is smiling and has pointy nose, and sideburns.
+The man has pointy nose. He is bald. He has beard.
+The person has eyeglasses. He is smiling. He has beard.
+The man has pointy nose. He is smiling. He has beard.
+This man has sideburns, and pointy nose. He is bald. He has beard.
+The person is bald and has pointy nose. 
+This person has pointy nose. He is smiling. He has beard.
+This person has eyeglasses, and sideburns.
+The man has eyeglasses.
+The person has sideburns, and pointy nose. He is smiling. He has beard.

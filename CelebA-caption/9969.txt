@@ -1,0 +1,10 @@
+This woman has brown hair. She is young.
+The woman has wavy hair. She is young.
+The person has brown hair. She is young.
+This person has wavy hair. She is young.
+The person is young and has brown hair. 
+The person has wavy hair.
+The person has wavy hair. She is young.
+The person has wavy hair. She is young.
+The woman has wavy hair. She is young.
+This young woman has wavy hair. 

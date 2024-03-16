@@ -1,0 +1,10 @@
+He has bags under eyes. He is bald. He has no beard.
+This bald person has big nose. 
+The man has narrow eyes.
+This bald person has bags under eyes, and narrow eyes. 
+This man has big nose, and bags under eyes. He is bald. He has no beard.
+The person has bags under eyes. He is bald. He has no beard.
+The person has bags under eyes. He is bald.
+This person is bald and has bags under eyes, and big nose.
+This man is bald and has narrow eyes, and bags under eyes.
+This person has big nose, and narrow eyes.

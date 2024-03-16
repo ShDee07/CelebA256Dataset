@@ -1,0 +1,10 @@
+The person has blond hair. She is attractive and wears heavy makeup.
+The woman wears heavy makeup. She has pointy nose.
+The woman has narrow eyes, pointy nose, and wavy hair. She is attractive. She is wearing heavy makeup.
+She has pale skin, wavy hair, blond hair, and pointy nose. She is attractive and is wearing lipstick.
+This person has pointy nose. She wears heavy makeup.
+This person is attractive and has pointy nose, narrow eyes, and blond hair. 
+This woman has blond hair, and wavy hair. She is attractive. She wears heavy makeup.
+This woman has wavy hair, and blond hair. She is wearing lipstick.
+This person wears heavy makeup. She has pointy nose, pale skin, and narrow eyes.
+The person has wavy hair, and blond hair. She is wearing lipstick. She is attractive.

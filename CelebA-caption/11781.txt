@@ -1,0 +1,10 @@
+This woman has pale skin, pointy nose, and brown hair. She wears lipstick.
+The person is wearing lipstick. She has pale skin, and wavy hair. She is attractive.
+This woman has brown hair, pale skin, and pointy nose and wears lipstick.
+The person is attractive and has brown hair, pale skin, and pointy nose. 
+She has brown hair. She is attractive and is wearing lipstick.
+This person has pale skin, and wavy hair. She is young. She wears lipstick.
+This woman has pale skin, and wavy hair. She is attractive. She is wearing lipstick.
+She wears lipstick. She has wavy hair, and brown hair. She is attractive.
+This person has brown hair. She is wearing lipstick. She is attractive.
+The woman has pointy nose, and pale skin and is wearing lipstick.

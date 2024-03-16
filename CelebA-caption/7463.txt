@@ -1,0 +1,10 @@
+This man has pointy nose. He is young. He has beard.
+The man has bushy eyebrows. He is attractive.
+This person is attractive and has pointy nose. 
+This man has pointy nose.
+He has bushy eyebrows. He is young.
+The man has pointy nose. He is young.
+This man has bushy eyebrows.
+He has pointy nose. He is attractive. He has beard.
+This person has pointy nose. He is young. He has beard.
+This person has bushy eyebrows. He is young.

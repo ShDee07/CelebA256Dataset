@@ -1,0 +1,10 @@
+The man has bags under eyes. He is attractive.
+The man is attractive and has bags under eyes, pointy nose, and wavy hair.
+The man has bushy eyebrows. He is attractive. He has no beard.
+The person has wavy hair, and bags under eyes. He is attractive. He has no beard.
+This person has pointy nose. He is attractive.
+This attractive person has pointy nose. 
+This man has bags under eyes, and wavy hair. He is attractive. He has no beard.
+The person has pointy nose, bushy eyebrows, and wavy hair. He is attractive. He has no beard.
+This attractive man has wavy hair. 
+He is attractive and has pointy nose.

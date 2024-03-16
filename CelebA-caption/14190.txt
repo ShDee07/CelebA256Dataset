@@ -1,0 +1,10 @@
+This person has eyeglasses, goatee, and mustache.
+He has mustache.
+The man has mustache, and sideburns.
+The person is chubby and has mustache, eyeglasses, and sideburns. 
+He has goatee. He is chubby.
+The person has eyeglasses, and goatee.
+He is chubby and has eyeglasses, sideburns, and goatee.
+This man has mustache.
+The man has eyeglasses. He is chubby. He has beard.
+He has sideburns, and goatee. He is chubby.

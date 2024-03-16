@@ -1,0 +1,10 @@
+This person has blond hair. He is young.
+This person has straight hair.
+This person has straight hair, and blond hair. He is young. He has no beard.
+The person has blond hair.
+This person has blond hair. He is attractive. He has no beard.
+The person has bangs.
+This man is attractive and has straight hair, and bangs.
+The person has straight hair, and bangs.
+This man is attractive and has blond hair. 
+The man has straight hair, and blond hair. He is young.

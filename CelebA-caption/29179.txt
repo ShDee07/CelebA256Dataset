@@ -1,0 +1,10 @@
+He wears hat. He has sideburns. He is young.
+He has pointy nose and is wearing necklace. He is attractive.
+He is wearing necklace. He has sideburns. He is young.
+This young man has pointy nose. 
+He has pointy nose. He wears necklace. He is young.
+He is young and has sideburns. 
+He wears hat. He is young and has pointy nose.
+He wears hat. He is young and has pointy nose.
+He has pointy nose. He wears hat. He is attractive.
+The man is attractive and has sideburns. 

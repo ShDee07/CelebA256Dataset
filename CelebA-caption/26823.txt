@@ -1,0 +1,10 @@
+This man wears necktie. He has black hair. He is young.
+He wears necktie. He has black hair.
+The man has black hair. He wears necktie.
+The person has black hair. He is young and is wearing necktie. He has beard.
+He wears necktie. He has pointy nose. He is young.
+This person is wearing necktie. He has black hair.
+The man has pointy nose. He wears necktie. He is young.
+He is wearing necktie. He has pointy nose. He is young.
+This man has black hair and wears necktie.
+He wears necktie. He is young and has pointy nose.

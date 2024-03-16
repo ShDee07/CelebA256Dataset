@@ -1,0 +1,10 @@
+This man has straight hair. He is young.
+He has narrow eyes. He is young. He has beard.
+This man has black hair. He is young.
+He has narrow eyes, and black hair. He is young.
+The person has narrow eyes. He is young.
+This man has black hair. He is young.
+He has narrow eyes. He is young. He has beard.
+The person has narrow eyes.
+This person has narrow eyes, and straight hair. He is young. He has beard.
+The man has straight hair.

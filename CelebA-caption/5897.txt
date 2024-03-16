@@ -1,0 +1,10 @@
+This young man has bushy eyebrows. 
+He has brown hair, and sideburns.
+This young man has sideburns, and bushy eyebrows. 
+The person has sideburns, and brown hair. He is young.
+This man has bushy eyebrows. He is young. He has beard.
+The man has sideburns, and brown hair. He is young. He has beard.
+This young person has bushy eyebrows, and brown hair. 
+This man has brown hair.
+This person has brown hair, and bushy eyebrows. He is young. He has beard.
+The man is young and has sideburns. 

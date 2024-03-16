@@ -1,0 +1,10 @@
+The person is young and has receding hairline. 
+This woman is young and has receding hairline. 
+She is wearing earrings. She has big nose. She is young.
+She wears earrings. She has big nose.
+She is wearing earrings. She has receding hairline. She is young.
+The woman has big nose. She wears earrings.
+She is wearing earrings. She is young and has big nose.
+This woman has big nose and is wearing earrings.
+The woman has big nose and wears earrings. She is young.
+This person has big nose and is wearing earrings.

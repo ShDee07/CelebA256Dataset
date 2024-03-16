@@ -1,0 +1,10 @@
+This young man has brown hair, goatee, and pointy nose. 
+He has sideburns, goatee, and pointy nose. He is young.
+The person has sideburns.
+The person has sideburns, and goatee.
+He has sideburns, and pointy nose. He is young.
+This person has brown hair. He is young.
+The man is young and has pointy nose, brown hair, and sideburns.
+This young man has pointy nose. 
+This man is young and has goatee, sideburns, and brown hair.
+The person has pointy nose, and goatee.

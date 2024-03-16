@@ -1,0 +1,10 @@
+The man is young and has bushy eyebrows, and mouth slightly open.
+The man has bushy eyebrows. He is attractive. He has beard.
+The person has bushy eyebrows, and black hair. He is young. He has beard.
+The person has bushy eyebrows. He is attractive. He has beard.
+This person has mouth slightly open. He is young. He has beard.
+The man has black hair. He is attractive.
+He is attractive and has mouth slightly open, and black hair. 
+This person has black hair.
+This man has bushy eyebrows.
+The person has mouth slightly open, and black hair.

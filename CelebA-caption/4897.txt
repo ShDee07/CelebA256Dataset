@@ -1,0 +1,10 @@
+This person has bushy eyebrows, oval face, and arched eyebrows.
+This woman is young and has bushy eyebrows, oval face, and arched eyebrows.
+The woman has arched eyebrows, and brown hair. She is young.
+The person has bushy eyebrows, and arched eyebrows. She is young.
+This person has bushy eyebrows, and oval face. She is young.
+This woman is young and has arched eyebrows. 
+She has brown hair. She is young.
+This person is young and has arched eyebrows.
+She has brown hair. She is young.
+She has brown hair.

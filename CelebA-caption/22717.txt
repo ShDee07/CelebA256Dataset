@@ -1,0 +1,10 @@
+The person has black hair. He is wearing necktie.
+He wears necktie. He is young and has mustache, and black hair.
+He has mustache, straight hair, and black hair. He is wearing necktie.
+He wears necktie. He has straight hair, mustache, and black hair. He is young.
+The man has mustache. He is wearing necktie.
+This man has black hair. He is young and wears necktie. He has beard.
+He wears necktie. He has black hair, straight hair, and bags under eyes. He is young.
+This man is wearing necktie. He has bags under eyes, and black hair. He is young.
+The man is young and has straight hair, mustache, and black hair. 
+This young man has mustache. 

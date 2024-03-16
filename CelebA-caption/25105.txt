@@ -1,0 +1,10 @@
+This man has pointy nose, and oval face.
+He has bushy eyebrows. He is young.
+The man is young and has black hair, pointy nose, and bushy eyebrows.
+The person has straight hair, oval face, pointy nose, and black hair. He is young. He has no beard.
+The person is young and has black hair, and oval face. 
+He has straight hair, pointy nose, black hair, and bushy eyebrows. He is young. He has no beard.
+The person is young and has straight hair, oval face, black hair, and pointy nose.
+He has pointy nose, black hair, oval face, and bushy eyebrows. He is young. He has no beard.
+He has oval face, pointy nose, black hair, and bushy eyebrows. He is young. He has no beard.
+This man is young and has oval face, straight hair, and black hair. 

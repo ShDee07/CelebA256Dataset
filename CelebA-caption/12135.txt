@@ -1,0 +1,10 @@
+This person has black hair. He is young.
+The man has bangs, and black hair. He is young.
+He has pointy nose, mouth slightly open, and black hair. He is young. He has no beard.
+This man has bushy eyebrows, and pointy nose.
+The man has mouth slightly open.
+This person has bangs. He is young.
+The man is young and has black hair, mouth slightly open, pointy nose, and bangs.
+This person has bushy eyebrows, pointy nose, bangs, and mouth slightly open. He is young. He has no beard.
+This person is young and has bushy eyebrows, pointy nose, and bangs. 
+He has black hair, and bangs.

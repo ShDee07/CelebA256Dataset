@@ -1,0 +1,10 @@
+The man has eyeglasses, gray hair, mouth slightly open, oval face, and receding hairline. He wears necktie. He is smiling.
+The person wears necktie. He has receding hairline.
+The person has receding hairline, and gray hair. He is bald and wears necktie. He has no beard.
+This smiling man has oval face, double chin, mouth slightly open, and gray hair. 
+The man has double chin, and gray hair. He is wearing necktie. He is smiling.
+This person has oval face, double chin, eyeglasses, and mouth slightly open. He wears necktie.
+The man has mouth slightly open, eyeglasses, and double chin. He is wearing necktie. He is smiling.
+This man is smiling and has mouth slightly open, receding hairline, eyeglasses, double chin, and gray hair. 
+This man wears necktie. He has receding hairline, double chin, and gray hair.
+This man has oval face and is wearing necktie. He is bald.

@@ -1,0 +1,10 @@
+This woman has black hair. She is young. She is wearing heavy makeup.
+She is young and has narrow eyes, mouth slightly open, and arched eyebrows. 
+This person is young and has narrow eyes, arched eyebrows, and black hair. 
+She has black hair, and narrow eyes. She is young and is wearing lipstick.
+This person has mouth slightly open and wears lipstick. She is young.
+She is wearing heavy makeup. She is young and has mouth slightly open, and black hair.
+The woman has narrow eyes, and arched eyebrows. She is young. She is wearing heavy makeup.
+The person has black hair, and narrow eyes. She wears lipstick.
+The person has mouth slightly open, and arched eyebrows. She is young and wears lipstick.
+This person wears heavy makeup. She has mouth slightly open, and arched eyebrows.

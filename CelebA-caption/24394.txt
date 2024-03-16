@@ -1,0 +1,10 @@
+This person wears heavy makeup. She has big lips, and bangs. She is attractive.
+This woman wears heavy makeup. She has straight hair. She is attractive.
+This woman has big lips, and straight hair. She wears heavy makeup. She is young.
+This attractive woman has straight hair, and bangs. 
+She has straight hair, and big lips. She wears lipstick.
+The person wears heavy makeup. She has bangs.
+The person has straight hair, and bangs. She is attractive and wears lipstick.
+This woman has straight hair, and bangs and wears lipstick. She is young.
+She is wearing heavy makeup. She is attractive and has big lips, and straight hair.
+This person is young and has big lips. 

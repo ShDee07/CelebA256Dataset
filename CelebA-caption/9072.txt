@@ -1,0 +1,10 @@
+The person has bags under eyes, and wavy hair. He is young. He has beard.
+The person has wavy hair, and bushy eyebrows.
+This person has wavy hair.
+This man has sideburns, wavy hair, and bags under eyes.
+The person has sideburns. He is young. He has beard.
+This person has sideburns.
+The person has bags under eyes. He is young. He has beard.
+The person has wavy hair, bushy eyebrows, and sideburns. He is young.
+The man has sideburns. He is young. He has beard.
+This man is young and has sideburns, wavy hair, and bags under eyes. 

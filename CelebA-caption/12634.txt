@@ -1,0 +1,10 @@
+She has pointy nose. She is attractive and is wearing earrings.
+She has pointy nose and is wearing earrings.
+The woman has pointy nose. She is attractive. She wears earrings.
+The person wears earrings. She has pointy nose. She is attractive.
+This woman has pointy nose and wears earrings.
+She is wearing earrings. She has pointy nose. She is attractive.
+She is wearing earrings. She is attractive and has pointy nose.
+She is wearing earrings. She has pointy nose. She is young.
+She has pointy nose. She wears earrings. She is attractive.
+The person is young and has pointy nose. 

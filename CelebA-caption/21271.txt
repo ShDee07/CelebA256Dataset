@@ -1,0 +1,10 @@
+The person wears necktie. He has big nose, and pointy nose. He is attractive.
+The man wears necktie. He has brown hair, and pointy nose.
+This man has pointy nose, and brown hair. He is young. He wears necktie. He has no beard.
+This person has brown hair, and big nose. He wears necktie.
+This man has brown hair. He is young and wears necktie. He has no beard.
+The person is attractive and has pointy nose, and big nose. 
+This man has brown hair, and big nose. He is wearing necktie.
+The person wears necktie. He has big nose.
+He is wearing necktie. He has brown hair. He is young.
+He has pointy nose. He is attractive. He is wearing necktie. He has no beard.

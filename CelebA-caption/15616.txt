@@ -1,0 +1,10 @@
+This man has oval face, wavy hair, and brown hair. He is attractive.
+This man has bangs, and wavy hair. He is attractive.
+The person has brown hair, wavy hair, and oval face.
+He has brown hair, and sideburns.
+This man is attractive and has sideburns, and oval face.
+This person is attractive and has wavy hair, and bangs.
+This man has wavy hair, brown hair, oval face, and bangs.
+This man has bangs, wavy hair, oval face, and sideburns. He is attractive.
+This attractive man has sideburns, bangs, wavy hair, and brown hair. 
+This attractive person has oval face. 

@@ -1,0 +1,10 @@
+The man has black hair, mustache, goatee, and sideburns. He is young and is wearing necklace. He has beard.
+The man has black hair, and goatee and is wearing necklace. He is young.
+This person has mustache, big nose, sideburns, bushy eyebrows, and goatee and is wearing necklace.
+He is wearing necklace. He is young and has black hair, big nose, bushy eyebrows, and sideburns.
+This person is wearing necklace. He has sideburns, big nose, and goatee.
+The man has black hair, big nose, goatee, sideburns, and bushy eyebrows and wears necklace. He is young.
+This person wears necklace. He has big nose, and sideburns.
+He has mustache, and big nose. He is young and is wearing necklace. He has beard.
+This man has bushy eyebrows. He is wearing necklace. He is young.
+This man is young and has bushy eyebrows. 

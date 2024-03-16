@@ -1,0 +1,10 @@
+This person has big nose. He wears hat.
+The person has big nose. He is wearing hat.
+He wears hat. He has big nose.
+He has big nose and wears hat.
+This person has big nose. He wears hat.
+He is wearing hat. He has big nose.
+This person has big nose. He wears hat. 
+The person wears hat. He has big nose. He.
+The man has big nose and is wearing hat. 
+The man wears hat. He has big nose.

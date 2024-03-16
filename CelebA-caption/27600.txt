@@ -1,0 +1,10 @@
+This person has wavy hair and wears necktie. He is young.
+The person has bangs and wears necktie. He is young.
+This man wears necktie. He has wavy hair.
+This man wears necktie. He has wavy hair.
+He wears necktie. He has bangs. He is young.
+The person is young and has bangs. 
+The man wears necktie. He has bangs. He is young.
+He has bangs and wears necktie.
+The man has bangs. He is wearing necktie. He is young.
+This man is wearing necktie. He has bangs.

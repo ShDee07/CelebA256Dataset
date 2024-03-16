@@ -1,0 +1,10 @@
+This person is young and has big nose, and wavy hair. 
+This woman has receding hairline, and black hair.
+This woman has big nose, and receding hairline.
+She is young and has big nose.
+She is young and has wavy hair, receding hairline, and black hair.
+This woman is young and has big nose. 
+This woman has receding hairline. She is young.
+The person is young and has receding hairline.
+The woman has black hair, and receding hairline.
+The person is young and has big nose, and black hair.

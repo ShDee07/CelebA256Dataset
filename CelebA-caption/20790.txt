@@ -1,0 +1,10 @@
+This person has big nose. He is wearing earrings.
+This smiling man has big nose. 
+The man is smiling and has mouth slightly open. 
+He is wearing earrings. He has mouth slightly open. He is smiling.
+The person has big nose and wears earrings. He is smiling.
+The person wears earrings. He has big nose.
+This person is smiling and has mouth slightly open. 
+This person has mouth slightly open and is wearing earrings.
+He is wearing earrings. He is smiling and has mouth slightly open.
+He has mouth slightly open. He wears earrings. He is smiling.

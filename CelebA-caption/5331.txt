@@ -1,0 +1,10 @@
+This person has narrow eyes. She wears earrings. She is young.
+She has bags under eyes, and blond hair. She is wearing earrings.
+The person wears earrings. She has narrow eyes, and bags under eyes. She is young.
+The woman is wearing earrings. She has bags under eyes, and narrow eyes. She is young.
+The person is young and has narrow eyes, and bags under eyes. 
+This woman is wearing earrings. She has bags under eyes, and blond hair.
+This person is young and has blond hair, and narrow eyes. 
+The woman has blond hair and is wearing earrings. She is young.
+This woman has bags under eyes. She wears earrings. She is young.
+This woman wears earrings. She has narrow eyes. She is young.

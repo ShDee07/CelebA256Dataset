@@ -1,0 +1,10 @@
+This person has pointy nose, and black hair. He is young. He has beard.
+This man has mustache. He is young. He has beard.
+He is young and has pointy nose. 
+The person has pointy nose, and black hair. He is young.
+He is young and has black hair, and mustache. 
+This young person has mustache, and black hair. 
+This man is young and has black hair, and mustache. 
+This person is young and has mustache, and pointy nose. 
+This young man has black hair. 
+This person has mustache, and black hair. He is young. He has beard.

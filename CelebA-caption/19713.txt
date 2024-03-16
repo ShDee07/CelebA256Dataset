@@ -1,0 +1,10 @@
+This person has black hair. He is young. He is wearing necktie. He has no beard.
+This person has oval face. He wears necktie.
+The man has oval face and wears necktie. He is young.
+He wears necktie. He is young and has oval face.
+He has black hair. He wears necktie.
+This man is attractive and has black hair. 
+The person has black hair and is wearing necktie.
+This person has oval face. He wears necktie. He is attractive.
+The man wears necktie. He has oval face.
+This man has oval face and wears necktie. He is attractive.

@@ -1,0 +1,10 @@
+This person has sideburns. He is young and wears necktie. He has beard.
+The person has straight hair. He is wearing necktie.
+This person has sideburns, and straight hair. He is young and wears necktie. He has beard.
+This man has straight hair, and sideburns and wears necktie.
+He has sideburns, and brown hair. He is wearing necktie. He is young.
+This person has brown hair and wears necktie. He is young.
+This man has straight hair, and brown hair. He is wearing necktie. He is young.
+He has brown hair, and sideburns. He is young. He is wearing necktie. He has beard.
+This person has straight hair. He is young and is wearing necktie. He has beard.
+This person has straight hair, and brown hair. He is young and wears necktie. He has beard.

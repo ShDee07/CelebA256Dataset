@@ -1,0 +1,10 @@
+This person is wearing hat. He has pale skin. He is young.
+This man has pale skin and wears hat. He is young.
+This person has pale skin and is wearing hat.
+The person is young and has pale skin. 
+The person has pale skin. He is wearing hat. He is young.
+This man is wearing hat. He has pale skin. He is young.
+The man wears hat. He has pale skin.
+This man is wearing hat. He has pale skin. He is young.
+The person has pale skin. He is wearing hat. He is young.
+He has pale skin and wears hat. He is young.

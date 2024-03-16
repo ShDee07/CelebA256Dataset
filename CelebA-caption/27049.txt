@@ -1,0 +1,10 @@
+This person has big nose. He is bald. He has no beard.
+The man has eyeglasses, and double chin. He is chubby. He has no beard.
+The person is bald and has big nose. 
+The man has eyeglasses, and double chin.
+He has mouth slightly open. He is bald.
+This man has double chin, mouth slightly open, and big nose. He is chubby. He has no beard.
+The man has big nose.
+This man is bald and has mouth slightly open, and eyeglasses.
+He is bald and has mouth slightly open, eyeglasses, and double chin. 
+The man has mouth slightly open, and big nose. He is bald.

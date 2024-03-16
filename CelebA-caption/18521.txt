@@ -1,0 +1,10 @@
+The woman has pointy nose and wears earrings.
+She is wearing heavy makeup. She has rosy cheeks, and oval face.
+The woman wears heavy makeup, earrings. She has gray hair, oval face, and rosy cheeks. She.
+The woman has gray hair, mouth slightly open, pointy nose, and rosy cheeks and is wearing earrings. 
+She is wearing lipstick, earrings. She has pointy nose, and gray hair.
+She is wearing earrings, and lipstick. She has gray hair.
+She is wearing lipstick, and earrings. She has pointy nose, gray hair, mouth slightly open, and rosy cheeks.
+She is wearing lipstick, and earrings. She has pointy nose, gray hair, and rosy cheeks.
+She has rosy cheeks. She is wearing lipstick. 
+She has mouth slightly open, and rosy cheeks. She is wearing lipstick.

@@ -1,0 +1,10 @@
+The woman has wavy hair. She is young.
+She is young and has wavy hair. 
+She has wavy hair. She is young.
+This person has wavy hair. She is young.
+The woman has mouth slightly open. She is young.
+The person is young and has wavy hair. 
+She has mouth slightly open.
+This person is young and has wavy hair. 
+She has mouth slightly open. She is young.
+This woman is young and has wavy hair.

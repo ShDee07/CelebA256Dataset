@@ -1,0 +1,10 @@
+She wears heavy makeup. She is young and has arched eyebrows, and pointy nose.
+The woman is young and has pointy nose, and arched eyebrows. 
+This person is young and has arched eyebrows, and bangs. 
+She wears heavy makeup. She has bangs. She is young.
+This person has arched eyebrows, and bangs. She is young and is wearing heavy makeup.
+She wears heavy makeup. She has pointy nose.
+She wears lipstick. She is young and has pointy nose, and arched eyebrows.
+The woman has arched eyebrows, and bangs. She wears heavy makeup. She is young.
+She wears lipstick. She has arched eyebrows. She is young.
+The woman has arched eyebrows and is wearing heavy makeup. She is young.

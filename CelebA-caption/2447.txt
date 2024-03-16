@@ -1,0 +1,10 @@
+The man has bags under eyes. He is attractive. He has no beard.
+The person has black hair. He is attractive.
+The person has black hair, and bags under eyes.
+This man has black hair. He is young.
+The person has bags under eyes, and black hair. He is attractive. He has no beard.
+He has black hair. He is young.
+This person has straight hair, and black hair. He is attractive.
+This man has straight hair, and black hair. He is attractive. He has no beard.
+This person has bags under eyes.
+He has black hair. He is attractive. He has no beard.

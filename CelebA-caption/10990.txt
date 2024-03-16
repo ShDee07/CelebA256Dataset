@@ -1,0 +1,10 @@
+The man has pale skin. He is attractive.
+The person is attractive and has bangs.
+This person has pale skin, and bangs.
+This person has bangs, and straight hair.
+The person has straight hair.
+This man is attractive and has bangs.
+The man has pale skin, and straight hair. He is attractive. He has no beard.
+He has pale skin, and bangs. He is attractive. He has no beard.
+This attractive man has pale skin, and bangs. 
+This young person has pale skin. 

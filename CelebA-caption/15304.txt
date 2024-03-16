@@ -1,0 +1,10 @@
+This man has eyeglasses. He is attractive. He has no beard.
+This man has eyeglasses.
+This attractive person has pointy nose. 
+This person has eyeglasses. He is attractive. He has no beard.
+This person has eyeglasses.
+The man has eyeglasses.
+The man has eyeglasses. He is attractive.
+This person has pointy nose. He is attractive.
+The person has eyeglasses.
+The person has pointy nose. He is attractive.

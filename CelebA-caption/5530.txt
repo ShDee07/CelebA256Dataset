@@ -1,0 +1,10 @@
+The person is young and has bushy eyebrows, and bags under eyes.
+This person has bangs. He is young. He has beard.
+This man is young and has bags under eyes, and bangs.
+The man has bangs, bushy eyebrows, and bags under eyes. He is young. He has beard.
+The man is young and has bags under eyes, and pointy nose. 
+He has bangs, pointy nose, and bushy eyebrows. He is young. He has beard.
+The person has pointy nose. He is young. He has beard.
+The man has bushy eyebrows. He is young.
+The man is young and has bangs. 
+The man has bushy eyebrows. He is young.

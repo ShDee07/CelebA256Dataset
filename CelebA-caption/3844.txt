@@ -1,0 +1,10 @@
+This man has bushy eyebrows, sideburns, and big nose and wears hat. He is attractive.
+He has bags under eyes. He is attractive. He is wearing hat. He has beard.
+The person has sideburns and is wearing hat.
+He has bags under eyes, big nose, and sideburns and is wearing hat. He is attractive.
+This man is attractive and has big nose. 
+The person wears hat. He has big nose.
+The person wears hat. He has big nose.
+This man has sideburns, bushy eyebrows, and big nose. He is wearing hat. He is attractive.
+He wears hat. He has bushy eyebrows, sideburns, and bags under eyes. He is attractive.
+He wears hat. He is attractive and has bushy eyebrows.

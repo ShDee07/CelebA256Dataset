@@ -1,0 +1,10 @@
+This person has high cheekbones and is wearing heavy makeup.
+This person has high cheekbones. She is young. She wears heavy makeup.
+The person has high cheekbones. She is wearing heavy makeup. She is young.
+The person is wearing heavy makeup. She has high cheekbones. She is young.
+The person has high cheekbones and is wearing heavy makeup.
+This person has high cheekbones and wears heavy makeup. She is young.
+This person is young and has high cheekbones. 
+She has high cheekbones and wears heavy makeup.
+The person has high cheekbones and is wearing heavy makeup. She is young.
+This young woman has high cheekbones. 

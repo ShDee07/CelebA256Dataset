@@ -1,0 +1,10 @@
+The man has wavy hair, and pale skin.
+This man has pointy nose, wavy hair, and arched eyebrows. He is young. He has no beard.
+The man has wavy hair, and pointy nose. He is young.
+The man has pale skin, wavy hair, and arched eyebrows.
+This person is young and has pointy nose, arched eyebrows, and wavy hair.
+He is young and has pale skin, wavy hair, and pointy nose. 
+This person is young and has pale skin.
+The man has wavy hair. He is young. He has no beard.
+This person has arched eyebrows. He is young.
+He is young and has pale skin.

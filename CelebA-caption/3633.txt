@@ -1,0 +1,10 @@
+This woman has high cheekbones. She is attractive.
+She has bushy eyebrows. She is young.
+She has high cheekbones. She is attractive.
+The person has bushy eyebrows.
+The person has bushy eyebrows. She is attractive.
+The woman has bushy eyebrows.
+This woman is young and has high cheekbones.
+The woman is young and has bushy eyebrows.
+This attractive person has bushy eyebrows. 
+The person has high cheekbones.

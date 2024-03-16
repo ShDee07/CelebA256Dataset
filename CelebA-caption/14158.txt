@@ -1,0 +1,10 @@
+The person has big nose, and double chin. He is young.
+This man has double chin. He is young.
+The person has double chin, and eyeglasses.
+The man has double chin. He is chubby.
+This man has eyeglasses, and double chin.
+The person has big lips, double chin, and eyeglasses.
+This person is chubby and has big lips, and big nose.
+This person is chubby and has big nose. 
+This chubby man has big nose, big lips, and eyeglasses. 
+The person is young and has eyeglasses, and double chin.

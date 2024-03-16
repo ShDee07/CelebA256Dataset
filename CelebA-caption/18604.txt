@@ -1,0 +1,10 @@
+This man has brown hair, and bangs. He is wearing earrings.
+The man has brown hair and is wearing earrings. He is young.
+He has bangs. He is young. He is wearing earrings. He has no beard.
+The person is wearing earrings. He has pointy nose, and bangs. He is young.
+This man has bangs and is wearing earrings.
+This person is young and has pointy nose. 
+This young man has brown hair, and bangs. 
+This man has brown hair, and bangs. He is young. He wears earrings. He has no beard.
+He is wearing earrings. He has brown hair, and pointy nose. He is young.
+He is young and has pointy nose, and brown hair. 

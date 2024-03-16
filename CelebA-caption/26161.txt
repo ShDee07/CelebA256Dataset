@@ -1,0 +1,10 @@
+The person has arched eyebrows and is wearing necktie.
+He wears necktie. He has arched eyebrows. He is chubby.
+He is wearing necktie. He has bags under eyes. He is chubby.
+The man has bushy eyebrows. He is wearing necktie. He is chubby.
+He wears necktie. He has bushy eyebrows. He is chubby.
+He has arched eyebrows, and bushy eyebrows. He wears necktie. He is chubby.
+He is wearing necktie. He is chubby and has bags under eyes, and arched eyebrows.
+The man has arched eyebrows, and bushy eyebrows and wears necktie. He is chubby.
+This man is wearing necktie. He has bags under eyes.
+He wears necktie. He is chubby and has bushy eyebrows.

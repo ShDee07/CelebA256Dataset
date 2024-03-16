@@ -1,0 +1,10 @@
+This woman has . She wears hat. She is young.
+The person has . She is young. She wears hat.
+She has . She is wearing hat. She is young.
+This woman is wearing hat. She has .
+The person wears hat. She has . She is young.
+She is wearing hat. She has . She is young.
+She wears hat. She is young and has .
+This woman has . She is young and is wearing hat.
+The woman wears hat. She has . She is young.
+The woman wears hat. She has .

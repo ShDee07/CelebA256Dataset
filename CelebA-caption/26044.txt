@@ -1,0 +1,10 @@
+This man has brown hair, wavy hair, and oval face.
+This person has bushy eyebrows.
+He has bushy eyebrows, and oval face. 
+He has oval face, and gray hair. 
+He has brown hair.
+He has wavy hair, bushy eyebrows, oval face, and gray hair. 
+This man has bushy eyebrows, wavy hair, and brown hair.
+The man has bushy eyebrows, and gray hair. 
+The person has oval face, bushy eyebrows, brown hair, and wavy hair. 
+This man has oval face, and bushy eyebrows.

@@ -1,0 +1,10 @@
+This person has wavy hair and wears lipstick.
+The woman wears lipstick. She has wavy hair. She is young.
+This person has wavy hair. She is wearing lipstick. She is young.
+This person is wearing lipstick. She has wavy hair.
+This person has big nose. She is young and wears lipstick.
+The woman has big nose. She wears lipstick.
+This attractive woman has wavy hair. 
+She wears lipstick. She has wavy hair. She is attractive.
+She is wearing lipstick. She has wavy hair. She is attractive.
+This attractive person has big nose. 

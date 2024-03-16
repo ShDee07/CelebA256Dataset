@@ -1,0 +1,10 @@
+The man is wearing hat. He has goatee, and big nose.
+He wears hat. He is chubby and has big nose, and sideburns.
+This person is chubby and has goatee, and sideburns. 
+He is wearing hat. He has sideburns.
+He has big nose. He is chubby and is wearing hat. He has beard.
+This person has big nose. He is chubby and is wearing hat. He has beard.
+He has big nose. He is chubby and is wearing hat. He has beard.
+The man has big nose. He is chubby. He wears hat. He has beard.
+The man has sideburns. He is chubby. He wears hat. He has beard.
+He has sideburns. He is chubby and wears hat. He has beard.

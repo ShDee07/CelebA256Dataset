@@ -1,0 +1,10 @@
+This woman has bangs, and arched eyebrows. She is wearing lipstick. She is young.
+The woman has arched eyebrows and wears lipstick.
+The woman has big lips. She wears lipstick.
+The woman has big lips, straight hair, and bangs. She is attractive. She wears lipstick.
+The person has arched eyebrows, and bangs. She is wearing heavy makeup. She is attractive.
+The woman is young and has straight hair, bangs, and big lips. 
+The person is young and has straight hair. 
+This woman has straight hair. She wears heavy makeup. She is attractive.
+She is wearing heavy makeup. She has straight hair, and bangs. She is young.
+The woman has big lips. She wears lipstick.

@@ -1,0 +1,10 @@
+This woman has pale skin, and wavy hair. She is wearing lipstick. 
+The person has pale skin. She wears lipstick. 
+The person has pale skin, and blond hair and is wearing lipstick.
+The person has pale skin. She wears lipstick. 
+The woman has pale skin, and wavy hair and is wearing lipstick.
+This person has pale skin. She is wearing lipstick.
+This person has blond hair, and wavy hair and is wearing lipstick.
+She wears lipstick. She has wavy hair, and blond hair. She.
+This person has blond hair, and wavy hair. She wears lipstick.
+She. She wears lipstick has blond hair. 

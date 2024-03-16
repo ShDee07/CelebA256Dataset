@@ -1,0 +1,10 @@
+The person has pointy nose. She is young. She wears lipstick.
+The person is wearing lipstick. She has pointy nose.
+She is wearing lipstick. She has straight hair. She is young.
+The woman has straight hair and wears lipstick.
+She wears lipstick. She has straight hair. She is young.
+She is wearing lipstick. She has straight hair. She is young.
+This person wears lipstick. She has pointy nose. She is young.
+She is young and has straight hair. 
+She is wearing lipstick. She has straight hair. She is young.
+This young woman has pointy nose. 

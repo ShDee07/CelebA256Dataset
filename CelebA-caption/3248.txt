@@ -1,0 +1,10 @@
+This person has narrow eyes. He wears hat.
+This man has big lips and wears hat. He is young.
+He has pointy nose, big lips, and narrow eyes. He is young. He wears hat. He has beard.
+The person has mouth slightly open, pointy nose, and narrow eyes. He is young. He is wearing hat. He has beard.
+He has pointy nose, narrow eyes, and big lips. He is young. He wears hat. He has beard.
+This man has narrow eyes and is wearing hat. He is young.
+This man is wearing hat. He has narrow eyes, and pointy nose. He is young.
+He is wearing hat. He has big lips. He is young.
+He is young and has pointy nose, and big lips. 
+He has big lips. He is young and wears hat. He has beard.

@@ -1,0 +1,10 @@
+This man is young and has black hair, and eyeglasses.
+The man has big lips.
+He has black hair.
+This man has eyeglasses, and black hair. He is young. He has beard.
+The man has big lips, and black hair. He is young.
+He has black hair, and big lips. He is young. He has beard.
+This person has black hair.
+This person has big lips. He is young.
+The person has big lips. He is young.
+This man has eyeglasses. He is young.

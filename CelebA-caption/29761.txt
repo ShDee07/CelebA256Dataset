@@ -1,0 +1,10 @@
+The man is chubby and has big nose. 
+This man is chubby and has big nose, sideburns, and goatee. 
+The person has sideburns, goatee, and big nose.
+The man has eyeglasses, sideburns, and goatee. He is chubby. He has beard.
+This man is chubby and has sideburns, eyeglasses, and big nose.
+The person has big nose, sideburns, and goatee. He is chubby. He has beard.
+This man has big nose.
+The man is chubby and has sideburns, big nose, and goatee.
+He has sideburns, goatee, and eyeglasses. He is chubby.
+The man has big nose, and sideburns. He is chubby.

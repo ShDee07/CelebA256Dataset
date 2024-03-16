@@ -1,0 +1,10 @@
+This person has brown hair. She is wearing earrings. She is young.
+This person has bangs, and brown hair. She wears earrings, and heavy makeup. She is attractive.
+This person has bangs, and wavy hair. She wears lipstick.
+The person is wearing earrings. She has wavy hair.
+The person is wearing lipstick, earrings. She has bangs. She is young.
+This woman is young and has bangs. 
+This young person has brown hair, and bangs. 
+This person is young and has wavy hair, and bangs. 
+The person has bangs. She is attractive. She wears earrings.
+The person has wavy hair, and bangs. She wears earrings. She is young.

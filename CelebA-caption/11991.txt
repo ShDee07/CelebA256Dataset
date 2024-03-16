@@ -1,0 +1,10 @@
+The woman is attractive and has black hair. 
+The person has black hair, and bags under eyes. She is wearing lipstick.
+The person has bags under eyes, and black hair and wears lipstick. She is attractive.
+This woman wears lipstick. She has black hair, and high cheekbones. She is attractive.
+This woman has high cheekbones, and black hair. She wears heavy makeup. She is attractive.
+She is wearing earrings, and lipstick. She has bags under eyes, and high cheekbones. She is attractive.
+The woman has bags under eyes, and black hair. She is attractive and is wearing earrings, and lipstick.
+The person is attractive and has black hair. 
+The woman has high cheekbones. She is attractive and is wearing lipstick, and heavy makeup.
+She is wearing lipstick, and heavy makeup. She has high cheekbones. She is attractive.

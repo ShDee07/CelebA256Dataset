@@ -1,0 +1,10 @@
+This man has brown hair and wears lipstick.
+The man has bangs, and brown hair. He is attractive and is wearing lipstick. He has no beard.
+This man has brown hair, and bangs and is wearing lipstick. He is attractive.
+The man has brown hair, and pale skin. He is wearing lipstick. He is attractive.
+The person is wearing lipstick. He has bangs, and brown hair.
+He is wearing lipstick. He has brown hair, and bangs. He is attractive.
+He has bangs, and brown hair. He is attractive. He wears lipstick. He has no beard.
+He wears lipstick. He has pale skin, and bangs. He is young.
+The person has bangs. He is young and is wearing lipstick. He has no beard.
+He is young and has pale skin. 

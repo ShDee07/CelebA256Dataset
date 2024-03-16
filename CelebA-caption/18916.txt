@@ -1,0 +1,10 @@
+The person is wearing heavy makeup. She has black hair.
+The woman has straight hair. She is wearing lipstick.
+She has oval face, and black hair. She is young and is wearing lipstick.
+This person has black hair and wears heavy makeup. She is young.
+She wears heavy makeup. She has black hair. She is young.
+She wears heavy makeup. She has black hair. She is young.
+She wears heavy makeup. She is young and has oval face, and straight hair.
+The woman has black hair, and oval face. She is wearing heavy makeup. She is young.
+This person is young and has oval face, and black hair. 
+The woman has straight hair, and oval face and is wearing lipstick. She is young.

@@ -1,0 +1,10 @@
+He wears necktie. He has straight hair, mustache, sideburns, and goatee.
+He has mustache. He is wearing necktie.
+The person has goatee, straight hair, and sideburns. He wears necktie. 
+This person is wearing necktie. He has sideburns, goatee, and straight hair. He.
+He has big nose. He wears necktie. 
+He has straight hair, sideburns, big nose, and mustache and is wearing necktie. 
+This man has big nose, sideburns, and goatee and wears necktie.
+This man has big nose, and sideburns and is wearing necktie.
+This person has straight hair, big nose, and goatee and wears necktie.
+This man is wearing necktie. He has straight hair, and big nose.

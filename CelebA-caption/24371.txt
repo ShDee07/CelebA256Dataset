@@ -1,0 +1,10 @@
+The man has brown hair. He is young. He has beard.
+The man has brown hair, and bags under eyes. He is young.
+This person has oval face, and bangs. He is young.
+The person is young and has bangs, oval face, and bags under eyes.
+The person is young and has bangs. 
+The man has bags under eyes.
+He has bangs, bushy eyebrows, and brown hair.
+The person has bangs, and brown hair.
+The man has oval face, and brown hair. He is young. He has beard.
+This man has oval face, bushy eyebrows, bags under eyes, and brown hair. He is young. He has beard.

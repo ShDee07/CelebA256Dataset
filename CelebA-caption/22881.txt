@@ -1,0 +1,10 @@
+This man is wearing necktie. He has bags under eyes, mustache, and goatee. He is bald.
+The man has mustache, and sideburns. He is wearing necktie. He is bald.
+This person is bald and has mustache. 
+The person is wearing necktie. He has goatee.
+This bald man has mustache, goatee, and sideburns. 
+He has mustache, and goatee. He is wearing necktie.
+This man has bags under eyes. He is bald and is wearing necktie. He has beard.
+The man has sideburns, and bags under eyes and wears necktie.
+This man is bald and has goatee. 
+He has mustache, goatee, and sideburns. He is bald and is wearing necktie. He has beard.

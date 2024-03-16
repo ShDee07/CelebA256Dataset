@@ -1,0 +1,10 @@
+This woman has pale skin. She is attractive and wears lipstick.
+This attractive person has big lips. 
+The woman has brown hair and wears heavy makeup.
+This woman has pale skin. She wears heavy makeup, and earrings.
+The person wears earrings, heavy makeup. She has pale skin, and big lips.
+This woman is wearing lipstick, heavy makeup. She has brown hair, and big lips.
+She wears earrings. She has pale skin. She is attractive.
+She wears heavy makeup, and lipstick. She has big lips. She is attractive.
+The woman has pale skin, and big lips and is wearing earrings. She is attractive.
+She has brown hair, and big lips. She wears heavy makeup, and lipstick. She is attractive.

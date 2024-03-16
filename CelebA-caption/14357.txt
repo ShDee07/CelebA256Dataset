@@ -1,0 +1,10 @@
+This woman is young and has narrow eyes.
+The person has blond hair. She is young.
+The person has narrow eyes.
+The person has blond hair, and narrow eyes. She is young.
+This person has blond hair.
+This woman has blond hair. She is young.
+This person has narrow eyes, and bags under eyes.
+This woman has bags under eyes, and narrow eyes. She is young.
+The person has bags under eyes, and blond hair. She is young.
+She has bags under eyes, and narrow eyes.

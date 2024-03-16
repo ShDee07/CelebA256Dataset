@@ -1,0 +1,10 @@
+The person has pointy nose. She is young and is wearing heavy makeup.
+This person has eyeglasses.
+This man has mustache, pointy nose, and sideburns.
+This man has eyeglasses, mustache, and pointy nose.
+The person has goatee, and eyeglasses.
+He has goatee, and eyeglasses.
+The man has mustache, and eyeglasses. 
+This man has eyeglasses, and mustache.
+This man has mustache, eyeglasses, goatee, and pointy nose. 
+This person has eyeglasses, and mustache.

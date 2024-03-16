@@ -1,0 +1,10 @@
+The person has brown hair, bangs, and pale skin. She is young and is wearing lipstick.
+The person has brown hair and wears lipstick. She is young.
+The person has pale skin and wears lipstick. She is young.
+This person has pale skin and wears lipstick.
+She is wearing lipstick. She is young and has brown hair, and pale skin.
+She has bangs. She is wearing lipstick. She is young.
+The woman has pale skin and wears lipstick.
+She has big nose, pale skin, and brown hair. She is attractive and is wearing lipstick.
+This woman has pale skin, and bangs. She is attractive and wears lipstick.
+The woman has brown hair, big nose, and bangs and wears lipstick.

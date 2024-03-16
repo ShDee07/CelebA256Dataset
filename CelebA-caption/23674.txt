@@ -1,0 +1,10 @@
+This person has brown hair, wavy hair, and mustache. He is chubby. He has beard.
+This man has wavy hair, mustache, and brown hair. He is chubby.
+The person has brown hair, goatee, and mustache. He is chubby. He has beard.
+The person is chubby and has oval face, wavy hair, goatee, and mustache. 
+This person has brown hair, and goatee. He is chubby.
+He is chubby and has goatee, oval face, wavy hair, and mustache. 
+He is chubby and has wavy hair, goatee, mustache, and brown hair.
+This man has wavy hair, and goatee.
+The man has goatee, and brown hair. He is chubby.
+This person has oval face, brown hair, mustache, and goatee.

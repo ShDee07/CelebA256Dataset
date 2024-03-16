@@ -1,0 +1,10 @@
+The man has oval face, and big nose.
+The man is bald and has oval face, receding hairline, and big nose. 
+The man has receding hairline, oval face, goatee, and big nose.
+He has goatee, receding hairline, and sideburns.
+He has sideburns. He is bald.
+This person has goatee, big nose, oval face, and sideburns.
+This man is bald and has receding hairline.
+This person has oval face, big nose, goatee, and sideburns.
+He is bald and has sideburns, receding hairline, and oval face.
+This man has receding hairline. He is bald.

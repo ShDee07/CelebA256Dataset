@@ -1,0 +1,10 @@
+The person is chubby and has double chin, oval face, and receding hairline. 
+This man is bald and has receding hairline, and oval face. 
+This person is bald and has double chin, and big nose.
+This man is chubby and has oval face. 
+This man has receding hairline, big nose, and oval face.
+This man has receding hairline. He is bald.
+He has oval face, double chin, and big nose. He is bald.
+This person has big nose.
+The person has double chin. He is chubby.
+This person has receding hairline, double chin, and big nose. He is chubby. He has no beard.

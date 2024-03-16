@@ -1,0 +1,10 @@
+The woman is wearing lipstick. She has pointy nose.
+She has arched eyebrows and wears heavy makeup. She is attractive.
+She is young and has blond hair, mouth slightly open, pointy nose, and arched eyebrows. 
+She is wearing lipstick. She has mouth slightly open, big lips, and blond hair. She is attractive.
+This woman is wearing heavy makeup. She has blond hair. She is young.
+This woman is young and has pointy nose. 
+She is attractive and has pointy nose, blond hair, and big lips. 
+The person has mouth slightly open and is wearing lipstick.
+She has blond hair, arched eyebrows, and mouth slightly open. She is wearing heavy makeup. She is attractive.
+This woman has big lips, arched eyebrows, and mouth slightly open. She is young and is wearing lipstick.

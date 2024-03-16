@@ -1,0 +1,10 @@
+This person has bangs, and straight hair.
+The woman has oval face, and brown hair.
+This woman has brown hair, and oval face. She is young.
+This person is young and has oval face, and straight hair.
+This young woman has bangs, straight hair, and oval face. 
+This person has straight hair, brown hair, and bangs.
+This woman has oval face. She is young.
+This person has brown hair. She is young.
+This woman has oval face, straight hair, and bangs. She is young.
+This woman is young and has bangs, oval face, and brown hair.

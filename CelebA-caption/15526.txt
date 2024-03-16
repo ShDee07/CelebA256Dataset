@@ -1,0 +1,10 @@
+This person wears hat. He has eyeglasses, sideburns, and mustache. He is young.
+This person is young and has mustache. 
+The person wears hat. He has sideburns, eyeglasses, and bushy eyebrows. He is young.
+This man has bushy eyebrows, and eyeglasses. He is wearing hat.
+This person has mustache, sideburns, and bushy eyebrows. He is young and wears hat. He has beard.
+The person has sideburns. He is wearing hat. He is young.
+He is wearing hat. He has mustache, bushy eyebrows, and sideburns. He is young.
+He has mustache, bushy eyebrows, and sideburns. He wears hat. He is young.
+The man has bushy eyebrows, and sideburns. He is young and wears hat. He has beard.
+He is wearing hat. He has mustache, and bushy eyebrows. He is young.

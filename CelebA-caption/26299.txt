@@ -1,0 +1,10 @@
+This person is young and has sideburns. 
+He is wearing necktie. He has goatee, eyeglasses, and oval face. He is bald.
+He wears necktie. He has big nose, sideburns, and oval face. He is bald.
+This bald person has goatee, and sideburns. 
+This person has oval face, goatee, sideburns, and eyeglasses. He is bald. He is wearing necktie. He has beard.
+This man has big nose, sideburns, oval face, and eyeglasses and is wearing necktie.
+He wears necktie. He has big nose. He is young.
+The man wears necktie. He has sideburns, big nose, and goatee.
+He wears necktie. He is young and has sideburns, eyeglasses, goatee, and big nose.
+This man has big nose, and oval face. He wears necktie. He is young.

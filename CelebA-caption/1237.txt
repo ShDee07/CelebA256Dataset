@@ -1,0 +1,10 @@
+The person has wavy hair.
+The person has arched eyebrows.
+This person has arched eyebrows.
+This person has brown hair, and wavy hair.
+This person has bushy eyebrows.
+The person has wavy hair, and arched eyebrows.
+The person has bushy eyebrows, arched eyebrows, and brown hair. She is young.
+She has brown hair. She is young.
+She has arched eyebrows.
+The person has bushy eyebrows. She is young.

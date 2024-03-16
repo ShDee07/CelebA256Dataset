@@ -1,0 +1,10 @@
+The man has goatee, pointy nose, and mustache.
+The person has sideburns, pointy nose, and goatee.
+This man has mustache.
+The person has sideburns, pointy nose, and mustache.
+The person has pointy nose.
+This man has pointy nose, and goatee. 
+He has mustache, and goatee.
+The person has mustache, pointy nose, and goatee.
+The person has mustache, pointy nose, and goatee.
+The person has mustache, pointy nose, and goatee.

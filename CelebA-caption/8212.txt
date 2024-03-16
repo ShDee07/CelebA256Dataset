@@ -1,0 +1,10 @@
+The woman has pointy nose, arched eyebrows, and wavy hair and wears necklace, and heavy makeup.
+The woman has arched eyebrows. She is attractive. She is wearing necklace.
+She wears necklace. She is attractive and has pointy nose.
+She is wearing necklace. She is young and has pointy nose.
+She has wavy hair and wears necklace. She is attractive.
+This person is wearing necklace. She has pointy nose, and black hair.
+She is wearing necklace, and heavy makeup. She has wavy hair, arched eyebrows, and pointy nose. She is attractive.
+The woman has black hair, and arched eyebrows. She wears heavy makeup. She is young.
+She is wearing heavy makeup. She has black hair, wavy hair, and pointy nose. She is attractive.
+She is young and has wavy hair, arched eyebrows, and black hair. 

@@ -1,0 +1,10 @@
+This person has black hair, goatee, and mustache. He is young. He is wearing necktie. He has beard.
+The person has goatee and wears necktie. He is attractive.
+The man is attractive and has black hair, and bags under eyes. 
+The man is wearing necktie. He has bags under eyes, and mustache.
+He wears necktie. He has black hair, mustache, and bags under eyes. He is attractive.
+This man is attractive and has black hair, goatee, and mustache. 
+He is wearing necktie. He is attractive and has black hair, bags under eyes, and goatee.
+He wears necktie. He is young and has goatee.
+The person is wearing necktie. He has bags under eyes, and mustache.
+The person is wearing necktie. He has mustache, and black hair.

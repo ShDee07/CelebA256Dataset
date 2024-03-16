@@ -1,0 +1,10 @@
+This person has oval face. He is wearing necktie.
+He is wearing necktie. He has oval face. He is bald.
+The person is bald and has sideburns, big nose, and bushy eyebrows. 
+He is bald and has pointy nose, oval face, and sideburns. 
+This person has bushy eyebrows. He is wearing necktie. He is bald.
+This bald man has pointy nose. 
+This man has bushy eyebrows, pointy nose, and oval face. He is bald. He is wearing necktie. He has beard.
+He wears necktie. He is bald and has oval face.
+He has oval face and wears necktie. He is bald.
+The man has oval face, big nose, and sideburns. He is bald. He wears necktie. He has beard.

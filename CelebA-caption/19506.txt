@@ -1,0 +1,10 @@
+The man has sideburns, black hair, and oval face. He is attractive. He has beard.
+The man has black hair, bushy eyebrows, and sideburns. He is young. He has beard.
+This man has black hair, sideburns, bushy eyebrows, and mouth slightly open.
+The man is attractive and has mouth slightly open, bushy eyebrows, and black hair.
+The person is young and has bushy eyebrows.
+This person has black hair, oval face, mouth slightly open, and bushy eyebrows. He is young. He has beard.
+The person has sideburns, and mouth slightly open.
+This person has oval face, bushy eyebrows, sideburns, and black hair. He is attractive. He has beard.
+He has mouth slightly open, sideburns, and oval face.
+This person is attractive and has mouth slightly open, and sideburns. 

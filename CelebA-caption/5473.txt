@@ -1,0 +1,10 @@
+The woman has bushy eyebrows, and arched eyebrows. She is wearing lipstick.
+The woman is young and has big nose. 
+She is wearing lipstick. She has big nose. She is young.
+This woman is young and has bushy eyebrows. 
+She is wearing lipstick. She has big nose, and arched eyebrows. She is young.
+The person has bushy eyebrows, and big nose and is wearing lipstick. She is young.
+She has arched eyebrows, and bushy eyebrows. She wears lipstick. She is young.
+This woman is wearing lipstick. She has bushy eyebrows, and arched eyebrows. She is young.
+The person has arched eyebrows. She is wearing lipstick.
+She has big nose and is wearing lipstick. She is young.

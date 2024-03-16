@@ -1,0 +1,10 @@
+The woman has brown hair and wears necklace. She is young.
+The person wears lipstick. She has brown hair, and high cheekbones.
+The woman has brown hair, and straight hair. She is young and is wearing lipstick.
+The woman has straight hair, and brown hair. She is wearing necklace.
+The woman has straight hair, and high cheekbones and wears necklace. She is young.
+This person has straight hair, and brown hair. She is young and is wearing necklace.
+This person has high cheekbones. She is young and is wearing necklace.
+The woman has high cheekbones, and straight hair. She wears necklace. She is smiling.
+The woman has high cheekbones. She is wearing necklace.
+This woman has high cheekbones and wears necklace. She is young.

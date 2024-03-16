@@ -1,0 +1,10 @@
+The person has brown hair. She wears heavy makeup. She is attractive.
+The person has big lips. She is young. She is wearing lipstick.
+This woman has brown hair, and big lips and wears lipstick. She is young.
+This woman is young and has brown hair, pointy nose, and big lips. 
+The person has wavy hair. She is attractive. She is wearing lipstick.
+This person has wavy hair, and brown hair. She wears lipstick. She is young.
+This person has pointy nose, wavy hair, and big lips. She wears heavy makeup.
+She wears heavy makeup. She has brown hair, wavy hair, and big lips. She is attractive.
+This person is young and has big lips. 
+She has brown hair, pointy nose, and big lips. She wears lipstick. She is attractive.

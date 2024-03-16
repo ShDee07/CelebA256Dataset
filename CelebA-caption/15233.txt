@@ -1,0 +1,10 @@
+She has arched eyebrows, gray hair, eyeglasses, and pale skin.
+The woman has gray hair.
+This woman has pale skin.
+The person has pale skin.
+The person has eyeglasses, and pointy nose. 
+This woman has pale skin, and pointy nose.
+This person has eyeglasses, and pale skin. 
+The woman has arched eyebrows, eyeglasses, and gray hair.
+She has pale skin, eyeglasses, and pointy nose.
+This person has arched eyebrows, pale skin, eyeglasses, and pointy nose.

@@ -1,0 +1,10 @@
+This man has sideburns, big nose, narrow eyes, brown hair, and goatee.
+This person has bags under eyes, goatee, big nose, narrow eyes, and brown hair.
+This person is young and has sideburns.
+This person has big nose.
+This person has big nose, goatee, and bags under eyes. He is young.
+This man is young and has big nose, sideburns, brown hair, bags under eyes, and narrow eyes. 
+He has brown hair. He is young.
+The man has sideburns, brown hair, and big nose.
+The person has narrow eyes, goatee, sideburns, big nose, and bags under eyes.
+He is young and has narrow eyes. 

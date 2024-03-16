@@ -1,0 +1,10 @@
+The man has bags under eyes. He wears hat. 
+He has bags under eyes and is wearing hat. 
+He is wearing necktie. He has bags under eyes.
+He wears necktie. He has bags under eyes.
+He wears hat. He has bags under eyes. He.
+The person has bags under eyes. He is wearing hat. 
+This man has bags under eyes. He is wearing hat. 
+He is wearing necktie. He has bags under eyes.
+He wears necktie. He has bags under eyes.
+The man has bags under eyes and is wearing hat.

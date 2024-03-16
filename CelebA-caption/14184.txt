@@ -1,0 +1,10 @@
+The man has bags under eyes. He is wearing hat.
+He is chubby and has bags under eyes. 
+The person has bags under eyes. He is wearing necktie.
+He has big nose. He wears hat.
+This person has big nose. He is chubby and is wearing necktie. He has no beard.
+The person is chubby and has big nose. 
+He wears necktie. He has big nose. He is chubby.
+He has big nose. He wears necktie. He is chubby.
+He is wearing hat. He has bags under eyes. He is chubby.
+This man has big nose. He is wearing hat.

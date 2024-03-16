@@ -1,0 +1,10 @@
+This woman has bangs and wears lipstick, and earrings. She is young.
+The person has bangs. She is young and wears earrings, and lipstick.
+She wears lipstick. She has black hair. She is attractive.
+This person has bangs and is wearing heavy makeup. She is attractive.
+The person wears heavy makeup, lipstick. She has bangs. She is attractive.
+The person has bangs and is wearing heavy makeup, and earrings.
+This woman has black hair. She is young. She wears earrings, and lipstick.
+The person has bangs. She is attractive. She wears heavy makeup.
+The person wears lipstick, heavy makeup. She has black hair.
+The person has bangs. She wears earrings. She is young.

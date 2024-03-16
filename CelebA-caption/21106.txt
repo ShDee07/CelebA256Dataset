@@ -1,0 +1,10 @@
+This young person has eyeglasses. 
+This person has eyeglasses. He is wearing necktie.
+He wears necktie. He is young and has mouth slightly open.
+This man has straight hair. He is wearing necktie. He is young.
+He is wearing necktie. He has straight hair, and mouth slightly open. He is young.
+This man has mouth slightly open, and eyeglasses. He is young and is wearing necktie. He has beard.
+This young person has eyeglasses. 
+He is young and has eyeglasses, and mouth slightly open. 
+This man has eyeglasses and wears necktie.
+The person wears necktie. He has eyeglasses. He is young.

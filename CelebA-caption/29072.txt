@@ -1,0 +1,10 @@
+This man is young and has eyeglasses.
+The person has big lips, and eyeglasses. He is young. He has beard.
+This man has eyeglasses, and big lips.
+The person has wavy hair.
+This person is young and has eyeglasses.
+He has eyeglasses, and big lips.
+The person has eyeglasses, and big lips. He is young. He has beard.
+He is young and has wavy hair.
+This person has eyeglasses, and big lips. He is young. He has beard.
+He has wavy hair, and eyeglasses.

@@ -1,0 +1,10 @@
+This woman has narrow eyes, mouth slightly open, and high cheekbones. She is young.
+The woman has narrow eyes. She is young.
+This person has bags under eyes.
+The person has mouth slightly open, high cheekbones, and bags under eyes. She is smiling.
+This woman has narrow eyes, and high cheekbones.
+The person has high cheekbones, narrow eyes, and bags under eyes.
+The person is young and has mouth slightly open, and bags under eyes.
+She is young and has narrow eyes, and high cheekbones.
+The woman has narrow eyes, and mouth slightly open.
+This woman is smiling and has high cheekbones.

@@ -1,0 +1,10 @@
+The person is young and has mustache. 
+This person has mustache.
+The person has eyeglasses. He is young.
+This man has mustache. He is young. He has beard.
+The person is young and has mustache.
+This man has eyeglasses.
+This man has eyeglasses. He is young. He has beard.
+The man is young and has eyeglasses. 
+This person is young and has mustache.
+The person has eyeglasses.

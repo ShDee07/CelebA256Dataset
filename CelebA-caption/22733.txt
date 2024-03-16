@@ -1,0 +1,10 @@
+The man wears necktie. He has goatee.
+He has sideburns and wears necktie. He is young.
+The man has sideburns. He wears necktie. He is young.
+This person is young and has bushy eyebrows. 
+The man has goatee, and bushy eyebrows. He wears necktie.
+This man has bushy eyebrows, and sideburns. He is young. He wears necktie. He has beard.
+The person has goatee. He is young and wears necktie. He has beard.
+This man has sideburns and wears necktie.
+The person has goatee, and sideburns and wears necktie.
+The man has goatee, and bushy eyebrows and wears necktie.

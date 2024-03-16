@@ -1,0 +1,10 @@
+The man is wearing necktie. He has straight hair. He is young.
+The man has narrow eyes, and straight hair. He wears necktie. He is young.
+The man is smiling and has narrow eyes. 
+He wears necktie. He has straight hair, and narrow eyes.
+He has straight hair. He is wearing necktie. He is smiling.
+The man wears necktie. He has straight hair, and big lips.
+The person is smiling and has big lips, and straight hair. 
+The person has narrow eyes, and big lips. He is wearing necktie. He is young.
+The person has narrow eyes. He is wearing necktie. He is smiling.
+He is wearing necktie. He is young and has big lips, and narrow eyes.

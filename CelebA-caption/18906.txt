@@ -1,0 +1,10 @@
+The man has oval face. He is young. He is wearing necklace. He has beard.
+He wears necklace. He has oval face. He is young.
+The person has oval face and wears necklace. He is young.
+He is wearing necklace. He has oval face. He is young.
+The person has oval face. He is wearing necklace.
+The person is young and has oval face. 
+He has oval face and wears necklace. He is young.
+The person has oval face and is wearing necklace.
+The person has oval face and wears necklace. He is young.
+This person is young and has oval face. 

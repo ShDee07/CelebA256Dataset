@@ -1,0 +1,10 @@
+The person has bangs, sideburns, and bushy eyebrows. He is young. He has beard.
+This person has goatee. He is young.
+The person is young and has bangs, and sideburns. 
+This person is young and has bangs.
+He has sideburns, goatee, and bushy eyebrows.
+He has sideburns. He is young. He has beard.
+The person has sideburns.
+The man is young and has bangs, and goatee.
+This man has goatee, bushy eyebrows, and sideburns.
+The person has goatee.

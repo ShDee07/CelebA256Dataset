@@ -1,0 +1,10 @@
+This person has big nose.
+The person is young and has big nose.
+The person is young and has eyeglasses.
+The man has big nose.
+The man has eyeglasses.
+This man has big nose.
+This person has big nose.
+This person is young and has eyeglasses. 
+He has eyeglasses.
+This man has eyeglasses. He is young.

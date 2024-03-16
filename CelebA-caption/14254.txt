@@ -1,0 +1,10 @@
+The person has wavy hair and is wearing lipstick.
+The person has wavy hair. She is attractive. She is wearing lipstick.
+She wears lipstick. She has wavy hair. She is attractive.
+This person has mouth slightly open. She is attractive. She wears heavy makeup.
+This woman has mouth slightly open and is wearing lipstick.
+This person is young and has wavy hair. 
+The person has wavy hair and is wearing lipstick. She is young.
+She is wearing lipstick. She has mouth slightly open.
+She is wearing lipstick. She is young and has wavy hair.
+This woman has wavy hair and is wearing lipstick.

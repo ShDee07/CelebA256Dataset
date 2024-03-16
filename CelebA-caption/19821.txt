@@ -1,0 +1,10 @@
+The man has black hair, arched eyebrows, mustache, wavy hair, and sideburns. He is young.
+The person has black hair, bushy eyebrows, arched eyebrows, mustache, sideburns, and goatee. He is young.
+This person has wavy hair. He is young. He has beard.
+This person has bushy eyebrows, sideburns, and wavy hair. He is young.
+The man has mustache, bushy eyebrows, and black hair. He is young. He has beard.
+The person has goatee. He is young. He has beard.
+This man has goatee, arched eyebrows, mustache, and wavy hair.
+This man is young and has bushy eyebrows, sideburns, arched eyebrows, and black hair.
+He has mustache, black hair, and sideburns.
+The man has goatee, arched eyebrows, black hair, mustache, and bushy eyebrows.

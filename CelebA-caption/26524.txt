@@ -1,0 +1,10 @@
+This young person has mouth slightly open. 
+The woman has mouth slightly open and wears hat.
+The person has mouth slightly open. She is young. She wears hat.
+This person is young and has eyeglasses. 
+This woman has eyeglasses. She is young. She is wearing hat.
+This person wears hat. She has eyeglasses. She is young.
+The woman has eyeglasses. She is wearing hat. She is young.
+The person is young and has eyeglasses. 
+The woman has mouth slightly open and wears hat. She is young.
+This person has eyeglasses and is wearing hat.

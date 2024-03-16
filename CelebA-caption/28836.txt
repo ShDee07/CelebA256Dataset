@@ -1,0 +1,10 @@
+This person has wavy hair, and black hair.
+The person has bushy eyebrows, and black hair.
+The person has goatee.
+The man is young and has goatee, bushy eyebrows, and wavy hair.
+The person is young and has bushy eyebrows, black hair, goatee, wavy hair, and sideburns. 
+This man has oval face, goatee, and black hair. He is young. He has beard.
+He has black hair, oval face, and sideburns.
+He has sideburns, and wavy hair. He is young.
+This man is young and has bushy eyebrows, and oval face.
+This man has goatee, and oval face. He is attractive. He has beard.

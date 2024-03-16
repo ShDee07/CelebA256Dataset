@@ -1,0 +1,10 @@
+This person is wearing earrings. She has bangs, arched eyebrows, and blond hair. She is attractive.
+This person is wearing necklace, heavy makeup. She has arched eyebrows. She is attractive.
+This woman has pale skin, and blond hair. She wears lipstick.
+The woman is wearing lipstick. She has arched eyebrows, pale skin, and bangs.
+She has bangs, blond hair, and arched eyebrows. She is wearing lipstick. She is attractive.
+She has bangs, blond hair, and arched eyebrows. She is wearing heavy makeup, and earrings. She is attractive.
+The person has bangs and wears lipstick.
+This woman has pale skin, and blond hair and is wearing earrings.
+She is wearing lipstick, earrings, and necklace. She is attractive and has blond hair, and bangs.
+She wears necklace, earrings, and heavy makeup. She has bangs, pale skin, and arched eyebrows. She is young.

@@ -1,0 +1,10 @@
+This person has black hair. He is smiling.
+The man has bags under eyes. He is young.
+This man is young and has black hair, and bags under eyes.
+This person has bags under eyes, mouth slightly open, and eyeglasses. He is smiling. He has no beard.
+The person is young and has black hair.
+This man is smiling and has bags under eyes, eyeglasses, and black hair. 
+This person has mouth slightly open, and eyeglasses. He is smiling. He has no beard.
+This person is young and has eyeglasses, and black hair.
+This man has eyeglasses, and black hair. He is smiling. He has no beard.
+The person is smiling and has black hair.

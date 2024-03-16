@@ -1,0 +1,10 @@
+This man has bushy eyebrows, goatee, bags under eyes, sideburns, and mustache.
+The man has bags under eyes. He is young. He has beard.
+The person is young and has narrow eyes. 
+This man has sideburns, goatee, and bags under eyes.
+This man has mustache, bushy eyebrows, goatee, and narrow eyes. He is young.
+This person has narrow eyes, and goatee.
+The person has sideburns, and goatee. He is young. He has beard.
+The person is young and has bags under eyes, bushy eyebrows, and mustache.
+This person has sideburns, goatee, narrow eyes, and mustache. He is young.
+The person has bushy eyebrows, goatee, and sideburns. He is young.

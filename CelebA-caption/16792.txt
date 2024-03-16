@@ -1,0 +1,10 @@
+The person has pointy nose.
+He has pointy nose, and big nose.
+This person has pale skin. He is attractive.
+This man is attractive and has pale skin, and goatee.
+This person has mustache. He is attractive.
+This man is attractive and has mustache, and big nose. 
+This man is attractive and has big nose, pointy nose, sideburns, goatee, and pale skin.
+The man is attractive and has mustache, big nose, and sideburns.
+The man has sideburns, big nose, and pointy nose.
+The person has mustache, and goatee.

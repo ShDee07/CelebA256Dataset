@@ -1,0 +1,10 @@
+The woman has brown hair, and wavy hair. She is young and wears heavy makeup.
+This woman has bangs, and brown hair. She is wearing heavy makeup. She is young.
+The person is wearing lipstick. She has bangs.
+She has bangs and wears heavy makeup. She is young.
+She wears lipstick. She is young and has wavy hair, and bangs.
+The woman has brown hair and is wearing lipstick. She is young.
+The person has brown hair and is wearing heavy makeup.
+This person has brown hair, and bangs. She wears heavy makeup. She is young.
+She has bangs and is wearing lipstick. She is young.
+The person has brown hair, and wavy hair. She is young and wears heavy makeup.

@@ -1,0 +1,10 @@
+The person has bags under eyes and is wearing hat. She is young.
+The woman has bags under eyes. She is young and is wearing hat.
+The person has bags under eyes. She wears hat.
+She wears earrings. She is young and has bags under eyes.
+This woman is attractive and has bags under eyes. 
+This person has bags under eyes and is wearing hat. She is young.
+This person has bags under eyes. She is attractive and wears earrings.
+This person has bags under eyes. She is attractive. She wears hat.
+The woman has bags under eyes and wears hat. She is attractive.
+This woman is young and has bags under eyes. 

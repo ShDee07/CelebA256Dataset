@@ -1,0 +1,10 @@
+The man has bushy eyebrows. He is attractive. He has no beard.
+The person has black hair. He is attractive. He has no beard.
+The man has black hair, and wavy hair. He is young, and attractive. He has no beard.
+The man is attractive and has bushy eyebrows. 
+The person has wavy hair. He is smiling, and attractive.
+He has wavy hair.
+This man is young, and smiling and has black hair, and wavy hair.
+He is attractive, and young and has bushy eyebrows, and black hair. 
+He has black hair, and wavy hair. He is attractive, and smiling.
+The man has wavy hair, and bushy eyebrows. He is attractive, and smiling.

@@ -1,0 +1,10 @@
+The person wears lipstick. She has receding hairline. She is young.
+The woman is wearing heavy makeup. She has pointy nose, and arched eyebrows.
+The person is wearing lipstick. She has receding hairline. She is young.
+This person is wearing heavy makeup. She has arched eyebrows, and receding hairline.
+This woman wears heavy makeup. She has pointy nose.
+She wears lipstick. She is attractive and has arched eyebrows.
+This young person has pointy nose, and receding hairline. 
+She wears lipstick. She is young and has pointy nose.
+The woman has receding hairline, and arched eyebrows. She is wearing lipstick.
+She has receding hairline, and pointy nose. She is attractive. She is wearing heavy makeup.

@@ -1,0 +1,10 @@
+This woman has eyeglasses. She is young.
+The woman has brown hair, and mouth slightly open. She is young.
+This woman has mouth slightly open.
+This young woman has brown hair. 
+This person has brown hair, and eyeglasses.
+This woman has mouth slightly open, and eyeglasses. She is smiling.
+The person has mouth slightly open. She is smiling.
+This woman has eyeglasses, and mouth slightly open. She is young.
+The person has mouth slightly open, and brown hair.
+This woman has mouth slightly open, and eyeglasses. She is young.

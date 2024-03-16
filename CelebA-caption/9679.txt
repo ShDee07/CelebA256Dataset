@@ -1,0 +1,10 @@
+This man wears hat. He has sideburns, and mustache. He is chubby.
+This person wears hat. He has bags under eyes, and goatee.
+He has bags under eyes, sideburns, and big nose and wears hat. He is chubby.
+The man has goatee, sideburns, and bags under eyes. He is chubby and is wearing hat. He has beard.
+He is wearing hat. He is chubby and has sideburns, goatee, bags under eyes, and mustache.
+He is wearing hat. He is chubby and has goatee.
+This man has goatee, sideburns, and bags under eyes. He wears hat.
+He is wearing hat. He has mustache, goatee, and sideburns.
+The person has sideburns, bags under eyes, and mustache and wears hat. He is chubby.
+He is wearing hat. He has big nose, goatee, bags under eyes, and sideburns. He is chubby.

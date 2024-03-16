@@ -1,0 +1,10 @@
+This man has bangs.
+The man has eyeglasses, and bangs. He is attractive.
+He is young and has straight hair. 
+The person has straight hair, and bangs. He is attractive.
+The man is young and has straight hair.
+This person has bangs, and eyeglasses.
+The man has eyeglasses, and straight hair. He is attractive.
+He has straight hair, and eyeglasses.
+The man has eyeglasses.
+This person has eyeglasses, and bangs. He is attractive. He has no beard.

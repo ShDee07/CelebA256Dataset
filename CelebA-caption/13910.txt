@@ -1,0 +1,10 @@
+This person is young and has eyeglasses, and mustache. 
+This person has wavy hair. He is wearing hat.
+This young person has eyeglasses, sideburns, and bags under eyes. 
+This man is wearing hat. He has eyeglasses, sideburns, mustache, and bags under eyes.
+This man has eyeglasses and wears hat.
+This man wears necktie. He has mustache, and eyeglasses.
+The man has eyeglasses, bags under eyes, wavy hair, and sideburns. He is young. He is wearing necktie. He has beard.
+The person has eyeglasses, and mustache. He is wearing hat.
+The man has wavy hair, sideburns, and mustache. He is wearing hat.
+The man wears necktie. He has bags under eyes, mustache, eyeglasses, and sideburns. He is young.

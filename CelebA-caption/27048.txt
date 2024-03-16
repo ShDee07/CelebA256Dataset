@@ -1,0 +1,10 @@
+This person has wavy hair. She wears heavy makeup. She is young.
+This person is young and has wavy hair. 
+She has wavy hair and is wearing lipstick.
+The woman has wavy hair and wears lipstick. She is young.
+She wears heavy makeup. She is young and has narrow eyes.
+She has narrow eyes. She wears lipstick. She is young.
+This person has wavy hair. She wears lipstick.
+This person has narrow eyes. She is wearing heavy makeup.
+The person is wearing lipstick. She has wavy hair. She is young.
+The woman has narrow eyes and is wearing lipstick. She is young.

@@ -1,0 +1,10 @@
+This person has narrow eyes, eyeglasses, and wavy hair. He is young.
+This person has eyeglasses, narrow eyes, and big nose. He is young.
+The man has eyeglasses, wavy hair, and narrow eyes. He is young.
+The man has wavy hair, and narrow eyes. He is young.
+The person has narrow eyes, eyeglasses, and wavy hair.
+This young person has eyeglasses, and wavy hair. 
+This person has big nose, and wavy hair. He is young. He has no beard.
+The man has eyeglasses, wavy hair, and narrow eyes. He is young.
+This man has eyeglasses. He is young.
+He has narrow eyes. He is young.

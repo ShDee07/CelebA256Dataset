@@ -1,0 +1,10 @@
+This woman is wearing lipstick. She has brown hair.
+She wears lipstick. She has straight hair.
+This person wears lipstick. She has straight hair. She is young.
+This person has brown hair. She wears lipstick.
+The woman has straight hair. She wears lipstick. She is young.
+The woman has brown hair and wears lipstick. She is young.
+This person is wearing lipstick. She has straight hair. She is young.
+This woman is young and has straight hair. 
+She has brown hair. She is wearing lipstick. She is young.
+She is wearing lipstick. She is young and has straight hair.

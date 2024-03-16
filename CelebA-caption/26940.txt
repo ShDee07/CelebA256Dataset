@@ -1,0 +1,10 @@
+This person has black hair, and narrow eyes. She wears lipstick. She is young.
+The woman has narrow eyes, and wavy hair. She is young and wears lipstick.
+The woman wears lipstick. She has narrow eyes. She is young.
+She wears lipstick. She has wavy hair, and narrow eyes.
+This person has narrow eyes. She is attractive. She is wearing lipstick.
+She is wearing lipstick. She is attractive and has narrow eyes, and wavy hair.
+She is wearing lipstick. She has wavy hair.
+This woman is wearing lipstick. She has wavy hair. She is young.
+This person has wavy hair and wears lipstick.
+She is wearing lipstick. She has narrow eyes, and black hair. She is attractive.
