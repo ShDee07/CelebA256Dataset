@@ -1,0 +1,10 @@
+This person has black hair, and oval face. He is wearing necklace. He is young.
+The man has bangs, and oval face. He is young and is wearing necklace. He has no beard.
+This man has black hair, and bangs. He is young. He is wearing necklace. He has no beard.
+The man has black hair, and bangs. He is young. He wears necklace. He has no beard.
+This man wears necklace. He has oval face, and bangs.
+He wears necklace. He has bangs. He is young.
+This man is young and has black hair, and bangs. 
+This man has bangs, and oval face. He is young and wears necklace. He has no beard.
+This man is wearing necklace. He has oval face.
+This man has oval face. He wears necklace. He is young.

@@ -1,0 +1,10 @@
+The person has brown hair. She wears lipstick. She is young.
+The person has oval face. She wears lipstick.
+The person wears lipstick. She has brown hair, and oval face. She is young.
+This person is young and has brown hair, and bangs. 
+This woman has brown hair, and oval face. She is wearing lipstick.
+The woman has oval face. She is wearing lipstick.
+She has oval face, and bangs. She wears lipstick.
+This young woman has brown hair, and oval face. 
+She is young and has oval face, and brown hair. 
+The woman wears lipstick. She has brown hair, and bangs. She is young.

@@ -1,0 +1,10 @@
+This man has sideburns. He wears hat.
+The man has big lips, and pointy nose. He wears hat.
+He is wearing hat. He has big lips.
+He is wearing hat. He has pointy nose.
+He has big lips, pointy nose, and sideburns. He is wearing hat. 
+The man has big lips and is wearing hat.
+The man has big lips, and bags under eyes and wears hat.
+This person has pointy nose, and bags under eyes and is wearing hat.
+He has pointy nose, bags under eyes, and sideburns. He is wearing hat. 
+The man has pointy nose, and sideburns. He is wearing hat.

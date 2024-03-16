@@ -1,0 +1,10 @@
+The woman has eyeglasses. She is attractive.
+This woman is attractive and has eyeglasses.
+The person is young and has black hair.
+This woman is young and has eyeglasses.
+The woman has black hair.
+The woman has black hair.
+She has black hair.
+This woman has eyeglasses. She is attractive.
+The person is young and has eyeglasses. 
+The person has eyeglasses.

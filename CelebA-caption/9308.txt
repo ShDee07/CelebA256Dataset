@@ -1,0 +1,10 @@
+The man has wavy hair, and blond hair. He is attractive. He has no beard.
+The person has blond hair.
+This man is attractive and has bags under eyes, and wavy hair.
+The man has bags under eyes. He is attractive. He has no beard.
+This man has wavy hair.
+The man is attractive and has blond hair.
+The person has blond hair, and wavy hair.
+This man is attractive and has blond hair, and bags under eyes. 
+This man has blond hair, and bags under eyes.
+He has wavy hair.

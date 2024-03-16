@@ -1,0 +1,10 @@
+The person is young and has arched eyebrows.
+The woman is young and has arched eyebrows.
+The person has straight hair. She is young.
+The person has arched eyebrows. She is young.
+The person has straight hair.
+This woman is young and has arched eyebrows. 
+The person has straight hair.
+The person has straight hair. She is young.
+She is young and has straight hair. 
+This person has arched eyebrows.

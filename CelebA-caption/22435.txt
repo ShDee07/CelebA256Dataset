@@ -1,0 +1,10 @@
+The person has blond hair. He is attractive.
+This man has pointy nose. He is young. He has no beard.
+This man has bangs.
+This person is attractive and has pointy nose, and bangs.
+The man has big nose.
+This man has big nose, and pointy nose.
+This person has pointy nose.
+The person has pointy nose. He is attractive.
+The man is attractive and has bangs. 
+He has pointy nose, and bangs.

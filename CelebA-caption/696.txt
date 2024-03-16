@@ -1,0 +1,10 @@
+This person has eyeglasses, black hair, and straight hair.
+This person has eyeglasses. He is chubby.
+The person has straight hair. He is young. He has no beard.
+This chubby person has big nose, and eyeglasses. 
+This person is young and has straight hair, big nose, and black hair. 
+He has straight hair.
+The man has big nose, and black hair. He is young.
+The man has eyeglasses, and big nose. He is chubby. He has no beard.
+This man has straight hair. He is young. He has no beard.
+The person has straight hair, black hair, and eyeglasses.

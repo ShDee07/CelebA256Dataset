@@ -1,0 +1,10 @@
+The man has narrow eyes.
+The person has bangs, and eyeglasses.
+This man has eyeglasses. He is young. He has no beard.
+This man is young and has bangs, and eyeglasses. 
+This man has eyeglasses, and narrow eyes. He is young. He has no beard.
+He has bangs. He is young.
+This person has bangs, and narrow eyes.
+The man is young and has narrow eyes.
+The man has eyeglasses, and narrow eyes. He is young. He has no beard.
+This person has narrow eyes, and eyeglasses.

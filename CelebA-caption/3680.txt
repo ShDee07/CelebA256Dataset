@@ -1,0 +1,10 @@
+This man is wearing necklace. He has narrow eyes. He is young.
+He is wearing necklace. He has brown hair. He is young.
+He is wearing necklace. He is young and has narrow eyes.
+This young person has narrow eyes. 
+He wears necklace. He has narrow eyes.
+This man has brown hair. He is young and wears necklace. He has no beard.
+This person is young and has narrow eyes. 
+He is wearing necklace. He is young and has brown hair.
+He wears necklace. He has narrow eyes.
+He has narrow eyes. He is young. He wears necklace. He has no beard.

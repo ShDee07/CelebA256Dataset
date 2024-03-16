@@ -1,0 +1,10 @@
+The woman has arched eyebrows, and high cheekbones. She is young.
+The woman has arched eyebrows, and bangs. She is smiling.
+The woman has straight hair.
+This woman has high cheekbones, and straight hair. She is smiling.
+She has straight hair, and mouth slightly open. She is young.
+The person has high cheekbones, bangs, and straight hair. She is smiling.
+This woman has high cheekbones, mouth slightly open, straight hair, and arched eyebrows.
+This person is smiling and has bangs, and high cheekbones. 
+This person has bangs.
+The person has straight hair. She is smiling.

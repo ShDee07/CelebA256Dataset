@@ -1,0 +1,10 @@
+This person has oval face. She wears lipstick, and earrings.
+She wears heavy makeup. She has oval face. She is attractive.
+The person wears heavy makeup, lipstick. She has oval face. She is young.
+The person wears heavy makeup. She has oval face. She is young.
+The woman is wearing heavy makeup, lipstick. She has oval face.
+She is attractive and has oval face. 
+The person has big lips. She is young and is wearing lipstick, and heavy makeup.
+The woman has oval face and wears earrings. She is attractive.
+The woman is wearing earrings, heavy makeup. She has oval face. She is attractive.
+She wears heavy makeup, and earrings. She is young and has big lips.

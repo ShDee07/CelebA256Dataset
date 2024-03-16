@@ -1,0 +1,10 @@
+This woman is wearing heavy makeup. She has oval face, and blond hair.
+This woman wears lipstick. She has pointy nose, and blond hair.
+She is wearing heavy makeup. She has blond hair.
+This woman has pointy nose, oval face, and blond hair. She is young. She wears heavy makeup.
+The person has oval face and wears lipstick.
+This person has high cheekbones, pointy nose, and blond hair. She is young and wears lipstick.
+The woman has high cheekbones, and blond hair. She is young. She wears heavy makeup.
+She wears lipstick. She has high cheekbones, and pointy nose. She is young.
+She is young and has high cheekbones. 
+She has blond hair. She is young and wears heavy makeup.

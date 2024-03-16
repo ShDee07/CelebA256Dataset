@@ -1,0 +1,10 @@
+She wears heavy makeup. She is young and has arched eyebrows.
+This woman has black hair. She is young. She wears lipstick.
+The person has arched eyebrows and wears earrings.
+She wears earrings. She has black hair. She is young.
+She has arched eyebrows and wears earrings, and heavy makeup. She is young.
+This woman has arched eyebrows and wears earrings.
+She wears lipstick, and heavy makeup. She has arched eyebrows. She is attractive.
+She has arched eyebrows and wears heavy makeup, and lipstick.
+She has arched eyebrows. She wears heavy makeup. She is attractive.
+This person is attractive and has black hair. 

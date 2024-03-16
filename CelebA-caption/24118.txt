@@ -1,0 +1,10 @@
+This person has eyeglasses.
+He has brown hair, and eyeglasses.
+The man has eyeglasses, and sideburns.
+The man has straight hair, eyeglasses, sideburns, and brown hair.
+This person has straight hair, and brown hair.
+The man has brown hair, and goatee. 
+The man has brown hair.
+The man has eyeglasses, straight hair, brown hair, and goatee.
+He has sideburns.
+This man has straight hair, sideburns, and goatee.

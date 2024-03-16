@@ -1,0 +1,10 @@
+The person is attractive and has arched eyebrows. 
+She has bags under eyes. She wears hat. She is attractive.
+She is wearing lipstick. She is attractive and has bags under eyes.
+This person has arched eyebrows. She is wearing lipstick.
+She wears lipstick. She has bags under eyes. She is young.
+This attractive person has arched eyebrows. 
+This young woman has bags under eyes. 
+She has arched eyebrows. She is attractive and is wearing lipstick.
+This person has arched eyebrows. She wears hat.
+This woman wears lipstick. She has bags under eyes. She is young.

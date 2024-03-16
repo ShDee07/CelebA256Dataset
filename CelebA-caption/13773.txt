@@ -1,0 +1,10 @@
+The person is attractive and has blond hair, and bangs. 
+The woman is wearing lipstick. She has bangs.
+The person has straight hair, bangs, and pointy nose. She is attractive. She is wearing lipstick.
+This person wears heavy makeup. She has straight hair, blond hair, and pointy nose. She is attractive.
+This person has bangs, and pointy nose. She is wearing lipstick.
+She is wearing heavy makeup. She is attractive and has bangs, and pointy nose.
+This person wears lipstick. She has straight hair, pointy nose, and bangs.
+This person wears heavy makeup. She has blond hair.
+She has blond hair, bangs, and pointy nose and wears heavy makeup.
+She wears lipstick. She has straight hair, pointy nose, and bangs. She is attractive.

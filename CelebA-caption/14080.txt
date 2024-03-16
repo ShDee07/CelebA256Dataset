@@ -1,0 +1,10 @@
+This woman has brown hair. She wears heavy makeup. She is young.
+This woman has brown hair. She wears lipstick.
+The woman has brown hair. She is attractive and is wearing heavy makeup.
+The woman has brown hair. She is attractive. She is wearing lipstick.
+The person has brown hair. She is wearing lipstick. She is attractive.
+She wears heavy makeup. She has brown hair. She is attractive.
+This woman has brown hair and is wearing lipstick. She is young.
+She has brown hair. She is young. She wears heavy makeup.
+This person has brown hair and wears lipstick. She is attractive.
+She wears heavy makeup. She is attractive and has brown hair.

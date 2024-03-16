@@ -1,0 +1,10 @@
+The man has goatee. He is wearing hat. He is chubby.
+This person has double chin, and goatee. He wears hat. He is chubby.
+The man has eyeglasses and is wearing hat.
+This man is chubby and has goatee. 
+This chubby man has eyeglasses. 
+The man wears hat. He has double chin, and goatee. He is chubby.
+He is wearing hat. He has double chin.
+He wears hat. He has eyeglasses. He is chubby.
+He has eyeglasses, and double chin. He is wearing hat. He is chubby.
+The person has eyeglasses, and double chin. He is chubby. He wears hat. He has beard.

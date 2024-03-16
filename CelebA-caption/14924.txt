@@ -1,0 +1,10 @@
+This man has wavy hair. He is young. He has beard.
+He has black hair.
+The man has mouth slightly open. He is young.
+The person has mouth slightly open, wavy hair, and pointy nose. He is young. He has beard.
+The person has wavy hair. He is young. He has beard.
+The person has pointy nose, and black hair. He is young. He has beard.
+He is young and has mouth slightly open, and pointy nose. 
+The man has pointy nose, mouth slightly open, and wavy hair.
+He is young and has black hair, pointy nose, and wavy hair.
+The man has pointy nose, black hair, and wavy hair. He is young. He has beard.

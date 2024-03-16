@@ -1,0 +1,10 @@
+This person has sideburns, and bushy eyebrows. He is chubby. He wears necktie. He has beard.
+This person has bushy eyebrows. He is wearing necktie.
+This person has sideburns. He is chubby and wears necktie. He has beard.
+The person has oval face. He wears necktie. He is bald.
+This man has sideburns, and oval face and wears necktie.
+The man is wearing necktie. He has oval face. He is chubby.
+He has bushy eyebrows, and sideburns. He is bald and is wearing necktie. He has beard.
+He has bushy eyebrows. He is chubby. He wears necktie. He has beard.
+This chubby man has bushy eyebrows, and sideburns. 
+This person has bushy eyebrows, and oval face and is wearing necktie.

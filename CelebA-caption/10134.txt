@@ -1,0 +1,10 @@
+The person has narrow eyes and is wearing earrings.
+The man wears earrings. He has narrow eyes.
+He wears earrings. He is young and has narrow eyes.
+He is wearing earrings. He is young and has narrow eyes.
+The person wears earrings. He has narrow eyes.
+He has narrow eyes. He is wearing earrings.
+This person is young and has narrow eyes. 
+This man wears earrings. He has narrow eyes.
+This person is wearing earrings. He has narrow eyes. He is young.
+This person is wearing earrings. He has narrow eyes. He is young.

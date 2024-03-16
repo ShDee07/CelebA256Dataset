@@ -1,0 +1,10 @@
+This person has brown hair. She is young. She is wearing heavy makeup.
+The person is wearing heavy makeup. She has brown hair.
+The person is young and has brown hair. 
+The person has mouth slightly open. She is young and wears heavy makeup.
+The person is young and has mouth slightly open. 
+She is wearing heavy makeup. She has mouth slightly open. She is young.
+This person has brown hair. She is young. She is wearing heavy makeup.
+This person is wearing heavy makeup. She has mouth slightly open.
+The person has mouth slightly open. She is young. She is wearing heavy makeup.
+This woman is young and has mouth slightly open. 

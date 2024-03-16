@@ -1,0 +1,10 @@
+The person has bushy eyebrows, sideburns, and black hair.
+This person has black hair, and bushy eyebrows.
+This person has oval face, and sideburns.
+The man is young and has bushy eyebrows.
+The person has oval face. He is young. He has beard.
+He has bushy eyebrows, black hair, and oval face. He is young. He has beard.
+This man has sideburns.
+This person has bushy eyebrows, sideburns, and oval face. He is young.
+This person has sideburns, bushy eyebrows, and oval face.
+This person has sideburns, black hair, and oval face. He is young. He has beard.

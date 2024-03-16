@@ -1,0 +1,10 @@
+He wears hat. He has eyeglasses, and goatee.
+He wears hat. He has eyeglasses, and goatee. He.
+He is wearing hat. He has goatee, and mouth slightly open.
+This man has goatee. He wears hat.
+This man is wearing hat. He has goatee. He.
+This man. He is wearing hat has goatee. 
+This man. He is wearing hat has mouth slightly open, and eyeglasses. 
+This person has goatee, and eyeglasses and is wearing hat.
+This man has mouth slightly open. He is wearing hat. 
+This man wears hat. He has eyeglasses, and goatee.

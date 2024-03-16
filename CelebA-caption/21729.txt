@@ -1,0 +1,10 @@
+The woman has pointy nose, high cheekbones, and straight hair. She is young.
+The person has straight hair, pointy nose, and black hair.
+The person is young and has black hair.
+This young woman has high cheekbones, and straight hair. 
+She has pointy nose, and high cheekbones.
+She has straight hair, high cheekbones, and pointy nose. She is young.
+This woman is young and has straight hair, and high cheekbones. 
+This person is young and has high cheekbones, black hair, and straight hair.
+This woman is young and has straight hair. 
+She has black hair, and high cheekbones. She is young.

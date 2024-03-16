@@ -1,0 +1,10 @@
+This person has big nose. He wears necktie.
+He has eyeglasses and is wearing necktie. 
+The man has big nose and is wearing necktie. 
+He is wearing necktie. He has big nose.
+The person has eyeglasses and wears necktie.
+He is wearing necktie. He has big nose.
+The man wears necktie. He has big nose.
+This man has big nose. He is wearing necktie.
+He has eyeglasses. He wears necktie.
+He is wearing necktie. He has big nose.

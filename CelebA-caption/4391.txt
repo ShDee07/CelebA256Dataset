@@ -1,0 +1,10 @@
+This person is young and has blond hair. 
+The woman has blond hair. She is young.
+This woman has receding hairline, and bags under eyes.
+The person is young and has pale skin.
+This person has pale skin, and receding hairline. She is young.
+The woman has bags under eyes, and pale skin.
+The person has blond hair, and receding hairline.
+The person is young and has blond hair. 
+She has pale skin.
+The woman has pale skin, and receding hairline. She is young.

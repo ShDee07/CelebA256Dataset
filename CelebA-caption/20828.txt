@@ -1,0 +1,10 @@
+The man has big nose, and sideburns. He wears necktie. He is attractive.
+The person is young and has sideburns. 
+He is wearing necktie. He has big nose, sideburns, and black hair. He is young.
+He wears necktie. He has big nose, and sideburns.
+This person has bushy eyebrows, big nose, and black hair. He wears necktie.
+This person has bushy eyebrows, sideburns, and black hair. He is young and wears necktie. He has beard.
+This man has bushy eyebrows, and big nose and wears necktie. He is attractive.
+He is young and has sideburns. 
+He is wearing necktie. He is attractive and has sideburns, big nose, and bushy eyebrows.
+This man is wearing necktie. He has black hair, big nose, and bushy eyebrows.

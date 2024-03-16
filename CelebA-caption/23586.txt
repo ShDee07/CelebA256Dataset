@@ -1,0 +1,10 @@
+This young person has bags under eyes, arched eyebrows, and receding hairline. 
+This woman has bags under eyes. She is young.
+This young woman has wavy hair. 
+She has receding hairline.
+The woman has arched eyebrows.
+The person is young and has receding hairline. 
+She has bags under eyes, arched eyebrows, and wavy hair.
+This person has receding hairline, and wavy hair. She is young.
+This person is young and has bags under eyes, wavy hair, and receding hairline.
+She has bags under eyes, and arched eyebrows.

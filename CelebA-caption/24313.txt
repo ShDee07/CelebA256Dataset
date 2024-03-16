@@ -1,0 +1,10 @@
+This person has brown hair, and bangs.
+This man is young and has wavy hair. 
+He has brown hair, mouth slightly open, and wavy hair. He is young. He has no beard.
+This man has bangs.
+The person is young and has wavy hair, bangs, brown hair, and mouth slightly open. 
+This man has mouth slightly open. He is young. He has no beard.
+This man has mouth slightly open, wavy hair, and brown hair. He is young.
+He has mouth slightly open. He is young.
+The person has bangs, and wavy hair. He is young. He has no beard.
+The person has brown hair, wavy hair, mouth slightly open, and bangs. He is young. He has no beard.

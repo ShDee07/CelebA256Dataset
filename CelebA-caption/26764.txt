@@ -1,0 +1,10 @@
+This man has goatee, wavy hair, and receding hairline.
+The man has wavy hair.
+The person has wavy hair, brown hair, and mustache.
+The man has mustache, and brown hair.
+The man has receding hairline, and goatee.
+This person has receding hairline, mustache, and goatee.
+This person has receding hairline, mustache, and goatee.
+The man has mustache, brown hair, wavy hair, and goatee.
+The man has wavy hair, and brown hair. 
+The person has goatee, receding hairline, and mustache.

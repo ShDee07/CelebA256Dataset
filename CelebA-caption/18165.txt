@@ -1,0 +1,10 @@
+This person has brown hair. He is attractive.
+This person has wavy hair, bushy eyebrows, bangs, and bags under eyes. He is attractive. He has beard.
+The man has brown hair, and bags under eyes.
+The person has bags under eyes, and bushy eyebrows.
+This man is young and has bangs, and wavy hair.
+The man has bangs, bushy eyebrows, wavy hair, bags under eyes, and brown hair.
+This person has bushy eyebrows, wavy hair, brown hair, and pointy nose. He is attractive. He has beard.
+The man has pointy nose, wavy hair, bangs, and bags under eyes. He is young. He has beard.
+He is young and has bags under eyes, bushy eyebrows, brown hair, wavy hair, and pointy nose.
+The man has wavy hair, pointy nose, bags under eyes, bushy eyebrows, and bangs.

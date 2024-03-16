@@ -1,0 +1,10 @@
+The person is wearing necktie. He has big nose.
+He has big nose. He wears necktie.
+The man has big nose and wears necktie. He is young.
+This person is wearing necktie. He has big nose.
+This man wears necktie. He has big nose.
+He is wearing necktie. He has bags under eyes. He is young.
+This person wears necktie. He has bags under eyes. He is young.
+The man wears necktie. He has bags under eyes.
+He has bags under eyes. He wears necktie. He is young.
+The man has bags under eyes. He is young and is wearing necktie. He has no beard.

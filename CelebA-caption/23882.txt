@@ -1,0 +1,10 @@
+The man has oval face.
+The person has goatee, and big lips.
+This man has oval face, big lips, and big nose. He is chubby. He has beard.
+This person has sideburns.
+He has goatee, sideburns, big nose, and big lips.
+The man has goatee. He is chubby. He has beard.
+This chubby man has big lips, goatee, sideburns, and big nose. 
+This person has oval face, and big lips. He is chubby. He has beard.
+This person has oval face, sideburns, and goatee.
+The man has goatee, and sideburns. He is chubby. He has beard.

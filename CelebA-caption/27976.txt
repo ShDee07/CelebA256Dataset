@@ -1,0 +1,10 @@
+This person has pointy nose, and brown hair. He is young. He has no beard.
+This person is young and has pointy nose.
+The person has brown hair. He is young. He has no beard.
+The person has brown hair. He is young.
+The man is young and has brown hair, and narrow eyes.
+The person has narrow eyes, and pointy nose. He is young. He has no beard.
+This person is young and has narrow eyes. 
+This man is young and has narrow eyes, and pointy nose.
+The man has brown hair, and narrow eyes.
+The person has brown hair, and pointy nose. He is young.

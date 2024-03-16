@@ -1,0 +1,10 @@
+This man has sideburns.
+This man has goatee, and bushy eyebrows.
+The man has mouth slightly open, and mustache.
+The man has mustache, wavy hair, bushy eyebrows, goatee, and mouth slightly open. 
+The person has sideburns, bushy eyebrows, black hair, and goatee. 
+The person has mustache, and black hair.
+This man has wavy hair, black hair, sideburns, and goatee.
+This man has wavy hair, black hair, sideburns, and goatee.
+This man has bushy eyebrows, black hair, goatee, mustache, and wavy hair.
+This person has bushy eyebrows, and black hair.

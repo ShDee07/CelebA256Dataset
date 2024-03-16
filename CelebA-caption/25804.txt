@@ -1,0 +1,10 @@
+He is wearing hat. He is young and has goatee, and oval face.
+This young man has goatee. 
+This young man has goatee, and sideburns. 
+This person wears hat. He has goatee, and sideburns. He is young.
+He wears hat. He is young and has oval face.
+He has sideburns, and goatee. He wears hat. He is young.
+He is wearing hat. He has sideburns. He is young.
+The man has oval face, and sideburns. He wears hat.
+The person wears hat. He has oval face, and goatee. He is young.
+The man has oval face. He wears hat. He is young.

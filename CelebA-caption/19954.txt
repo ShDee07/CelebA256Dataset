@@ -1,0 +1,10 @@
+He wears necktie. He is young and has eyeglasses.
+The person has narrow eyes, eyeglasses, and brown hair. He is wearing necktie.
+The person has eyeglasses, and narrow eyes. He wears necktie.
+He has eyeglasses, and narrow eyes. He is young. He wears necktie. He has no beard.
+He is wearing necktie. He is young and has wavy hair, and eyeglasses.
+This man has narrow eyes. He is young. He wears necktie. He has no beard.
+This man is young and has wavy hair, narrow eyes, and brown hair. 
+This person is wearing necktie. He has narrow eyes. He is young.
+The man has eyeglasses, and wavy hair. He wears necktie.
+The man wears necktie. He has eyeglasses, and narrow eyes.

@@ -1,0 +1,10 @@
+The person is attractive and has black hair. 
+This man has straight hair, bushy eyebrows, and pointy nose and wears necktie. He is young.
+The man has straight hair. He wears necktie.
+The man wears necktie. He has pointy nose.
+This man has black hair, and pointy nose. He is young. He wears necktie. He has beard.
+He is wearing necktie. He is young and has pointy nose.
+This man has straight hair, and black hair. He is young. He wears necktie. He has beard.
+This person has pointy nose, black hair, and straight hair. He wears necktie.
+He has straight hair, pointy nose, and black hair. He wears necktie.
+He has bushy eyebrows. He is attractive and wears necktie. He has beard.

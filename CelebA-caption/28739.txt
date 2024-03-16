@@ -1,0 +1,10 @@
+The man is chubby and has mustache.
+He has big nose, oval face, mouth slightly open, and wavy hair. He is young. He has no beard.
+This person has big nose.
+The person is chubby and has mustache, big nose, and mouth slightly open.
+The person has wavy hair, and mouth slightly open. He is young.
+This person has wavy hair. He is chubby.
+The person has wavy hair, big nose, black hair, and oval face. He is chubby.
+He has mouth slightly open, and mustache.
+The person has wavy hair, oval face, big nose, mustache, and black hair.
+He is young and has big nose, and mustache. 

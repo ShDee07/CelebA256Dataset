@@ -1,0 +1,10 @@
+The person has big nose, blond hair, receding hairline, and pale skin. She is wearing lipstick.
+The person has blond hair. She is attractive. She wears lipstick.
+She wears lipstick. She has receding hairline.
+She is attractive and has wavy hair, big nose, receding hairline, and pale skin. 
+She is wearing lipstick. She has receding hairline, big nose, and blond hair. She is young.
+The person is young and has big nose, wavy hair, and pale skin. 
+She has blond hair, pale skin, and wavy hair. She wears lipstick.
+She is wearing lipstick. She is young and has blond hair, and receding hairline.
+She has wavy hair. She is young. She wears lipstick.
+This young person has pale skin, and big nose. 

@@ -1,0 +1,10 @@
+The man has eyeglasses, sideburns, and big nose. He is smiling. He has beard.
+The man is bald and has big nose.
+This man has eyeglasses, oval face, and big nose. He is smiling.
+He has sideburns, big nose, and eyeglasses. He is smiling.
+He has oval face, and eyeglasses.
+The person has eyeglasses, and oval face.
+The person has sideburns, and big nose.
+The person has oval face. He is bald.
+He is bald and has sideburns, oval face, and eyeglasses. 
+This person is smiling and has eyeglasses, and sideburns. 

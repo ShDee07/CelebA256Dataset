@@ -1,0 +1,10 @@
+This woman has narrow eyes. She is young. She is wearing necklace.
+The woman has receding hairline and is wearing heavy makeup, and lipstick. She is young.
+This woman is young and has receding hairline. 
+She has receding hairline. She wears heavy makeup, and necklace. She is young.
+This person has receding hairline. She wears necklace, and lipstick.
+This person has narrow eyes. She is young. She is wearing heavy makeup.
+This person has narrow eyes. She wears heavy makeup.
+The woman has receding hairline and is wearing heavy makeup. She is young.
+This person has receding hairline. She is young. She wears necklace.
+This young person has receding hairline. 

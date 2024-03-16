@@ -1,0 +1,10 @@
+This young person has black hair. 
+This man has pointy nose and wears necklace.
+This person has pointy nose. He is wearing necklace.
+He wears necklace. He is young and has pointy nose.
+He wears necklace. He has pointy nose. He is young.
+The person has pointy nose. He is young and is wearing necklace. He has no beard.
+He has black hair and wears necklace. He is young.
+He wears necklace. He has pointy nose.
+This man has black hair. He wears necklace.
+This young person has black hair. 

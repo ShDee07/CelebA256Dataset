@@ -1,0 +1,10 @@
+The person has black hair. He wears necktie. He is young.
+He wears necktie. He has bushy eyebrows, black hair, and big nose. He is young.
+This person has bushy eyebrows, narrow eyes, black hair, and big nose. He wears necktie.
+The man has black hair, big nose, bushy eyebrows, and mouth slightly open. He wears necktie. He is attractive.
+This man has black hair. He is attractive. He wears necktie. He has beard.
+The person is young and has big nose. 
+This person has mouth slightly open, narrow eyes, and black hair and wears necktie.
+He has big nose, narrow eyes, and black hair. He is attractive and is wearing necktie. He has beard.
+He has mouth slightly open, and narrow eyes. He is young. He is wearing necktie. He has beard.
+This man has black hair, and big nose. He wears necktie. He is attractive.

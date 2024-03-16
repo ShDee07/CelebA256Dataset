@@ -1,0 +1,10 @@
+This woman wears heavy makeup. She has bushy eyebrows. She is young.
+She has brown hair. She is wearing heavy makeup. She is young.
+The person has brown hair and is wearing heavy makeup.
+The person has brown hair and wears lipstick.
+This woman has brown hair. She wears heavy makeup.
+This woman is attractive and has bushy eyebrows. 
+This person has brown hair. She is attractive and is wearing lipstick.
+The woman has brown hair and is wearing heavy makeup. She is young.
+She wears heavy makeup. She has bushy eyebrows. She is young.
+The person has bushy eyebrows. She is young and is wearing heavy makeup.

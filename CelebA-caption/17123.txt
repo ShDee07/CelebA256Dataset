@@ -1,0 +1,10 @@
+The person has brown hair, wavy hair, mustache, and goatee.
+This person is young and has big lips.
+This person has sideburns.
+The man is young and has sideburns, brown hair, goatee, and mustache.
+This man is attractive and has brown hair, big lips, mustache, goatee, and wavy hair.
+This man has mustache, brown hair, and wavy hair. He is young.
+This man has big lips. He is young.
+The man has goatee, sideburns, and brown hair. He is attractive.
+He has sideburns, and goatee. He is young.
+The person is young and has sideburns. 

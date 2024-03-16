@@ -1,0 +1,10 @@
+This man has bushy eyebrows, and double chin. He wears necktie. He is chubby.
+He has big nose, gray hair, and bushy eyebrows and is wearing necktie.
+This man has bushy eyebrows and wears necktie.
+He is chubby and has double chin, and gray hair. 
+He has double chin, and big nose and wears necktie. He is chubby.
+He is wearing necktie. He has gray hair. He is chubby.
+This man has gray hair, and bushy eyebrows. He is wearing necktie.
+The man has gray hair, double chin, and big nose. He is chubby and wears necktie. He has no beard.
+He has big nose, and gray hair. He is chubby and wears necktie. He has no beard.
+This man has big nose, gray hair, and bushy eyebrows. He is chubby and wears necktie. He has no beard.

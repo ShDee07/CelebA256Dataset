@@ -1,0 +1,10 @@
+The man has bushy eyebrows. He is wearing necktie. He is young.
+He is wearing necktie. He is young and has bags under eyes.
+This man has bushy eyebrows. He wears necktie. He is young.
+He is wearing necktie. He has bushy eyebrows. He is young.
+The man has bushy eyebrows. He is wearing necktie.
+This person has bags under eyes. He is young. He is wearing necktie. He has no beard.
+He wears necktie. He has bushy eyebrows. He is young.
+He is wearing necktie. He is young and has bushy eyebrows.
+This man is young and has bushy eyebrows. 
+This man has bushy eyebrows. He is young and wears necktie. He has no beard.

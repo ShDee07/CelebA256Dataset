@@ -1,0 +1,10 @@
+The man is bald and has bags under eyes, mustache, and big nose.
+This man has bags under eyes, goatee, and big nose.
+The man is bald and has bags under eyes. 
+This man is bald and has bags under eyes, mustache, and big nose.
+He has bags under eyes.
+He is bald and has bags under eyes, and goatee.
+He has bags under eyes, and mustache.
+This person is bald and has big nose, bags under eyes, and mustache.
+This person has goatee, and bags under eyes.
+This man has goatee, and bags under eyes.

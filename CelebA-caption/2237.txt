@@ -1,0 +1,10 @@
+The man has black hair. He wears hat.
+He wears hat. He has bushy eyebrows. He is young.
+He is young and has black hair. 
+The man has bushy eyebrows. He is young and wears hat. He has no beard.
+He has black hair and is wearing hat. He is young.
+He wears hat. He has bushy eyebrows. He is young.
+He has black hair and is wearing hat. He is young.
+He has bushy eyebrows. He is wearing hat. He is young.
+This person has bushy eyebrows. He is young. He wears hat. He has no beard.
+The person has black hair. He is wearing hat. He is young.

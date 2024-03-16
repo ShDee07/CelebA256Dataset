@@ -1,0 +1,10 @@
+The person has straight hair, and bushy eyebrows.
+He has mouth slightly open. He is attractive.
+He has straight hair. He is young. He has beard.
+He has bushy eyebrows. He is attractive. He has beard.
+This man has straight hair.
+This person has bushy eyebrows, and mouth slightly open. He is young.
+The man has bushy eyebrows. He is attractive.
+The person is attractive and has mouth slightly open, and bushy eyebrows.
+The man has mouth slightly open.
+The person has bushy eyebrows.

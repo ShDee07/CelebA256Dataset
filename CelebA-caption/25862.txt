@@ -1,0 +1,10 @@
+This man has oval face, and wavy hair.
+The person has big nose, and wavy hair.
+The man has big nose, and oval face.
+The person has oval face, and big nose.
+The man has oval face, and big nose.
+He is smiling and has wavy hair, and big nose.
+The person has wavy hair. He is smiling.
+This man has big nose. He is smiling. He has no beard.
+The person is young and has wavy hair, and big nose.
+This person is smiling and has wavy hair, and oval face. 

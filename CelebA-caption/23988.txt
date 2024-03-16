@@ -1,0 +1,10 @@
+The person has narrow eyes. She is attractive. She wears lipstick.
+This person has narrow eyes and wears lipstick. She is young.
+The person has narrow eyes and is wearing earrings.
+The woman has narrow eyes. She is young. She wears lipstick.
+The person has narrow eyes and wears earrings.
+She has narrow eyes. She is young. She is wearing earrings.
+She has narrow eyes and wears lipstick.
+She wears lipstick. She is young and has narrow eyes.
+The person has narrow eyes. She is wearing lipstick.
+This woman has narrow eyes. She is young and is wearing earrings.

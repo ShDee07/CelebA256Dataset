@@ -1,0 +1,10 @@
+This person is wearing necktie. He has eyeglasses, big nose, and big lips. He is young.
+The man has oval face, and high cheekbones. He wears necktie.
+He is young and has high cheekbones, oval face, big nose, and big lips. 
+He wears necktie. He is young and has high cheekbones.
+This man is bald and has high cheekbones, big nose, big lips, and eyeglasses. 
+He has big lips, eyeglasses, and big nose. He wears necktie.
+The man has oval face, big nose, and high cheekbones. He is bald. He is wearing necktie. He has no beard.
+The man is bald and has high cheekbones, and oval face. 
+He is wearing necktie. He is young and has high cheekbones, eyeglasses, and big nose.
+This man has oval face, and big nose. He is young. He wears necktie. He has no beard.

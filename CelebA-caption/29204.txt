@@ -1,0 +1,10 @@
+This young person has eyeglasses. 
+The person has eyeglasses. He is young. He wears necktie. He has beard.
+He has eyeglasses. He is young. He is wearing necktie. He has beard.
+The man has eyeglasses. He wears necktie.
+The person is wearing necktie. He has eyeglasses. He is young.
+He has eyeglasses. He wears necktie.
+This person has eyeglasses and is wearing necktie. He is young.
+He has eyeglasses and wears necktie. He is young.
+This person has eyeglasses. He wears necktie.
+This man has eyeglasses. He is wearing necktie.

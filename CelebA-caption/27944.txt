@@ -1,0 +1,10 @@
+The person has bags under eyes, big nose, and narrow eyes.
+This man has brown hair. He is young.
+The person has big nose.
+The man has big nose, and brown hair.
+This man has brown hair, bags under eyes, and narrow eyes.
+The man is young and has bags under eyes, and brown hair. 
+This person has bags under eyes. He is young.
+The man has brown hair, big nose, and bags under eyes.
+This person is young and has big nose, narrow eyes, and brown hair.
+This man has brown hair.

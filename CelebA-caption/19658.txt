@@ -1,0 +1,10 @@
+This man has straight hair, brown hair, and bags under eyes. He is young. He has beard.
+The person has brown hair, and bags under eyes. He is young.
+The person has straight hair. He is young. He has beard.
+The man has bags under eyes. He is young.
+This person is young and has straight hair. 
+The person has bags under eyes, straight hair, and bushy eyebrows. He is young. He has beard.
+He has bushy eyebrows, bags under eyes, and brown hair.
+He has bags under eyes, and bushy eyebrows. He is young. He has beard.
+This person is young and has brown hair, straight hair, and bags under eyes.
+The man has bags under eyes, bushy eyebrows, and straight hair.

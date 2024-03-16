@@ -1,0 +1,10 @@
+The man has big nose.
+The person has straight hair.
+He has pointy nose, straight hair, and narrow eyes.
+The person has straight hair, brown hair, pointy nose, and narrow eyes.
+The man has narrow eyes.
+This man has brown hair, narrow eyes, straight hair, and pointy nose.
+This man has pointy nose, narrow eyes, and big nose.
+This man has narrow eyes, big nose, and pointy nose.
+The person has big nose, straight hair, brown hair, and narrow eyes. 
+This person has narrow eyes. 

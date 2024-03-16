@@ -1,0 +1,10 @@
+This man has goatee. He is chubby and is wearing necktie. He has beard.
+This person has sideburns. He is chubby and wears necktie. He has beard.
+This person has goatee, and sideburns. He is chubby. He wears necktie. He has beard.
+This man has sideburns, and goatee. He is wearing necktie.
+He wears necktie. He has sideburns.
+This chubby man has sideburns. 
+This chubby man has big nose. 
+This person is chubby and has sideburns. 
+This man is chubby and has big nose. 
+The man wears necktie. He has goatee, and sideburns. He is chubby.

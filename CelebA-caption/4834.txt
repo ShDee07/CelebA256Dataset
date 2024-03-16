@@ -1,0 +1,10 @@
+The person has arched eyebrows and is wearing lipstick.
+The woman has arched eyebrows. She is wearing lipstick, and heavy makeup.
+The woman has arched eyebrows. She wears heavy makeup.
+The person has arched eyebrows and is wearing lipstick, and earrings.
+The person has arched eyebrows and wears heavy makeup, and earrings.
+She and wears lipstick, and heavy makeup has arched eyebrows. 
+She is wearing lipstick. She has arched eyebrows. She.
+She wears heavy makeup, and earrings. She has arched eyebrows.
+She is wearing earrings. She has arched eyebrows.
+She and is wearing heavy makeup, and earrings has arched eyebrows. 

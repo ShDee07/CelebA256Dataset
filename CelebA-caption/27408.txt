@@ -1,0 +1,10 @@
+The woman wears heavy makeup. She has bushy eyebrows. She is attractive.
+She has bushy eyebrows. She is wearing heavy makeup.
+This woman wears lipstick. She has oval face.
+She is wearing lipstick. She is attractive and has pointy nose, oval face, and bushy eyebrows.
+The woman wears lipstick. She has bushy eyebrows, and oval face. She is attractive.
+This person wears heavy makeup. She has bushy eyebrows, and pointy nose. She is attractive.
+She is wearing heavy makeup. She is young and has pointy nose, and wavy hair.
+This person has pointy nose, and oval face. She wears lipstick. She is young.
+She is wearing heavy makeup. She has oval face. She is attractive.
+This person has bushy eyebrows, and oval face and is wearing lipstick. She is attractive.

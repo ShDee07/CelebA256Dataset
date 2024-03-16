@@ -1,0 +1,10 @@
+The person has black hair, and mustache. 
+This person has black hair, and mustache.
+This man has mustache.
+The man has eyeglasses.
+The man has eyeglasses.
+The person has black hair, and eyeglasses.
+The man has eyeglasses, and black hair.
+He has black hair, and mustache.
+The person has mustache. 
+The man has mustache, and eyeglasses. 

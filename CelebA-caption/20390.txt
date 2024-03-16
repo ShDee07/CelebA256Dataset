@@ -1,0 +1,10 @@
+The person is attractive and has wavy hair. 
+The woman is young and has pale skin, and wavy hair.
+The woman has pale skin. She is young.
+The woman has wavy hair.
+This person has wavy hair.
+The woman has blond hair, and pale skin. She is attractive.
+The person is attractive and has pale skin, and blond hair. 
+She is young and has pale skin, and blond hair.
+This woman has pale skin. She is attractive.
+This woman is attractive and has pale skin, and blond hair.

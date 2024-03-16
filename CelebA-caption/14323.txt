@@ -1,0 +1,10 @@
+The person has wavy hair. She is young. She is wearing lipstick.
+The person is wearing hat, heavy makeup. She has arched eyebrows. She is young.
+This person is young and has wavy hair. 
+The person has wavy hair. She is young. She is wearing lipstick, and hat.
+This young woman has arched eyebrows. 
+The person has arched eyebrows. She is wearing lipstick. She is young.
+This woman has arched eyebrows. She is young and wears hat.
+She is wearing hat. She is young and has wavy hair.
+The person has arched eyebrows and is wearing hat. She is young.
+She has arched eyebrows and wears lipstick. She is young.

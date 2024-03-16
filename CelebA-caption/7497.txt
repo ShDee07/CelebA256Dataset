@@ -1,0 +1,10 @@
+The person has brown hair.
+This woman has wavy hair.
+This person has pointy nose. She is young.
+This woman has pointy nose, and wavy hair. She is young.
+This woman has pointy nose, and brown hair.
+This woman has pointy nose, and wavy hair.
+This person has pointy nose.
+The person has wavy hair.
+The person is young and has pointy nose, and wavy hair.
+She has pointy nose, and wavy hair.

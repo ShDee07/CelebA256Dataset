@@ -1,0 +1,10 @@
+The man is young and has bushy eyebrows, pale skin, and sideburns.
+He is young and has sideburns, and pale skin.
+He has bushy eyebrows, pale skin, and wavy hair. He is young. He has beard.
+He has pale skin, sideburns, and wavy hair. He is young.
+He has pale skin, and bushy eyebrows. He is young. He has beard.
+This person has pale skin. He is young. He has beard.
+This person has bushy eyebrows.
+The man has pale skin, and sideburns. He is young.
+The person is young and has bushy eyebrows, and sideburns.
+He has bushy eyebrows.

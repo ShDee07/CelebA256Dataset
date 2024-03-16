@@ -1,0 +1,10 @@
+She has bushy eyebrows, and brown hair.
+The person has brown hair, and bushy eyebrows. She is young.
+This woman is young and has pointy nose. 
+The woman has pointy nose, and bushy eyebrows.
+The person has bushy eyebrows.
+The person is young and has bushy eyebrows, and pointy nose. 
+The woman has pointy nose.
+The woman has brown hair. She is young.
+The woman has bushy eyebrows. She is young.
+The person has pointy nose, and brown hair.

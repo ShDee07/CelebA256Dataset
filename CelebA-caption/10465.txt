@@ -1,0 +1,10 @@
+This woman has pale skin, pointy nose, and blond hair. She is young and wears lipstick.
+The woman is wearing lipstick. She has pale skin, and pointy nose. She is young.
+She wears lipstick. She has big lips, and pale skin. She is young.
+She wears lipstick. She has pale skin, and big lips. She is young.
+This woman has pointy nose. She wears lipstick. She is young.
+She is wearing lipstick. She is young and has pointy nose.
+This young woman has blond hair, big lips, and pointy nose. 
+She is wearing lipstick. She is young and has pale skin, and pointy nose.
+She is wearing lipstick. She has blond hair, and pale skin. She is young.
+This person has big lips, pale skin, and blond hair and is wearing lipstick. She is young.

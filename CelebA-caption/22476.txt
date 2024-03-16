@@ -1,0 +1,10 @@
+The person is young and has eyeglasses. 
+This person has black hair, and big nose and wears necktie. He is young.
+The person is young and has sideburns, and eyeglasses. 
+The man is young and has eyeglasses. 
+The person has eyeglasses. He wears necktie.
+The man has sideburns. He is young. He is wearing necktie. He has beard.
+This man wears necktie. He has eyeglasses.
+This person wears necktie. He has black hair, and sideburns. He is young.
+The man has sideburns, and black hair. He is wearing necktie.
+This person has sideburns, big nose, and eyeglasses and is wearing necktie.

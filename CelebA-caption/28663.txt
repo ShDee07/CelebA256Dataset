@@ -1,0 +1,10 @@
+The man has high cheekbones, oval face, and sideburns. He is wearing necktie. He is bald.
+The man has high cheekbones, and sideburns. He is bald and wears necktie. He has beard.
+The man is bald and has high cheekbones, oval face, and bags under eyes. 
+The man is bald and has bags under eyes, high cheekbones, and oval face. 
+The person has bags under eyes, and oval face and is wearing necktie. He is bald.
+This man has oval face, bags under eyes, and sideburns. He is bald. He wears necktie. He has beard.
+The person wears necktie. He has bags under eyes, and sideburns. He is bald.
+He wears necktie. He is bald and has high cheekbones, and oval face.
+The man is bald and has bags under eyes, high cheekbones, and oval face. 
+He is wearing necktie. He is bald and has bags under eyes, sideburns, and oval face.

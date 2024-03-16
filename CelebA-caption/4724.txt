@@ -1,0 +1,10 @@
+She wears necklace. She has eyeglasses. She is attractive.
+The person has eyeglasses. She is attractive. She wears necklace.
+She has eyeglasses and is wearing necklace. She is young.
+This young person has eyeglasses. 
+She has eyeglasses and wears necklace. She is young.
+She is wearing necklace. She has eyeglasses. She is young.
+This woman has eyeglasses. She wears necklace. She is young.
+The person wears necklace. She has eyeglasses.
+The woman is wearing necklace. She has eyeglasses. She is young.
+She is wearing necklace. She is young and has eyeglasses.

@@ -1,0 +1,10 @@
+This person has eyeglasses, brown hair, big nose, and receding hairline.
+The man has big nose, and receding hairline.
+The person has big nose, eyeglasses, receding hairline, and oval face. 
+He has big nose, eyeglasses, brown hair, and oval face.
+This man has receding hairline. 
+This man has receding hairline, oval face, eyeglasses, and big nose.
+The man has oval face.
+The man has big nose, and eyeglasses.
+The man has receding hairline, eyeglasses, big nose, and oval face.
+The man has oval face.

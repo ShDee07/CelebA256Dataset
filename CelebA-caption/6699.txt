@@ -1,0 +1,10 @@
+This woman has bags under eyes and is wearing lipstick.
+She has bags under eyes. She is attractive. She wears lipstick.
+This person has bags under eyes. She is wearing earrings.
+This person is attractive and has bags under eyes. 
+She is wearing lipstick. She has bags under eyes. She is attractive.
+This woman has bags under eyes. She is wearing lipstick.
+This woman is wearing earrings. She has bags under eyes. She is attractive.
+The woman has bags under eyes and wears earrings.
+The person wears lipstick. She has bags under eyes.
+The woman is attractive and has bags under eyes. 

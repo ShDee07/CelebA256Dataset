@@ -1,0 +1,10 @@
+The person has gray hair.
+The person has big nose.
+The person has eyeglasses.
+The person has gray hair, and big nose. 
+The man has big nose, and eyeglasses.
+The man has big nose, and eyeglasses.
+This man has eyeglasses. 
+This person has gray hair.
+This man has big nose, and gray hair.
+The man has gray hair.

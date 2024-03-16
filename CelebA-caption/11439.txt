@@ -1,0 +1,10 @@
+The person has bangs, and bags under eyes. He is young.
+He has eyeglasses, and bags under eyes.
+This man has bangs, and eyeglasses. He is young. He has no beard.
+He has eyeglasses, and bags under eyes. He is young.
+The person is young and has bangs, and bags under eyes. 
+This man has bangs. He is young.
+The person has bangs, and bags under eyes.
+This man has eyeglasses, and bags under eyes. He is young.
+He has bags under eyes. He is young. He has no beard.
+He has bags under eyes.

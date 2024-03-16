@@ -1,0 +1,10 @@
+This person has pointy nose, arched eyebrows, and brown hair. She is attractive and is wearing lipstick.
+She wears heavy makeup. She has oval face. She is young.
+This person has pointy nose. She is wearing heavy makeup. She is attractive.
+The woman has pointy nose, and brown hair and is wearing heavy makeup. She is young.
+She wears lipstick. She has oval face, and pointy nose. She is young.
+She wears heavy makeup. She is young and has oval face, brown hair, and pointy nose.
+This person has pointy nose, arched eyebrows, and oval face. She wears heavy makeup. She is attractive.
+The person has oval face, arched eyebrows, and pointy nose and wears heavy makeup. She is young.
+The woman has oval face, brown hair, and pointy nose and wears heavy makeup.
+She wears lipstick. She has brown hair, and arched eyebrows. She is young.

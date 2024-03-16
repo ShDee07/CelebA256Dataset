@@ -1,0 +1,10 @@
+The person is young and has receding hairline, and eyeglasses. 
+This man is young and has pointy nose.
+He has eyeglasses, receding hairline, and pointy nose. He is young. He has no beard.
+This man has pale skin. He is young. He has no beard.
+This man has receding hairline, and eyeglasses.
+The man has pointy nose, eyeglasses, and receding hairline.
+This person has receding hairline, and eyeglasses. He is young. He has no beard.
+The person has eyeglasses, receding hairline, and pointy nose.
+The man is young and has pale skin, eyeglasses, and receding hairline.
+The man is young and has pointy nose, receding hairline, and eyeglasses.

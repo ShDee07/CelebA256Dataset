@@ -1,0 +1,10 @@
+This man has bags under eyes, black hair, and big nose. He is attractive. He is wearing necktie. He has beard.
+This man has bags under eyes. He is attractive and is wearing necktie. He has beard.
+He is wearing necktie. He has mustache, big nose, and black hair. He is attractive.
+This attractive man has bags under eyes, mustache, and black hair. 
+The person is attractive and has big nose, mustache, and bags under eyes. 
+This person has black hair, bags under eyes, and mustache. He is wearing necktie.
+The man has black hair, bags under eyes, and big nose and wears necktie.
+This man has big nose. He wears necktie.
+He has big nose. He is attractive and wears necktie. He has beard.
+This man has black hair. He wears necktie. He is attractive.

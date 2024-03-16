@@ -1,0 +1,10 @@
+This bald man has gray hair, receding hairline, and mouth slightly open. 
+This person has receding hairline, and mouth slightly open.
+The man has gray hair, receding hairline, and bags under eyes. He is bald.
+This man has receding hairline.
+The person has bags under eyes.
+This bald man has mouth slightly open. 
+This person has bags under eyes, and receding hairline. He is bald.
+This person is bald and has receding hairline.
+This person has mouth slightly open. He is bald. He has no beard.
+This person is bald and has mouth slightly open.

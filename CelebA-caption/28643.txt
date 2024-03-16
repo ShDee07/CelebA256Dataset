@@ -1,0 +1,10 @@
+This person has sideburns. He is smiling. He has beard.
+This person is smiling and has eyeglasses.
+The man has sideburns.
+The man is smiling and has eyeglasses. 
+The man has eyeglasses. He is smiling.
+He has eyeglasses. He is smiling. He has beard.
+This person has eyeglasses.
+He has sideburns. He is smiling. He has beard.
+This man is smiling and has sideburns. 
+He has eyeglasses. He is smiling.

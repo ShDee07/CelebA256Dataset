@@ -1,0 +1,10 @@
+This man has black hair, bushy eyebrows, and mustache. He is wearing hat.
+The person has goatee. He is chubby and wears hat. He has beard.
+The person is chubby and has mustache, black hair, and goatee. 
+The man has black hair, bushy eyebrows, and mustache. He is chubby and wears hat. He has beard.
+The person is chubby and has goatee, bushy eyebrows, and black hair. 
+This person wears hat. He has bushy eyebrows, and goatee.
+The person has bushy eyebrows, and mustache. He is wearing hat.
+This person has black hair. He is wearing hat.
+The man is chubby and has goatee, and bushy eyebrows. 
+He is wearing hat. He is chubby and has bushy eyebrows, goatee, and black hair.

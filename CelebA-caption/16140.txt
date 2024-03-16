@@ -1,0 +1,10 @@
+The woman has high cheekbones. She is young. She is wearing hat.
+This woman has high cheekbones. She is young and is wearing hat.
+She is young and has high cheekbones. 
+This woman has high cheekbones and is wearing hat.
+She wears hat. She has high cheekbones. She is young.
+The woman has high cheekbones. She wears hat.
+She is wearing hat. She has high cheekbones. She is young.
+She wears hat. She has high cheekbones. She is young.
+The woman has high cheekbones. She wears hat. She is young.
+This person wears hat. She has high cheekbones. She is young.

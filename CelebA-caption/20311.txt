@@ -1,0 +1,10 @@
+The person has black hair. She is young and is wearing lipstick.
+The woman has black hair. She is wearing heavy makeup.
+She is attractive and has black hair. 
+The person wears lipstick. She has black hair.
+The woman has black hair and wears lipstick.
+This woman has black hair. She is attractive. She wears heavy makeup.
+This attractive woman has black hair. 
+She has black hair. She is young. She wears heavy makeup.
+This person has black hair. She is wearing heavy makeup.
+This woman has black hair. She wears heavy makeup. She is attractive.

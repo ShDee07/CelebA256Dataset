@@ -1,0 +1,10 @@
+This person has black hair, and pale skin. He is attractive. He has no beard.
+This person has bushy eyebrows, and black hair.
+The man is attractive and has black hair.
+This man has bushy eyebrows, and pale skin. He is attractive. He has no beard.
+He is attractive and has bushy eyebrows, and pale skin.
+The person is attractive and has bushy eyebrows.
+He is attractive and has bushy eyebrows. 
+This man has bushy eyebrows, and pale skin. He is young.
+He is young and has bushy eyebrows.
+The person has black hair, and pale skin. He is young. He has no beard.

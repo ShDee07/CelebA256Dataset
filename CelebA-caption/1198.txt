@@ -1,0 +1,10 @@
+This man has sideburns. He is young.
+The person is young and has sideburns.
+The person has sideburns. He is young.
+The person has straight hair, and sideburns. He is young. He has beard.
+The man is young and has mustache, and sideburns.
+He is young and has mustache, and sideburns.
+This person has sideburns, and straight hair. He is young. He has beard.
+The person has sideburns, and straight hair.
+The man is young and has straight hair, and mustache.
+The person has mustache.

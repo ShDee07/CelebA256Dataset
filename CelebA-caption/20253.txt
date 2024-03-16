@@ -1,0 +1,10 @@
+This man has narrow eyes, wavy hair, black hair, and bangs.
+This person has bags under eyes, bangs, and narrow eyes.
+The man has wavy hair, black hair, and bags under eyes.
+The person has wavy hair, bags under eyes, and narrow eyes.
+The man has narrow eyes, bangs, black hair, and wavy hair.
+He has bags under eyes.
+This person has wavy hair, bangs, and narrow eyes.
+This person has wavy hair, bangs, and narrow eyes.
+This person has wavy hair, bangs, and narrow eyes.
+This person has narrow eyes, and bags under eyes.

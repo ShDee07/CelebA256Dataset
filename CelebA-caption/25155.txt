@@ -1,0 +1,10 @@
+This person is wearing heavy makeup. She has bangs.
+The woman is attractive and has bangs. 
+She has bangs and wears heavy makeup.
+This person is wearing lipstick. She has bangs.
+The woman is wearing heavy makeup. She has blond hair. She is attractive.
+This person is attractive and has bangs. 
+She has bangs. She is attractive. She wears lipstick.
+The woman has blond hair. She wears lipstick. She is attractive.
+This person has bangs. She is attractive and wears lipstick.
+The person has blond hair. She wears heavy makeup.

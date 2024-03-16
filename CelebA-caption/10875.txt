@@ -1,0 +1,10 @@
+This young person has bags under eyes, and big nose. 
+The man has pointy nose and wears hat. He is young.
+The man has pointy nose and wears hat. He is young.
+This person has bags under eyes, and pointy nose and is wearing hat. He is young.
+He wears hat. He has bags under eyes. He is young.
+This man has pointy nose. He wears hat.
+This man wears hat. He has pointy nose.
+This young man has big nose. 
+He is wearing hat. He has pointy nose.
+He wears hat. He has big nose. He is young.

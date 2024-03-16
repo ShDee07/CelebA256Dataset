@@ -1,0 +1,10 @@
+This person has bags under eyes.
+The man has receding hairline.
+This man has big nose, gray hair, and receding hairline. 
+The person has receding hairline, and big nose.
+The man has receding hairline, bags under eyes, and gray hair.
+This person has gray hair, and bags under eyes.
+This man has gray hair, receding hairline, and big nose.
+This man has gray hair, receding hairline, and big nose.
+The person has bags under eyes, and receding hairline. 
+This person has big nose. 

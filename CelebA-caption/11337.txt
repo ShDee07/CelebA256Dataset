@@ -1,0 +1,10 @@
+This person has pointy nose and wears necktie. He is young.
+This person has pointy nose, mustache, and sideburns and wears necktie.
+This person has narrow eyes, and goatee. He is young. He is wearing necktie. He has beard.
+He wears necktie. He is young and has mustache.
+This person has pointy nose, bags under eyes, narrow eyes, sideburns, and goatee. He is young. He is wearing necktie. He has beard.
+The man has big nose, and bags under eyes. He is wearing necktie.
+This person has goatee, bags under eyes, mustache, and pointy nose. He is young. He wears necktie. He has beard.
+He is wearing necktie. He is young and has sideburns, and narrow eyes.
+He wears necktie. He is young and has big nose, pointy nose, mustache, narrow eyes, sideburns, and bags under eyes.
+He is wearing necktie. He is young and has mustache.

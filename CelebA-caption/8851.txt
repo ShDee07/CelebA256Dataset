@@ -1,0 +1,10 @@
+The person has black hair. She is wearing hat.
+This woman wears hat. She has oval face.
+She is wearing hat. She is young and has oval face.
+This woman has black hair. She is young. She wears hat.
+This woman has black hair and wears hat.
+She is wearing hat. She has oval face. She is young.
+This young woman has oval face. 
+She is wearing hat. She has oval face. She is young.
+She has oval face. She is young. She wears hat.
+She has oval face. She is young and is wearing hat.

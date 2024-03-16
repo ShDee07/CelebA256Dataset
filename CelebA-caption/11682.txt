@@ -1,0 +1,10 @@
+This person has bangs. He is attractive and wears lipstick. He has no beard.
+This man has bangs and wears lipstick.
+He has bangs. He is attractive and wears lipstick. He has no beard.
+This man has bangs and wears hat.
+He has bangs. He is attractive. He is wearing hat. He has no beard.
+The person is attractive and has bangs. 
+This person has bangs. He wears lipstick.
+The man has bangs. He wears lipstick. He is attractive.
+He has bangs. He is attractive. He wears hat. He has no beard.
+He is wearing lipstick. He is young and has bangs.

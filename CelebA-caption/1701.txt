@@ -1,0 +1,10 @@
+She wears lipstick. She has brown hair. She is young.
+The woman has brown hair. She wears lipstick. She is young.
+This person has brown hair. She is young and is wearing earrings.
+The person has brown hair. She is wearing lipstick. She is young.
+This woman has brown hair. She is young and is wearing lipstick.
+She has brown hair and is wearing lipstick. She is young.
+The person has brown hair and wears earrings. She is young.
+She is young and has brown hair. 
+This woman has brown hair. She wears earrings.
+The person has brown hair and wears lipstick.

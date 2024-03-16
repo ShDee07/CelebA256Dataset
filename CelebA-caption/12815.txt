@@ -1,0 +1,10 @@
+She has blond hair. She is young. She wears necklace.
+This woman has bangs and is wearing necklace. She is young.
+She has bangs. She wears necklace.
+She wears necklace. She has bangs. She is young.
+The woman is young and has blond hair. 
+The person has blond hair. She is young. She wears necklace.
+This woman wears necklace. She has bangs.
+This person is young and has blond hair. 
+The person has bangs. She wears necklace. She is young.
+She is wearing necklace. She has bangs. She is young.

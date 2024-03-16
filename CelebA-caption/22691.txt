@@ -1,0 +1,10 @@
+This woman has straight hair, and eyeglasses. She wears lipstick. She is young.
+The woman has eyeglasses, wavy hair, and straight hair. She is young and wears lipstick.
+The woman wears lipstick. She has blond hair.
+This person has wavy hair. She is attractive. She wears lipstick.
+The person has blond hair, and wavy hair. She is wearing lipstick. She is attractive.
+She has eyeglasses. She wears lipstick. She is attractive.
+The woman is wearing lipstick. She has wavy hair, and eyeglasses. She is attractive.
+This woman is wearing lipstick. She has eyeglasses, wavy hair, and blond hair. She is attractive.
+She is wearing lipstick. She has wavy hair. She is attractive.
+This person has eyeglasses, and blond hair. She wears lipstick.

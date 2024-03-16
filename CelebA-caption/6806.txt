@@ -1,0 +1,10 @@
+The person has big nose. She is young.
+She is attractive and has arched eyebrows.
+This woman has big nose. She is young.
+She has arched eyebrows. She is young.
+This woman has big nose.
+This woman is attractive and has big nose. 
+This woman has big nose. She is young.
+The person has big nose.
+The woman has big nose. She is attractive.
+The woman has arched eyebrows. She is attractive.

@@ -1,0 +1,10 @@
+She is wearing lipstick. She has narrow eyes. She is attractive.
+She has arched eyebrows. She is attractive and is wearing lipstick.
+She has narrow eyes and wears heavy makeup.
+The person has arched eyebrows. She is attractive. She wears heavy makeup.
+This young woman has wavy hair. 
+She is wearing lipstick. She is young and has arched eyebrows.
+The woman wears heavy makeup. She has wavy hair. She is young.
+The woman has arched eyebrows, and narrow eyes. She is wearing heavy makeup. She is young.
+The woman has arched eyebrows. She is wearing heavy makeup.
+This woman is young and has narrow eyes, and arched eyebrows. 

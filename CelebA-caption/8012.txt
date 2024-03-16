@@ -1,0 +1,10 @@
+The woman has arched eyebrows, wavy hair, and pointy nose. She wears lipstick.
+The person has wavy hair, and pointy nose and is wearing lipstick.
+The woman is young and has brown hair. 
+The woman is wearing lipstick. She has wavy hair, and arched eyebrows.
+She has arched eyebrows, and pointy nose. She is young. She wears lipstick.
+The woman is young and has brown hair, and arched eyebrows. 
+The person has wavy hair, pointy nose, and arched eyebrows. She wears lipstick. She is young.
+The woman is young and has wavy hair. 
+This person has brown hair. She wears lipstick. She is young.
+This young woman has pointy nose. 

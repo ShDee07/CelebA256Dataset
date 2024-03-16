@@ -1,0 +1,10 @@
+The woman has blond hair. She wears heavy makeup.
+The woman has big lips, and oval face. She wears earrings.
+She has big lips and wears heavy makeup.
+She has big lips and is wearing earrings. She is attractive.
+The woman wears heavy makeup. She has oval face. She is attractive.
+This woman has oval face, and blond hair. She is young. She is wearing earrings.
+The person has oval face, and big lips. She is young and is wearing earrings.
+She is young and has blond hair, and oval face. 
+She has oval face and is wearing earrings.
+This woman wears earrings. She has big lips, and blond hair. She is young.

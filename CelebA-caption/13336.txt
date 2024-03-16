@@ -1,0 +1,10 @@
+The man has black hair and wears necklace.
+The person has eyeglasses. He wears necklace. He is chubby.
+He wears necklace. He has black hair. He is chubby.
+This man has eyeglasses and wears necklace. He is young.
+The person has black hair. He wears necklace.
+This person has eyeglasses. He is wearing necklace. He is chubby.
+He is wearing necklace. He has eyeglasses. He is chubby.
+He wears necklace. He is young and has black hair.
+The man has black hair. He wears necklace.
+The man is young and has eyeglasses. 

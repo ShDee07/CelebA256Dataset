@@ -1,0 +1,10 @@
+This person has high cheekbones. She is wearing heavy makeup. She is attractive.
+She wears lipstick. She has pale skin. She is young.
+This person has pale skin. She wears heavy makeup.
+The person is young and has pale skin. 
+The person is wearing lipstick. She has high cheekbones. She is young.
+She has high cheekbones. She is young and wears lipstick.
+This woman is young and has high cheekbones. 
+This woman is wearing lipstick. She has pale skin. She is attractive.
+She is wearing heavy makeup. She has pale skin. She is young.
+She wears lipstick. She is young and has high cheekbones.

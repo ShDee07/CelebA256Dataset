@@ -1,0 +1,10 @@
+The person has bushy eyebrows, arched eyebrows, and straight hair. He is young.
+The person is young and has arched eyebrows, bushy eyebrows, straight hair, and black hair.
+The person has black hair. He is young.
+This person has bushy eyebrows. He is young.
+The man has bushy eyebrows, pointy nose, big lips, black hair, and arched eyebrows.
+He is young and has pointy nose, and big lips.
+The person has straight hair, bushy eyebrows, and pointy nose.
+The person has straight hair, arched eyebrows, pointy nose, black hair, and bushy eyebrows. He is young.
+The person has arched eyebrows, big lips, and straight hair.
+This man is young and has black hair. 

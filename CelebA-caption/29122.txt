@@ -1,0 +1,10 @@
+She wears lipstick. She has brown hair. She is attractive.
+This person has pale skin, and big lips. She is young and wears lipstick.
+This person wears lipstick. She has pale skin, and brown hair.
+She has pale skin, and brown hair. She is attractive and wears lipstick.
+The woman has big lips, and brown hair. She wears lipstick. She is young.
+The person is attractive and has brown hair, and big lips. 
+This person has brown hair. She is young and wears lipstick.
+This woman is attractive and has pale skin, and brown hair. 
+The woman is attractive and has big lips. 
+This woman is wearing lipstick. She has pale skin.

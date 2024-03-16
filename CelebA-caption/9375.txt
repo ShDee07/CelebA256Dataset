@@ -1,0 +1,10 @@
+This person has bags under eyes, mustache, receding hairline, and sideburns. He is chubby.
+He has bags under eyes, mustache, and receding hairline. He is chubby.
+This man has receding hairline, sideburns, goatee, and bags under eyes.
+The man has receding hairline, and sideburns. He is chubby. He has beard.
+He has mustache, receding hairline, goatee, and sideburns.
+He has receding hairline.
+He is chubby and has sideburns. 
+This person has receding hairline, bags under eyes, goatee, and sideburns.
+The man is chubby and has goatee. 
+The man has mustache, and bags under eyes.

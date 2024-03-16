@@ -1,0 +1,10 @@
+The woman wears lipstick. She has oval face. She is attractive.
+The person has mouth slightly open. She is wearing hat. She is attractive.
+The person has oval face. She is attractive. She wears heavy makeup, and lipstick.
+She has mouth slightly open. She is wearing heavy makeup.
+This person is attractive and has mouth slightly open. 
+She is wearing heavy makeup, and hat. She has oval face. She is young.
+This woman has mouth slightly open. She is attractive. She is wearing heavy makeup, and hat.
+This person has mouth slightly open and wears hat, and lipstick.
+The woman is attractive and has oval face. 
+She wears lipstick, and heavy makeup. She has oval face. She is young.

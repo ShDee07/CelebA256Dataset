@@ -1,0 +1,10 @@
+He is wearing necktie. He is bald and has bushy eyebrows, arched eyebrows, bags under eyes, big nose, pointy nose, and sideburns.
+He wears necktie. He has oval face, big nose, bags under eyes, pointy nose, sideburns, and arched eyebrows. He is bald.
+The person has pointy nose, oval face, bags under eyes, big nose, sideburns, and arched eyebrows. He wears necktie. He is bald.
+The person has oval face, arched eyebrows, and pointy nose and is wearing necktie. He is bald.
+This person has bags under eyes, arched eyebrows, bushy eyebrows, and sideburns. He is wearing necktie. He is bald.
+This man is wearing necktie. He has bags under eyes, and big nose. He is bald.
+The person has sideburns, bushy eyebrows, oval face, pointy nose, big nose, and arched eyebrows and wears necktie. He is bald.
+This man is wearing necktie. He has oval face.
+The man is bald and has pointy nose, oval face, bushy eyebrows, sideburns, and arched eyebrows. 
+The man is bald and has big nose, bushy eyebrows, pointy nose, oval face, and sideburns. 

@@ -1,0 +1,10 @@
+This man has receding hairline, big nose, and straight hair.
+The person has receding hairline, straight hair, and big nose.
+This person has pointy nose, receding hairline, and big nose. 
+The man has big nose, bags under eyes, and straight hair.
+He has bags under eyes, straight hair, big nose, and receding hairline.
+He has straight hair, pointy nose, bags under eyes, and big nose.
+The man has straight hair, receding hairline, big nose, and bags under eyes.
+The man has straight hair, receding hairline, big nose, and bags under eyes.
+The person has straight hair, pointy nose, receding hairline, and bags under eyes. 
+He has pointy nose, big nose, and receding hairline.

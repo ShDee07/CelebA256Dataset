@@ -1,0 +1,10 @@
+This young person has pale skin, wavy hair, and goatee. 
+This attractive man has mustache. 
+This man is attractive and has wavy hair.
+This man has pale skin, brown hair, and wavy hair. He is young.
+He has wavy hair, mustache, pale skin, and brown hair. He is attractive. He has beard.
+The man has wavy hair, mustache, and pale skin. He is attractive. He has beard.
+This man has brown hair, and pale skin.
+The man is attractive and has wavy hair, brown hair, mustache, and pale skin.
+He has goatee, brown hair, and pale skin.
+He is young and has brown hair. 

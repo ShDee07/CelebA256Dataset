@@ -1,0 +1,10 @@
+This woman has wavy hair. She is smiling and wears lipstick.
+She wears heavy makeup. She has brown hair. She is smiling.
+The person wears heavy makeup. She has brown hair.
+She wears lipstick. She has brown hair. She is smiling.
+This person has brown hair. She is smiling. She wears heavy makeup.
+The person has brown hair. She wears lipstick.
+She is wearing lipstick. She has wavy hair. She is smiling.
+She is smiling and has wavy hair. 
+This woman has wavy hair. She wears heavy makeup. She is smiling.
+The woman has wavy hair. She wears heavy makeup. She is smiling.

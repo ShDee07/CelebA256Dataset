@@ -1,0 +1,10 @@
+This person has brown hair, bangs, and bags under eyes. He is young. He has beard.
+He has bushy eyebrows, bangs, and brown hair. He is young.
+He is young and has brown hair.
+This person has bushy eyebrows, bags under eyes, and brown hair.
+He has bushy eyebrows, brown hair, and bags under eyes.
+This man has bangs, and bushy eyebrows. He is young.
+This young man has bags under eyes, brown hair, and bangs. 
+This young man has brown hair, and bags under eyes. 
+This person has brown hair, bushy eyebrows, and bangs. He is young.
+He has brown hair, and bangs.

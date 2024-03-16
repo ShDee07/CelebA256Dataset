@@ -1,0 +1,10 @@
+The person has wavy hair, and eyeglasses. He is chubby.
+The man is chubby and has mustache.
+This person has big nose, black hair, wavy hair, and mustache.
+This man is chubby and has mustache, and big nose.
+The man has black hair, and mustache. He is chubby. He has no beard.
+This man has black hair.
+The man has mustache. He is chubby. He has no beard.
+This person has eyeglasses, and mustache. He is chubby.
+This person has black hair, and wavy hair. He is chubby. He has no beard.
+This person has big nose. He is chubby. He has no beard.

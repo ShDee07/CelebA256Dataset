@@ -1,0 +1,10 @@
+This man has eyeglasses. He is young. He has no beard.
+The man is young and has receding hairline, and gray hair. 
+He has gray hair, and receding hairline.
+The person has eyeglasses.
+He is young and has receding hairline, eyeglasses, and gray hair.
+He is young and has receding hairline. 
+He has eyeglasses.
+The person is young and has eyeglasses.
+The person has receding hairline, and eyeglasses.
+This person has mouth slightly open. He is young.

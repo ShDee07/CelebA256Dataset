@@ -1,0 +1,10 @@
+The man has brown hair. He is young. He has beard.
+The person has straight hair.
+The person is young and has straight hair, brown hair, eyeglasses, and big nose.
+This person is young and has eyeglasses, straight hair, goatee, and brown hair. 
+This man has big nose, brown hair, and goatee.
+The man has eyeglasses.
+The man has goatee, big nose, straight hair, and brown hair.
+The man is young and has brown hair, and goatee.
+This person is young and has eyeglasses.
+This man is young and has eyeglasses, brown hair, big nose, and straight hair. 

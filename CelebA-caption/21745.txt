@@ -1,0 +1,10 @@
+The man has eyeglasses. He is young.
+The man has oval face.
+The man has big nose. He is attractive.
+He has big nose.
+The man has big nose, and eyeglasses. He is attractive.
+He has eyeglasses. He is young.
+The person has big nose, and oval face. He is young. He has no beard.
+The man has oval face. He is attractive. He has no beard.
+The person is attractive and has eyeglasses, and oval face.
+The man has big nose, and eyeglasses. He is attractive. He has no beard.

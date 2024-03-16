@@ -1,0 +1,10 @@
+The woman has arched eyebrows. She wears heavy makeup. She is young.
+This woman has brown hair. She is young. She is wearing heavy makeup.
+The person has arched eyebrows and is wearing heavy makeup. She is young.
+This woman is wearing heavy makeup. She has brown hair.
+She is wearing heavy makeup. She has arched eyebrows. She is young.
+She has arched eyebrows and is wearing heavy makeup. She is young.
+She wears heavy makeup. She is young and has brown hair.
+This woman wears heavy makeup. She has arched eyebrows. She is young.
+The woman has brown hair and is wearing heavy makeup.
+She has brown hair. She is wearing heavy makeup.

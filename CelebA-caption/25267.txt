@@ -1,0 +1,10 @@
+The man is wearing necktie. He has bags under eyes. He is bald.
+The man has bags under eyes. He wears necktie.
+He is wearing necktie. He has big nose. He is bald.
+He has bags under eyes. He is bald and is wearing necktie. He has beard.
+He has bags under eyes. He is bald and is wearing necktie. He has beard.
+This person has bags under eyes. He wears necktie.
+He has big nose. He is wearing necktie. He is bald.
+The person has big nose. He is bald and is wearing necktie. He has beard.
+He has big nose. He is wearing necktie. He is bald.
+This man is bald and has bags under eyes. 

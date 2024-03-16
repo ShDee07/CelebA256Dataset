@@ -1,0 +1,10 @@
+This person has pointy nose. He is young.
+The man has black hair, and bushy eyebrows.
+This man has bushy eyebrows.
+The man has pointy nose. He is young.
+The man has bushy eyebrows, and pointy nose.
+This man has bushy eyebrows. He is young. He has no beard.
+This man has bushy eyebrows, and pointy nose. He is young.
+The person has pointy nose. He is young.
+This person is young and has bushy eyebrows, and pointy nose.
+This man is young and has bushy eyebrows. 

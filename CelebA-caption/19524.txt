@@ -1,0 +1,10 @@
+This man has oval face, eyeglasses, and big nose and wears hat. 
+This man has eyeglasses.
+The person has sideburns. 
+The man has big nose, and eyeglasses.
+The person has sideburns, and big nose. 
+The person has sideburns, and big nose. 
+This man has sideburns, and eyeglasses.
+This man has sideburns, and big nose.
+The person has big nose.
+This man has sideburns, and eyeglasses.

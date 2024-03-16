@@ -1,0 +1,10 @@
+This woman has blond hair, and arched eyebrows. She wears heavy makeup. She is attractive.
+The person is attractive and has arched eyebrows. 
+The person has receding hairline and is wearing heavy makeup.
+The woman has pale skin and is wearing heavy makeup.
+She is young and has pale skin. 
+The woman is wearing heavy makeup. She has receding hairline.
+The woman has pale skin, blond hair, and arched eyebrows. She is attractive and wears heavy makeup.
+The woman wears heavy makeup. She has pale skin, arched eyebrows, and receding hairline. She is attractive.
+This woman is young and has receding hairline, blond hair, and pale skin. 
+This woman has receding hairline, and arched eyebrows. She wears heavy makeup.

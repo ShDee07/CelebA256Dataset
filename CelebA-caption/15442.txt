@@ -1,0 +1,10 @@
+The person is chubby and has bags under eyes, pale skin, and goatee.
+The person has mouth slightly open.
+This man has pale skin, and bags under eyes.
+This man has pale skin. He is chubby.
+The man has bags under eyes, and goatee.
+The person has goatee.
+The man has pale skin, and goatee. He is chubby. He has beard.
+The man has pale skin, and goatee. He is chubby. He has beard.
+He has pale skin.
+The person is chubby and has mouth slightly open, and pale skin. 

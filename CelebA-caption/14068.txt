@@ -1,0 +1,10 @@
+The man has big nose. He is attractive. He wears hat. He has beard.
+The person is wearing hat. He has goatee, and arched eyebrows.
+He has big nose, and arched eyebrows. He is wearing hat.
+The person has arched eyebrows. He is wearing hat. He is attractive.
+This person is wearing hat. He has big nose.
+The man is young and has big nose, and arched eyebrows. 
+The person wears hat. He has arched eyebrows, and big nose. He is young.
+This attractive man has arched eyebrows. 
+This man is young and has goatee. 
+This person has goatee. He is attractive and wears hat. He has beard.

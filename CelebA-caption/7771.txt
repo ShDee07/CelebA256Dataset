@@ -1,0 +1,10 @@
+The person has pale skin, and pointy nose. She is young and wears heavy makeup.
+This woman has pointy nose, and pale skin. She is young and is wearing lipstick.
+The woman has bags under eyes, and pointy nose. She is young and is wearing lipstick.
+This woman has pointy nose, and bags under eyes. She wears necklace.
+The woman has pointy nose and is wearing necklace. She is young.
+The woman wears necklace, heavy makeup. She has bags under eyes. She is young.
+This woman has pointy nose. She is young and is wearing necklace, and lipstick.
+She has bags under eyes, and pale skin and wears lipstick. She is young.
+The woman wears heavy makeup. She has pointy nose, and pale skin.
+She wears necklace, and lipstick. She is young and has bags under eyes.

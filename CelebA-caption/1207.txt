@@ -1,0 +1,10 @@
+The man has big nose, bushy eyebrows, and arched eyebrows.
+The man has arched eyebrows, bags under eyes, and pointy nose.
+This man has bags under eyes. He is bald. He has no beard.
+The person has bags under eyes, pointy nose, bushy eyebrows, and arched eyebrows. He is bald. He has no beard.
+The person has bushy eyebrows, pointy nose, and arched eyebrows.
+This man has bags under eyes, pointy nose, and big nose. He is bald. He has no beard.
+This man has pointy nose, big nose, arched eyebrows, and bushy eyebrows. He is bald.
+The person is bald and has arched eyebrows, bags under eyes, pointy nose, and big nose. 
+The man is bald and has big nose, bushy eyebrows, and arched eyebrows.
+This man has arched eyebrows, and bushy eyebrows. He is bald. He has no beard.

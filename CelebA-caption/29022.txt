@@ -1,0 +1,10 @@
+She wears hat. She is young and has straight hair.
+She is wearing hat. She has straight hair. She is young.
+This woman is wearing hat. She has pointy nose.
+This woman is young and has straight hair. 
+She is wearing hat. She has pointy nose. She is young.
+The woman has straight hair and is wearing hat.
+The woman has pointy nose. She is wearing hat.
+The person is young and has pointy nose. 
+This person wears hat. She has straight hair. She is young.
+This person wears hat. She has pointy nose.

@@ -1,0 +1,10 @@
+The man wears hat. He has pointy nose. He is young.
+This person is young and has pointy nose. 
+This young person has pointy nose. 
+He wears hat. He has pointy nose.
+This man is young and has pointy nose. 
+The person has pointy nose. He is wearing hat.
+He is wearing hat. He is young and has pointy nose.
+This person wears hat. He has pointy nose.
+The person wears hat. He has pointy nose.
+He is wearing hat. He has pointy nose. He is young.

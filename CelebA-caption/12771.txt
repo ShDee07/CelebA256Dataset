@@ -1,0 +1,10 @@
+This person has pointy nose.
+The person has bushy eyebrows, and bags under eyes. She is young.
+The woman has pointy nose, and bags under eyes.
+This person has bushy eyebrows. She is young.
+The woman has pointy nose, and bushy eyebrows.
+She is young and has bushy eyebrows, and pointy nose.
+The woman has pointy nose, and bags under eyes. She is young.
+This person has pointy nose, and bags under eyes. She is young.
+The person has bags under eyes, and bushy eyebrows.
+The woman has pointy nose, and bushy eyebrows. She is young.

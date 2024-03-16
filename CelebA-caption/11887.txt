@@ -1,0 +1,10 @@
+The person has pale skin and is wearing hat. He is young.
+This person has pale skin. He wears hat. He is young.
+This person has bushy eyebrows and wears lipstick. He is young.
+He wears hat. He is young and has bushy eyebrows.
+The man is wearing hat. He has pale skin.
+The man is wearing lipstick. He has bushy eyebrows.
+The man has pale skin. He wears lipstick. He is young.
+This young man has pale skin. 
+The man has bushy eyebrows. He is young and wears hat. He has no beard.
+This man has bushy eyebrows and wears lipstick. He is young.

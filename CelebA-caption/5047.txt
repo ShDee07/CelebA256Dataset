@@ -1,0 +1,10 @@
+The man is young and has goatee.
+The person has mustache. He is young. He has beard.
+This man has sideburns, and black hair.
+The man has black hair.
+This person is young and has sideburns, mustache, and goatee.
+The man has black hair. He is young.
+This young man has mustache, black hair, and goatee. 
+This young person has sideburns, mustache, and black hair. 
+This man has mustache, sideburns, and black hair.
+This man is young and has sideburns. 

@@ -1,0 +1,10 @@
+The woman has high cheekbones. She is attractive. She wears heavy makeup.
+This person has high cheekbones. She wears lipstick.
+This woman wears lipstick. She has arched eyebrows. She is attractive.
+The person is wearing heavy makeup. She has arched eyebrows.
+This woman has high cheekbones and wears heavy makeup. She is attractive.
+She wears heavy makeup. She has high cheekbones. She is attractive.
+The woman wears lipstick. She has high cheekbones. She is young.
+She has high cheekbones. She is wearing lipstick. She is young.
+This woman has high cheekbones. She is wearing heavy makeup. She is attractive.
+The woman is attractive and has high cheekbones. 

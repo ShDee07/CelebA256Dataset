@@ -1,0 +1,10 @@
+The person has high cheekbones. She is young.
+The person is young and has high cheekbones.
+The woman has brown hair.
+She is young and has brown hair. 
+This woman is young and has brown hair. 
+This woman has high cheekbones.
+This woman is young and has high cheekbones. 
+She has brown hair. She is young.
+The woman has brown hair.
+She has brown hair.

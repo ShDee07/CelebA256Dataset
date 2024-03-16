@@ -1,0 +1,10 @@
+This man has brown hair. He is attractive. He has beard.
+The person has wavy hair.
+The man is attractive and has brown hair. 
+This man has brown hair.
+The man has wavy hair.
+The man has brown hair. He is attractive. He has beard.
+The man has brown hair.
+The person is attractive and has wavy hair. 
+The man has brown hair.
+He has brown hair. He is attractive.

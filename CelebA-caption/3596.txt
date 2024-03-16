@@ -1,0 +1,10 @@
+The person is wearing necklace. She has black hair. She is young.
+The person has black hair. She is young. She is wearing necklace.
+This person has black hair. She wears earrings. She is young.
+This woman has black hair and wears necklace.
+This person has black hair. She is young and is wearing earrings.
+She is wearing necklace. She has black hair. She is young.
+She is wearing necklace. She has black hair. She is young.
+This person wears earrings. She has black hair.
+The person is wearing necklace. She has black hair. She is young.
+This woman has black hair. She wears earrings. She is young.

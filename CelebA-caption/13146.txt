@@ -1,0 +1,10 @@
+This woman wears earrings. She has wavy hair, blond hair, and pointy nose.
+This woman has wavy hair, and blond hair. She is wearing lipstick.
+The person has blond hair and is wearing lipstick, and heavy makeup.
+The woman has pointy nose, and wavy hair and wears lipstick, and heavy makeup.
+The person is wearing earrings. She has blond hair, and arched eyebrows. She is attractive.
+This person wears heavy makeup. She has wavy hair, pointy nose, and arched eyebrows.
+She has wavy hair, and arched eyebrows. She is attractive and wears lipstick, and earrings.
+This person has wavy hair, blond hair, and pointy nose. She is wearing heavy makeup, and lipstick.
+She wears lipstick, and earrings. She has arched eyebrows. She is attractive.
+This person is attractive and has blond hair. 

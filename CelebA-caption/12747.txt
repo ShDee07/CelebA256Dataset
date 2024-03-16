@@ -1,0 +1,10 @@
+She wears necklace. She has mouth slightly open.
+This person wears lipstick. She has wavy hair, and mouth slightly open.
+This woman has wavy hair. She is wearing lipstick. 
+She wears necklace. She has blond hair, and wavy hair.
+The woman has wavy hair, and mouth slightly open and is wearing necklace.
+The person wears lipstick. She has mouth slightly open.
+She wears necklace. She has mouth slightly open, and blond hair.
+This woman has blond hair, and mouth slightly open and wears lipstick.
+This woman and is wearing necklace has blond hair. 
+This person has blond hair, and mouth slightly open. She is wearing necklace.

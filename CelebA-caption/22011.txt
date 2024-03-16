@@ -1,0 +1,10 @@
+This man has black hair, sideburns, arched eyebrows, bags under eyes, straight hair, and mustache. He wears necktie.
+The man has bushy eyebrows, mustache, black hair, and arched eyebrows. He wears necktie.
+This person has sideburns and is wearing necktie.
+The man wears necktie. He has black hair, and straight hair.
+The person is wearing necktie. He has sideburns, mustache, and goatee.
+This person has mustache, goatee, bushy eyebrows, black hair, arched eyebrows, bags under eyes, and straight hair and is wearing necktie. 
+This man has arched eyebrows, sideburns, bags under eyes, bushy eyebrows, goatee, and mustache. He wears necktie. 
+He wears necktie. He has bushy eyebrows, black hair, sideburns, goatee, and mustache.
+He has mustache, and black hair. He wears necktie.
+He has goatee. He wears necktie.

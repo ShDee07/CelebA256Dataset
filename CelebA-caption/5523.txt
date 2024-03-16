@@ -1,0 +1,10 @@
+The person has . He wears hat. He is chubby.
+He wears hat. He has .
+He is wearing hat. He has . He is chubby.
+The person is wearing hat. He has .
+The person has  and is wearing hat.
+He has . He is chubby. He wears hat. He has no beard.
+He has . He is chubby. He wears hat. He has no beard.
+This person wears hat. He has .
+This person has . He is chubby and wears hat. He has no beard.
+The person has  and is wearing hat.

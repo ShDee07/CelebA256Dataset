@@ -1,0 +1,10 @@
+The person has blond hair. She wears lipstick. She is young.
+She wears lipstick. She is attractive and has wavy hair.
+She is young and has bangs. 
+She has blond hair, and bangs and is wearing lipstick.
+She has blond hair. She is attractive and wears lipstick.
+The woman is attractive and has bangs. 
+The person has blond hair. She wears lipstick.
+She is wearing lipstick. She has blond hair, and wavy hair.
+She wears lipstick. She is attractive and has wavy hair, and blond hair.
+She wears lipstick. She is young and has wavy hair, and bangs.

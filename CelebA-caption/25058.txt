@@ -1,0 +1,10 @@
+The person has rosy cheeks. She wears lipstick. She is attractive.
+She has rosy cheeks and wears heavy makeup.
+This woman is attractive and has arched eyebrows, and wavy hair. 
+The person is attractive and has arched eyebrows. 
+The person is young and has rosy cheeks. 
+She is wearing heavy makeup. She has rosy cheeks, and arched eyebrows. She is attractive.
+She is wearing heavy makeup. She has arched eyebrows, and rosy cheeks. She is young.
+This woman has wavy hair, and arched eyebrows. She wears heavy makeup.
+This person has rosy cheeks and is wearing heavy makeup. She is attractive.
+The woman has arched eyebrows. She is young and wears lipstick.

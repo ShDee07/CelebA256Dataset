@@ -1,0 +1,10 @@
+The man has pointy nose, and straight hair. He wears necktie. He is young.
+This man has straight hair, goatee, and gray hair. He is young. He wears necktie. He has beard.
+He is wearing necktie. He has gray hair, pointy nose, and goatee. He is young.
+This person has goatee and wears necktie. He is young.
+This man is wearing necktie. He has pointy nose, and goatee.
+The person has goatee, pointy nose, and straight hair. He wears necktie. He is young.
+The person has gray hair, and goatee. He is wearing necktie.
+He has gray hair, and goatee. He wears necktie.
+He wears necktie. He has pointy nose, goatee, and gray hair. He is young.
+This person is young and has goatee, pointy nose, and straight hair. 

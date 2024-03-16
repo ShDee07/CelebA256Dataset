@@ -1,0 +1,10 @@
+The person has goatee, and eyeglasses and is wearing hat. He is chubby.
+The man is chubby and has big nose. 
+This man has big nose, and eyeglasses and is wearing hat.
+This person has goatee and wears hat.
+The person is chubby and has big nose, and goatee. 
+The man wears hat. He has eyeglasses, and goatee. He is chubby.
+The person has big nose. He is chubby. He is wearing hat. He has beard.
+He has eyeglasses and is wearing hat.
+This chubby man has big nose. 
+He is wearing hat. He is chubby and has goatee.

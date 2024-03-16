@@ -1,0 +1,10 @@
+The person is wearing earrings. She has straight hair. She is young.
+She is wearing earrings. She is young and has pointy nose.
+This woman has straight hair. She is young and is wearing earrings.
+She has pointy nose. She is young and is wearing earrings.
+The person has pointy nose and wears earrings. She is young.
+This woman has straight hair. She wears earrings.
+This person has pointy nose. She wears earrings.
+She is wearing earrings. She is young and has straight hair.
+This person has pointy nose. She is wearing earrings.
+The person is wearing earrings. She has pointy nose.

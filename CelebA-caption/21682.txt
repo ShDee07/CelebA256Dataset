@@ -1,0 +1,10 @@
+This man has goatee, and oval face.
+The person has goatee, eyeglasses, and sideburns. He is young. He has beard.
+This person is young and has black hair, sideburns, eyeglasses, and oval face.
+The man is young and has oval face, and sideburns.
+He has oval face, sideburns, goatee, and black hair. He is young.
+This person has goatee, and eyeglasses. He is young. He has beard.
+The person has black hair, oval face, goatee, and sideburns. He is young.
+The man is young and has black hair, eyeglasses, and sideburns. 
+He has oval face.
+He has eyeglasses, goatee, black hair, and oval face.

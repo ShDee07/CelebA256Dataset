@@ -1,0 +1,10 @@
+This person has pointy nose, and bags under eyes. He is wearing necktie.
+This person has bags under eyes and wears necktie.
+This man has straight hair. He is wearing necktie.
+The person has straight hair. He wears necktie.
+He wears necktie. He has pointy nose, and straight hair.
+He has straight hair. He is wearing necktie. 
+He has bags under eyes, and straight hair and wears necktie.
+This man wears necktie. He has straight hair.
+The man is wearing necktie. He has bags under eyes. He.
+This person has bags under eyes, and pointy nose and is wearing necktie.

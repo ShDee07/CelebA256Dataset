@@ -1,0 +1,10 @@
+This man has eyeglasses.
+The person has eyeglasses.
+This man has oval face.
+This man has oval face.
+He has eyeglasses. 
+He has eyeglasses. 
+This man has oval face.
+The man has oval face.
+This person has eyeglasses. 
+He has oval face.

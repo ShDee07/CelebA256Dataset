@@ -1,0 +1,10 @@
+This person has eyeglasses. He is young.
+The person has bags under eyes. He is young. He has no beard.
+The man has bags under eyes. He is young. He has no beard.
+He has bags under eyes. He is young.
+This person is young and has bags under eyes. 
+He has bags under eyes. He is young.
+This man has eyeglasses.
+He has bags under eyes.
+The person has eyeglasses.
+The man has eyeglasses. He is young.

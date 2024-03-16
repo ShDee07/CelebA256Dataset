@@ -1,0 +1,10 @@
+The man is wearing necktie. He has mustache.
+The person has big nose. He wears hat.
+The man has big nose. He wears hat.
+He wears necktie. He has mustache, bags under eyes, and big nose.
+He wears hat. He has big nose, bags under eyes, and mustache.
+The man and is wearing hat has mustache. 
+He wears hat. He has bags under eyes.
+This person has bags under eyes. He wears hat.
+He is wearing hat. He has bushy eyebrows.
+The person has bushy eyebrows and is wearing necktie.

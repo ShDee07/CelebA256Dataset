@@ -1,0 +1,10 @@
+The woman has brown hair and wears necklace. She is young, and attractive.
+She wears lipstick. She has brown hair, and high cheekbones. She is young, and attractive.
+She wears lipstick. She has arched eyebrows, and high cheekbones. She is attractive.
+The woman is wearing necklace. She has brown hair, and arched eyebrows. She is young.
+She has arched eyebrows, and brown hair. She is wearing necklace.
+She is wearing necklace. She has high cheekbones. She is smiling, and young.
+This person has high cheekbones, and brown hair. She is wearing necklace. She is smiling.
+She has brown hair, and high cheekbones. She is young, and attractive. She is wearing lipstick.
+This person has arched eyebrows. She is smiling, and young. She wears lipstick.
+This smiling, and young woman has arched eyebrows, and high cheekbones. 

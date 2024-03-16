@@ -1,0 +1,10 @@
+She wears earrings. She has arched eyebrows.
+She is wearing earrings. She has bangs, and arched eyebrows.
+This woman has brown hair. She is wearing earrings.
+This woman wears earrings. She has arched eyebrows.
+She wears earrings. She has arched eyebrows.
+The person has arched eyebrows, and brown hair. She wears earrings. 
+She is wearing earrings. She has bangs.
+The person has brown hair, and arched eyebrows. She is wearing earrings.
+This woman has brown hair, and arched eyebrows and is wearing earrings.
+This woman has arched eyebrows, and brown hair and wears earrings.

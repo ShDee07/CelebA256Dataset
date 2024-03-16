@@ -1,0 +1,10 @@
+This person is wearing lipstick. She has bangs. She is young.
+This person has bangs and wears lipstick. She is young.
+The person has straight hair. She is young. She is wearing lipstick.
+The woman has bangs and is wearing lipstick.
+This person is attractive and has straight hair. 
+This woman has bangs and wears lipstick.
+She is wearing lipstick. She has bangs. She is young.
+This person is wearing lipstick. She has bangs. She is young.
+This woman has bangs. She is attractive. She is wearing lipstick.
+This woman has bangs. She wears lipstick.

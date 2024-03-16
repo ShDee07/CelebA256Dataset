@@ -1,0 +1,10 @@
+The person has goatee, wavy hair, and mustache. He is young.
+This man has mustache, and pointy nose. He is attractive.
+The man has wavy hair. He is young.
+This man has oval face, goatee, and pointy nose.
+The person is young and has oval face, mustache, goatee, and pointy nose.
+This person has goatee, pointy nose, oval face, and mustache.
+The person has pointy nose, and oval face. He is attractive.
+The person is young and has mustache, wavy hair, and oval face.
+The person has wavy hair, pointy nose, and goatee. He is young.
+This person has wavy hair, goatee, and oval face.

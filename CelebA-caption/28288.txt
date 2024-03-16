@@ -1,0 +1,10 @@
+The woman is young and has bangs, and arched eyebrows. 
+This person has bangs, and arched eyebrows. She is young. She wears heavy makeup.
+This woman is young and has bangs, and oval face. 
+The woman wears earrings. She has oval face.
+She wears earrings, and lipstick. She has oval face. She is attractive.
+The person is attractive and has bangs. 
+The person has oval face, and bangs. She is wearing necklace. She is young.
+The person has bangs and wears heavy makeup, necklace, and earrings. She is attractive.
+She wears earrings, necklace, and heavy makeup. She is young and has oval face.
+This person has oval face, and arched eyebrows. She is attractive and is wearing necklace, and earrings.

@@ -1,0 +1,10 @@
+This person is young and has blond hair. 
+This person has blond hair, and pale skin. She is young. She wears lipstick.
+This person has pale skin and is wearing lipstick.
+This person is young and has blond hair. 
+The woman has blond hair. She wears lipstick.
+She is wearing lipstick. She has bangs, and pale skin. She is young.
+She is wearing lipstick. She is young and has bangs.
+She wears lipstick. She is young and has bangs, and blond hair.
+This person has bangs, and blond hair. She wears lipstick. She is young.
+The woman is young and has blond hair. 

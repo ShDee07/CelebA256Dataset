@@ -1,0 +1,10 @@
+This person has mustache.
+This person has mustache.
+He has black hair, bushy eyebrows, and mustache.
+This person has straight hair, mustache, and bushy eyebrows.
+The man has bushy eyebrows, and straight hair.
+This man has goatee, bushy eyebrows, black hair, and mustache.
+The man has bushy eyebrows, black hair, straight hair, and mustache.
+This person has goatee, mustache, and black hair.
+This person has bushy eyebrows, straight hair, and mustache. 
+He has black hair, mustache, bushy eyebrows, and goatee.

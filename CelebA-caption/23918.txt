@@ -1,0 +1,10 @@
+The person has eyeglasses. He is bald.
+This chubby person has big nose. 
+The man is bald and has mouth slightly open, and big nose. 
+This man has mouth slightly open, and big nose. He is bald.
+This man has eyeglasses.
+This person has big nose, and mouth slightly open.
+The man is chubby and has mouth slightly open, and eyeglasses. 
+This man has mouth slightly open. He is chubby. He has no beard.
+The person has mouth slightly open, and eyeglasses. He is bald.
+The person is bald and has big nose. 

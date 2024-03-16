@@ -1,0 +1,10 @@
+This person has pointy nose.
+This man is young and has pointy nose.
+The person has wavy hair.
+This man has wavy hair. He is young. He has no beard.
+The person has wavy hair. He is young.
+The man has pointy nose. He is young.
+He has pointy nose. He is young. He has no beard.
+This man is young and has pointy nose. 
+The man has pointy nose.
+The person has wavy hair.

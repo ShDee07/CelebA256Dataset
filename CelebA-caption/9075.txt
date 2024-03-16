@@ -1,0 +1,10 @@
+The woman is young and has bangs. 
+The person has bangs and is wearing necklace. She is young.
+This person is young and has bangs. 
+This person has bangs and is wearing heavy makeup, and necklace.
+She has bangs and is wearing necklace.
+The person has bangs. She wears heavy makeup.
+The woman has bangs and is wearing necklace.
+She wears necklace, and heavy makeup. She is young and has bangs.
+The person is wearing necklace, heavy makeup. She has bangs. She is young.
+This person wears necklace, lipstick. She has bangs.

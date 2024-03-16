@@ -1,0 +1,10 @@
+The person has pointy nose. She wears earrings.
+She is wearing lipstick. She has pointy nose. She is young.
+This person has pointy nose and wears earrings. She is young.
+The woman has pointy nose and wears lipstick. She is attractive.
+This woman has pointy nose. She is attractive and wears earrings.
+This woman has pointy nose. She is attractive. She wears lipstick.
+This person has pointy nose. She is young. She is wearing lipstick.
+This woman has pointy nose. She is attractive and wears earrings.
+This person has pointy nose and wears earrings.
+She wears lipstick. She has pointy nose. She is attractive.

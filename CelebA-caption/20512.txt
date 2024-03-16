@@ -1,0 +1,10 @@
+The woman is young and has pointy nose.
+The woman is young and has wavy hair.
+The woman is young and has wavy hair, and big lips.
+This woman has pointy nose, and wavy hair.
+She has wavy hair, and pointy nose.
+This woman is young and has wavy hair, and big lips.
+This woman is young and has big lips, and pointy nose. 
+This woman has wavy hair, and big lips. She is young.
+This woman is young and has wavy hair, and pointy nose.
+The person is young and has wavy hair, and pointy nose. 

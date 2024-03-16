@@ -1,0 +1,10 @@
+The man is young and has pale skin.
+He is young and has eyeglasses. 
+This man has eyeglasses.
+This man is young and has pale skin.
+The man has eyeglasses. He is young. He has beard.
+The person is young and has pale skin. 
+This person has eyeglasses. He is young.
+The man has eyeglasses.
+This person is young and has pale skin.
+He has eyeglasses.

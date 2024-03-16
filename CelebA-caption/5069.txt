@@ -1,0 +1,10 @@
+This person has big nose. He is wearing earrings. He is young.
+This person is wearing earrings. He has big nose.
+He is wearing earrings. He has big nose. He is young.
+The man wears hat. He has big nose.
+He wears earrings. He has big nose. He is young.
+This man has big nose and wears hat. He is young.
+This person is young and has big nose. 
+He wears earrings. He has big nose. He is young.
+This person has big nose. He wears earrings.
+The man has big nose. He is young. He is wearing hat. He has beard.

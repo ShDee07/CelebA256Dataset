@@ -1,0 +1,10 @@
+This woman has gray hair, arched eyebrows, and bags under eyes and wears earrings. 
+This person has gray hair, bags under eyes, and pale skin. She is wearing earrings.
+She has bags under eyes. She wears earrings.
+The person has gray hair, pale skin, and arched eyebrows. She wears earrings.
+The woman has pale skin, bags under eyes, and arched eyebrows and wears heavy makeup. 
+She wears heavy makeup. She has bags under eyes.
+She has arched eyebrows, and pale skin. She wears heavy makeup.
+She has arched eyebrows and is wearing earrings.
+The person has bags under eyes, pale skin, and arched eyebrows and is wearing earrings.
+She wears heavy makeup. She has bags under eyes, gray hair, and arched eyebrows.

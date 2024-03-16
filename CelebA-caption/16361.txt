@@ -1,0 +1,10 @@
+The person is attractive and has arched eyebrows. 
+She has arched eyebrows. She wears heavy makeup.
+She wears heavy makeup. She has mouth slightly open. She is young.
+The person has mouth slightly open. She is attractive. She is wearing heavy makeup.
+This woman has arched eyebrows. She wears lipstick. She is attractive.
+She wears lipstick. She has mouth slightly open. She is young.
+The person has mouth slightly open. She is wearing lipstick. She is young.
+She wears heavy makeup. She has mouth slightly open.
+She has arched eyebrows and wears lipstick. She is young.
+This woman is wearing lipstick. She has arched eyebrows.

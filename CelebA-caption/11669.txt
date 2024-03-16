@@ -1,0 +1,10 @@
+The person is young and has arched eyebrows. 
+This person is wearing necklace, heavy makeup. She has blond hair. She is young.
+The woman has blond hair, and arched eyebrows. She is young and wears earrings.
+This woman has straight hair and is wearing necklace, and lipstick.
+This woman has straight hair. She is wearing necklace, and heavy makeup.
+The woman has blond hair. She wears heavy makeup, and lipstick.
+The person has straight hair. She wears earrings, lipstick, and heavy makeup.
+She wears heavy makeup, earrings, and lipstick. She is young and has straight hair, and arched eyebrows.
+The person wears necklace, earrings. She has blond hair.
+The woman is wearing heavy makeup, earrings, necklace. She has arched eyebrows.

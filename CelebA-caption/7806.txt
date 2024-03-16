@@ -1,0 +1,10 @@
+The person has black hair. She wears necklace. She is young.
+She wears lipstick. She is young and has black hair.
+She is young and has black hair. 
+She has black hair and is wearing lipstick.
+She has black hair. She is attractive. She wears lipstick.
+This woman has big lips and is wearing necklace. She is attractive.
+The person wears necklace. She has big lips.
+The person has big lips and is wearing lipstick. She is attractive.
+The person has big lips. She is attractive. She wears lipstick.
+This person is wearing lipstick. She has big lips. She is attractive.

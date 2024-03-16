@@ -1,0 +1,10 @@
+The person has brown hair.
+He is young and has bangs.
+He is attractive and has bangs.
+This man has brown hair.
+This person has bangs.
+He has brown hair.
+This man is young and has brown hair.
+He is attractive and has bangs. 
+This man is attractive and has bangs. 
+The man has bangs. He is attractive.

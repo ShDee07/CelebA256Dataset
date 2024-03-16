@@ -1,0 +1,10 @@
+He is attractive and has pale skin. 
+He wears hat. He has pointy nose. He is attractive.
+The person has pale skin. He is wearing hat.
+This person has pointy nose and is wearing hat.
+He wears hat. He is attractive and has pale skin.
+The person has pointy nose. He is wearing hat. He is attractive.
+He is wearing hat. He is attractive and has pointy nose.
+He wears hat. He is attractive and has pointy nose.
+The man has pointy nose and wears hat. He is attractive.
+The person has pointy nose. He is attractive. He wears hat. He has no beard.

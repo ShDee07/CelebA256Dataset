@@ -1,0 +1,10 @@
+She wears earrings. She is young and has wavy hair.
+The woman is wearing lipstick. She has wavy hair.
+She is wearing heavy makeup. She has arched eyebrows. She is young.
+This woman has arched eyebrows and wears earrings, and lipstick.
+The woman is young and has wavy hair. 
+The person has wavy hair. She is young and wears earrings, and lipstick.
+She has arched eyebrows. She is young and wears earrings, and heavy makeup.
+She has arched eyebrows. She wears heavy makeup. She is young.
+She is young and has wavy hair. 
+The woman wears earrings. She has wavy hair. She is young.

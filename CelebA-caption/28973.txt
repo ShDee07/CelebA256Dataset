@@ -1,0 +1,10 @@
+The person has oval face. He is attractive, and young. He has beard.
+The person has mustache, and eyeglasses.
+The man is attractive and has eyeglasses, and mustache.
+This person has eyeglasses, and oval face. He is attractive, and young. He has beard.
+This attractive man has oval face, and mustache. 
+He has oval face. He is attractive.
+This man has mustache. He is young. He has beard.
+This person has oval face. He is smiling, and young.
+He is young, and attractive and has mustache, and oval face.
+The man is young, and smiling and has eyeglasses, and oval face.

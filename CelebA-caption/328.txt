@@ -1,0 +1,10 @@
+The man is young and has bangs. 
+He wears necklace. He has bushy eyebrows. He is young.
+The person has straight hair. He is young. He wears necklace. He has no beard.
+The person is young and has bangs, and bushy eyebrows. 
+He has narrow eyes. He is young and wears necklace. He has no beard.
+He is wearing necklace. He has narrow eyes, straight hair, and bushy eyebrows.
+This person has bangs, and straight hair and is wearing necklace. He is young.
+The person has bangs, straight hair, and narrow eyes. He is young. He is wearing necklace. He has no beard.
+This man has bushy eyebrows and is wearing necklace.
+This person has bangs, and straight hair. He is wearing necklace. He is young.

@@ -1,0 +1,10 @@
+This man is smiling and has eyeglasses, bangs, pointy nose, and sideburns. 
+This man is smiling and has pointy nose, bangs, mouth slightly open, and sideburns. 
+He has pointy nose and wears necktie.
+The man has mouth slightly open, eyeglasses, and sideburns. He is smiling. He is wearing necktie. He has beard.
+This person is smiling and has bangs, sideburns, and pointy nose. 
+He wears necktie. He has pointy nose. He is smiling.
+He wears necktie. He is smiling and has sideburns.
+The man is wearing necktie. He has sideburns, and bangs.
+This man has sideburns, eyeglasses, and mouth slightly open and is wearing necktie. He is smiling.
+This man has mouth slightly open, eyeglasses, and sideburns and is wearing necktie. He is smiling.

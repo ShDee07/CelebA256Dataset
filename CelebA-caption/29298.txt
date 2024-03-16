@@ -1,0 +1,10 @@
+This man has receding hairline, and oval face. He is attractive. He has beard.
+The person is attractive and has brown hair, oval face, and receding hairline.
+The person has pointy nose, brown hair, and goatee. He is young. He has beard.
+He is young and has oval face, pointy nose, receding hairline, and brown hair.
+He has oval face, pointy nose, receding hairline, and goatee. He is attractive. He has beard.
+This person has pointy nose, and goatee.
+This person is attractive and has oval face. 
+This man has oval face. He is young.
+He has brown hair, and pointy nose. He is attractive. He has beard.
+The man has oval face.

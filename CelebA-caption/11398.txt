@@ -1,0 +1,10 @@
+The woman has big nose. She is attractive.
+The woman is attractive and has bushy eyebrows. 
+This person has receding hairline. She is young.
+This person has bushy eyebrows, black hair, and receding hairline.
+This woman is attractive and has bushy eyebrows, and receding hairline. 
+This person has receding hairline, and black hair.
+She has black hair, and bushy eyebrows. She is young.
+She has receding hairline, and bushy eyebrows. She is young.
+She is attractive and has black hair, and receding hairline.
+The woman is young and has bushy eyebrows, and black hair.

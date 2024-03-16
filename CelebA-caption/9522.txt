@@ -1,0 +1,10 @@
+The woman wears lipstick. She has brown hair, and receding hairline. She is attractive.
+This person is wearing lipstick. She has big lips, and wavy hair. She is young.
+The woman wears lipstick. She has wavy hair. She is young.
+The person has big lips, brown hair, and receding hairline and wears lipstick.
+This person has big lips, brown hair, and wavy hair and wears lipstick. She is young.
+She is young and has receding hairline. 
+This attractive woman has brown hair, big lips, and wavy hair. 
+The person has brown hair. She is attractive. She is wearing lipstick.
+The person has wavy hair, big lips, and brown hair and wears lipstick.
+This woman has receding hairline, wavy hair, and brown hair and is wearing lipstick.

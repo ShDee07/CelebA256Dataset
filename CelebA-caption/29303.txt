@@ -1,0 +1,10 @@
+This man is young and has oval face, black hair, and eyeglasses.
+This man has eyeglasses, big nose, and oval face. He is young. He has no beard.
+The person is young and has black hair, big nose, and oval face.
+The man has big nose.
+This man has black hair. He is young. He has no beard.
+The person has big nose, eyeglasses, and black hair.
+He is young and has eyeglasses, big nose, and oval face. 
+The man has eyeglasses. He is young. He has no beard.
+The person has eyeglasses, big nose, and oval face.
+He is young and has big nose.

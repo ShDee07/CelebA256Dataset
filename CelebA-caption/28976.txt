@@ -1,0 +1,10 @@
+The man has mouth slightly open. He is young. He is wearing earrings. He has beard.
+The person has mouth slightly open. He wears earrings. He is young.
+The man is wearing earrings. He has mouth slightly open. He is young.
+He has mouth slightly open. He wears earrings.
+This person has mouth slightly open. He is young and is wearing earrings. He has beard.
+He has mouth slightly open and wears earrings. He is young.
+The person has mouth slightly open. He is wearing earrings. He is young.
+He has mouth slightly open and is wearing earrings. He is young.
+This person has mouth slightly open. He wears earrings. He is young.
+The person has mouth slightly open. He wears earrings.

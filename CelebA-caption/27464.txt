@@ -1,0 +1,10 @@
+This man has oval face, and straight hair. He is chubby. He has beard.
+He has sideburns, and straight hair.
+This person has oval face.
+The person has sideburns.
+The man is chubby and has sideburns. 
+He has straight hair, and oval face.
+He is chubby and has straight hair, and oval face. 
+This man has oval face.
+He has straight hair, and oval face. He is chubby. He has beard.
+This person has straight hair, and oval face. He is chubby.

@@ -1,0 +1,10 @@
+This person has pointy nose. He is wearing necktie.
+He wears necktie. He has receding hairline. He is bald.
+The man has big nose, and pointy nose. He wears necktie.
+He wears necktie. He is bald and has bags under eyes.
+He is wearing necktie. He has receding hairline. He is chubby.
+He is chubby and has receding hairline, and big nose. 
+He wears necktie. He has bags under eyes, and receding hairline.
+This man has receding hairline, bags under eyes, and big nose and is wearing necktie. He is chubby.
+The person has bags under eyes. He is wearing necktie. He is chubby.
+He has receding hairline, and big nose and wears necktie. He is bald.

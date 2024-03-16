@@ -1,0 +1,10 @@
+This young woman has eyeglasses. 
+She wears heavy makeup. She has eyeglasses. She is attractive.
+She is wearing lipstick. She is attractive and has eyeglasses.
+The woman has eyeglasses. She is attractive. She wears earrings.
+This woman has eyeglasses and is wearing heavy makeup, and earrings.
+The person has eyeglasses and is wearing earrings.
+This person has eyeglasses and is wearing lipstick.
+The person has eyeglasses. She wears heavy makeup, and lipstick.
+The woman has eyeglasses and wears earrings. She is young.
+She is wearing lipstick. She is attractive and has eyeglasses.

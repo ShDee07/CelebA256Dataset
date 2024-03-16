@@ -1,0 +1,10 @@
+This man has black hair, and goatee. He is young.
+He is young and has bushy eyebrows. 
+This man has bushy eyebrows, black hair, and big nose.
+The person is young and has goatee, black hair, and big nose.
+The person has bushy eyebrows, black hair, and big nose.
+This man is young and has big nose, and black hair. 
+The man is young and has big nose, and bushy eyebrows.
+The person has big nose, bushy eyebrows, and black hair.
+This man is young and has goatee, and black hair.
+He has bushy eyebrows, big nose, and black hair.

@@ -1,0 +1,10 @@
+This person has black hair. She wears hat, and earrings. She is attractive.
+The woman wears lipstick. She has big lips. She is young.
+The person has black hair. She is wearing hat. She is young.
+The woman has big lips. She wears lipstick. She is attractive.
+The person has big lips. She is attractive and is wearing earrings.
+She wears lipstick, and earrings. She is attractive and has black hair.
+The person has big lips. She is attractive and wears lipstick, and hat.
+This woman is young and has black hair. 
+The person has big lips and is wearing earrings.
+This person wears hat, lipstick. She has big lips. She is young.

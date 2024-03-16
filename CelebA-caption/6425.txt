@@ -1,0 +1,10 @@
+The person wears hat. He has sideburns, double chin, and big nose.
+The man has big nose, goatee, eyeglasses, sideburns, and mustache. He is chubby. He wears hat. He has beard.
+He has goatee, eyeglasses, mustache, and double chin. He is chubby and is wearing hat. He has beard.
+The man wears hat. He has big nose, eyeglasses, goatee, and mustache.
+This person has mustache, double chin, big nose, and sideburns. He is chubby. He wears hat. He has beard.
+This person has eyeglasses, big nose, and goatee. He wears hat.
+The person is wearing hat. He has double chin, sideburns, goatee, big nose, and mustache.
+This person wears hat. He has eyeglasses, big nose, and sideburns.
+This person has sideburns, and double chin and wears hat.
+He has big nose, and double chin. He wears hat.

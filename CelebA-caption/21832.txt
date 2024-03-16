@@ -1,0 +1,10 @@
+This person has oval face. She is young.
+This person has wavy hair. She is attractive.
+The person is attractive and has oval face.
+This person has wavy hair.
+The person has oval face.
+She is young and has wavy hair.
+This person has oval face. She is young.
+This woman is young and has oval face.
+She has wavy hair.
+She is young and has wavy hair. 

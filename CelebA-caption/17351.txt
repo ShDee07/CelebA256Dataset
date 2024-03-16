@@ -1,0 +1,10 @@
+The woman is young and has wavy hair, and arched eyebrows. 
+She wears lipstick. She is attractive and has black hair.
+She wears lipstick. She has wavy hair. She is attractive.
+The woman has black hair. She is wearing lipstick.
+She wears heavy makeup. She has wavy hair, and arched eyebrows. She is young.
+She is wearing lipstick. She is attractive and has wavy hair.
+She has arched eyebrows. She is young and is wearing heavy makeup.
+She wears heavy makeup. She has wavy hair, and black hair. She is attractive.
+The person has black hair. She wears heavy makeup.
+This person has wavy hair, and arched eyebrows and is wearing lipstick. She is attractive.

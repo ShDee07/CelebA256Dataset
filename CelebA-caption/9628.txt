@@ -1,0 +1,10 @@
+The person wears heavy makeup. She has brown hair.
+The person has narrow eyes. She is young and wears heavy makeup.
+She wears heavy makeup. She is young and has brown hair, narrow eyes, and bangs.
+She has bangs. She is young. She is wearing heavy makeup.
+She has straight hair, and bangs and wears heavy makeup. She is young.
+This woman is young and has straight hair. 
+This woman has straight hair, bangs, and brown hair. She wears heavy makeup.
+This young person has brown hair, bangs, and straight hair. 
+She has brown hair, and narrow eyes. She is young. She wears heavy makeup.
+She is wearing heavy makeup. She has straight hair, and brown hair. She is young.

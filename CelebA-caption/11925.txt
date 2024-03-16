@@ -1,0 +1,10 @@
+The woman has blond hair and wears lipstick.
+This person wears lipstick. She has blond hair.
+This person has blond hair. She wears lipstick.
+The person has blond hair and wears lipstick. She is attractive.
+She has blond hair and is wearing lipstick.
+This person has blond hair. She is young and wears lipstick.
+She has blond hair and wears lipstick.
+The woman has blond hair. She is wearing lipstick. She is attractive.
+She has blond hair and is wearing lipstick.
+The woman is attractive and has blond hair. 

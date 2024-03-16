@@ -1,0 +1,10 @@
+The person wears lipstick. She has receding hairline.
+This woman has black hair and wears earrings.
+She wears earrings. She has black hair.
+The person has black hair. She wears lipstick. She is young.
+The person has black hair. She is wearing lipstick. She is young.
+The person has receding hairline and wears earrings. She is young.
+She wears earrings. She is young and has black hair.
+She is wearing lipstick. She has receding hairline. She is young.
+This woman has receding hairline and is wearing earrings.
+She has receding hairline. She is wearing lipstick.

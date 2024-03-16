@@ -1,0 +1,10 @@
+This man has big nose, sideburns, and receding hairline. He is chubby. He has beard.
+This man is chubby and has narrow eyes, bags under eyes, and sideburns.
+This man is chubby and has receding hairline, and sideburns.
+This chubby man has sideburns, receding hairline, big nose, and narrow eyes. 
+The man has bags under eyes. He is chubby. He has beard.
+The person is chubby and has narrow eyes.
+This person is chubby and has sideburns, and bags under eyes.
+This person has receding hairline. He is chubby.
+He has big nose, and narrow eyes.
+He is chubby and has sideburns, narrow eyes, bags under eyes, and big nose.

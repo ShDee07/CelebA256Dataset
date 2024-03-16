@@ -1,0 +1,10 @@
+This person has pale skin. She is young. She is wearing lipstick.
+This person is attractive and has arched eyebrows, and big lips. 
+She has arched eyebrows, bushy eyebrows, and big lips. She is wearing heavy makeup.
+The woman has arched eyebrows, pale skin, and bushy eyebrows. She wears lipstick.
+She has bushy eyebrows, pale skin, and arched eyebrows. She is wearing heavy makeup.
+The person is young and has pale skin, and big lips. 
+She wears heavy makeup. She has pale skin. She is attractive.
+She has pale skin. She is attractive and is wearing heavy makeup.
+She wears lipstick. She has pale skin, and arched eyebrows. She is young.
+She has big lips, bushy eyebrows, and pale skin and wears lipstick. She is attractive.

@@ -1,0 +1,10 @@
+This man has bags under eyes. He is wearing hat. He is young.
+The man has bags under eyes. He wears hat. He is young.
+He has bags under eyes. He is young and wears hat. He has beard.
+The man is wearing hat. He has bags under eyes. He is young.
+This man has bags under eyes and wears hat.
+He has bags under eyes and wears hat.
+The person has bags under eyes. He is young. He wears hat. He has beard.
+This young person has bags under eyes. 
+This person has bags under eyes. He is young. He wears hat. He has beard.
+This person has bags under eyes and is wearing hat. He is young.

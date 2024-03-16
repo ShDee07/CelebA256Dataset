@@ -1,0 +1,10 @@
+This young woman has pointy nose, and mouth slightly open. 
+This woman has mouth slightly open. She wears lipstick. She is attractive.
+The person has big lips, and mouth slightly open. She is attractive. She is wearing lipstick.
+She wears hat. She is young and has big lips.
+She wears lipstick. She has pointy nose, and mouth slightly open. She is attractive.
+The person wears hat. She has pointy nose.
+The woman has big lips. She is young. She is wearing hat.
+This woman has mouth slightly open. She is attractive. She wears lipstick.
+This woman has mouth slightly open. She is wearing hat. She is young.
+She is attractive and has pointy nose. 

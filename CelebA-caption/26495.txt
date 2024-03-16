@@ -1,0 +1,10 @@
+The man has oval face, straight hair, bushy eyebrows, and goatee and wears necktie.
+The man is young and has bushy eyebrows, sideburns, and oval face. 
+He is wearing necktie. He has bushy eyebrows. He is young.
+He is wearing necktie. He has oval face, and straight hair. He is young.
+The man has sideburns, goatee, straight hair, bushy eyebrows, and oval face. He is young. He wears necktie. He has beard.
+This man is young and has oval face, and goatee. 
+He has sideburns, straight hair, and mustache. He is young and wears necktie. He has beard.
+The man has bushy eyebrows, goatee, and sideburns. He is young and is wearing necktie. He has beard.
+The person has goatee, sideburns, oval face, bushy eyebrows, and straight hair and is wearing necktie.
+The person is wearing necktie. He has bushy eyebrows. He is young.

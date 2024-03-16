@@ -1,0 +1,10 @@
+He wears necktie. He is bald and has double chin, and eyeglasses.
+This man has double chin, and eyeglasses. He is bald and is wearing necktie. He has no beard.
+The person has big nose. He is bald and is wearing necktie. He has no beard.
+The person is bald and has double chin, and eyeglasses. 
+This bald man has eyeglasses, and double chin. 
+The person is wearing necktie. He has eyeglasses.
+He wears necktie. He has eyeglasses, and double chin. He is bald.
+He has double chin. He is wearing necktie. He is bald.
+He has double chin, and eyeglasses and is wearing necktie.
+He has big nose, and eyeglasses. He is bald. He is wearing necktie. He has no beard.

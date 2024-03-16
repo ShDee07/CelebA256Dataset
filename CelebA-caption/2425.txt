@@ -1,0 +1,10 @@
+The person has bags under eyes. She is young and wears lipstick.
+The person is young and has bags under eyes. 
+This woman has bags under eyes. She is young and is wearing heavy makeup.
+She is wearing heavy makeup. She is young and has bags under eyes.
+She wears lipstick. She has bags under eyes. She is young.
+She wears heavy makeup. She has bags under eyes. She is young.
+The woman has bags under eyes. She is wearing lipstick. She is young.
+This young person has bags under eyes. 
+The woman is wearing lipstick. She has bags under eyes. She is young.
+She has bags under eyes and is wearing heavy makeup. She is young.

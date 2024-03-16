@@ -1,0 +1,10 @@
+This man has goatee, eyeglasses, and oval face.
+The man has mouth slightly open, and goatee.
+This person has oval face, goatee, and eyeglasses. He is bald.
+The man has oval face, and mouth slightly open.
+This man is bald and has eyeglasses, goatee, and oval face. 
+He is bald and has eyeglasses, and mouth slightly open.
+The person has goatee, and oval face.
+The man has oval face, and goatee. He is bald.
+The person is bald and has oval face, eyeglasses, and mouth slightly open. 
+The person has mouth slightly open.

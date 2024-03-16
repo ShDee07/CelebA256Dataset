@@ -1,0 +1,10 @@
+The person has pale skin. He is young. He wears hat. He has no beard.
+The person has pale skin, and eyeglasses and is wearing hat.
+This man has big lips, and eyeglasses and is wearing hat.
+The man wears hat. He has eyeglasses, and pale skin. He is young.
+This man has big lips, and eyeglasses and is wearing hat.
+This man has big lips, and pale skin. He is wearing hat.
+The man has big lips. He is young. He is wearing hat. He has no beard.
+The man is wearing hat. He has eyeglasses, and big lips. He is young.
+The man has eyeglasses. He is young. He wears hat. He has no beard.
+He wears hat. He has big lips, and pale skin.

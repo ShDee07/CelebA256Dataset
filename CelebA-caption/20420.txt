@@ -1,0 +1,10 @@
+This woman has big lips and wears hat.
+She wears hat. She has eyeglasses.
+She wears hat. She has eyeglasses.
+She has big lips and wears hat.
+The person has eyeglasses. She wears hat.
+The person has big lips and is wearing hat.
+The person has eyeglasses and is wearing hat.
+The woman has eyeglasses and is wearing hat. 
+The woman wears hat. She has big lips.
+She is wearing hat. She has eyeglasses.

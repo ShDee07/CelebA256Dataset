@@ -1,0 +1,10 @@
+The person has big nose, double chin, gray hair, bags under eyes, and receding hairline. He is chubby and wears necktie. He has beard.
+This man has receding hairline, big nose, and mustache. He is wearing necktie.
+He is wearing necktie. He is chubby and has receding hairline.
+He is wearing necktie. He has receding hairline, mustache, big nose, double chin, and bags under eyes. He is bald.
+This man has receding hairline and is wearing necktie. He is chubby.
+The man has big nose. He wears necktie.
+This man has big nose. He wears necktie.
+He has big nose, and mustache. He wears necktie. He is chubby.
+The man is bald and has bags under eyes, big nose, gray hair, and receding hairline. 
+The man has bags under eyes, and gray hair and is wearing necktie. He is bald.

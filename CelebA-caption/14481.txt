@@ -1,0 +1,10 @@
+This person has big nose, big lips, and arched eyebrows. He is bald and wears necktie. He has beard.
+The man has big nose, big lips, and arched eyebrows. He is wearing necktie.
+The person has goatee, and arched eyebrows. He is wearing necktie. He is bald.
+The person has big lips. He is bald. He wears necktie. He has beard.
+The person has big lips, and big nose and wears necktie.
+This man has big nose. He is young. He wears necktie. He has beard.
+This man has arched eyebrows. He is young and wears necktie. He has beard.
+He has goatee. He wears necktie. He is bald.
+He is wearing necktie. He has big lips. He is bald.
+This man is wearing necktie. He has goatee, and arched eyebrows.

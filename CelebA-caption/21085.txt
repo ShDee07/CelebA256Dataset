@@ -1,0 +1,10 @@
+This man has black hair. He is young. He has beard.
+The man has bags under eyes, narrow eyes, and bushy eyebrows. He is young. He has beard.
+The man is attractive and has black hair, bags under eyes, and bushy eyebrows. 
+He has narrow eyes. He is attractive.
+This man has bags under eyes, and narrow eyes.
+This person has narrow eyes, bushy eyebrows, and black hair.
+This young man has narrow eyes, bags under eyes, and bushy eyebrows. 
+This person has bags under eyes, and bushy eyebrows.
+This man has bushy eyebrows, black hair, and bags under eyes. He is attractive.
+This person is attractive and has bushy eyebrows, and black hair. 

@@ -1,0 +1,10 @@
+The man has pointy nose. He is attractive.
+This person has sideburns, narrow eyes, and wavy hair. He is young.
+The person has bushy eyebrows.
+The person has bushy eyebrows.
+The man has narrow eyes, and pointy nose.
+This man has pointy nose, bushy eyebrows, and sideburns. He is young.
+This man has pointy nose, bushy eyebrows, and sideburns. He is attractive. He has beard.
+He has sideburns, wavy hair, and narrow eyes.
+He has narrow eyes, and bushy eyebrows. He is attractive. He has beard.
+The man is young and has sideburns, pointy nose, narrow eyes, and bushy eyebrows. 

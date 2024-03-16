@@ -1,0 +1,10 @@
+The person has brown hair. He is young. He has no beard.
+This man has black hair. He is young. He has no beard.
+The person is young and has black hair. 
+He has black hair.
+The person has black hair.
+This person has black hair. He is young. He has no beard.
+This man has brown hair. He is young.
+This man is young and has brown hair. 
+The man has black hair.
+This person is young and has black hair.

@@ -1,0 +1,10 @@
+This person has pointy nose.
+The person has high cheekbones, and pointy nose. He is young. He has beard.
+He has high cheekbones. He is young. He has beard.
+This person has big nose.
+The man is young and has pointy nose, big nose, and high cheekbones.
+This person has big nose, and brown hair. He is young.
+The man is young and has big nose, pointy nose, and brown hair.
+This person has high cheekbones, big nose, and pointy nose.
+The man has big nose, and high cheekbones.
+This person is young and has big nose, and high cheekbones. 

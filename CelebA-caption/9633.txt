@@ -1,0 +1,10 @@
+This young person has pale skin. 
+She has pale skin and is wearing heavy makeup, and hat. She is young.
+She is wearing hat, heavy makeup. She has pale skin. She is young.
+She has pale skin. She wears heavy makeup, and hat. She is young.
+She has pale skin. She is wearing earrings.
+This woman wears hat. She has pale skin. She is young.
+This person wears earrings, hat. She has pale skin. She is young.
+The woman has pale skin and is wearing hat. She is young.
+The person has pale skin and is wearing hat.
+This woman is wearing earrings, heavy makeup. She has pale skin.

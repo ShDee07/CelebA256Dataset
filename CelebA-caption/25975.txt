@@ -1,0 +1,10 @@
+This person has mustache. He is bald. He has beard.
+He has goatee, and eyeglasses. He is chubby. He has beard.
+This man has goatee, big nose, and double chin. He is chubby. He has beard.
+This man has goatee. He is chubby. He has beard.
+This person is bald and has eyeglasses, mustache, and double chin. 
+The person has eyeglasses, double chin, and goatee.
+The person has eyeglasses, double chin, big nose, and mustache. He is bald. He has beard.
+He has goatee, mustache, eyeglasses, and big nose.
+This man has goatee, double chin, big nose, and eyeglasses. He is chubby. He has beard.
+This person has double chin, eyeglasses, goatee, and mustache.

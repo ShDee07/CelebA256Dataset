@@ -1,0 +1,10 @@
+This person has goatee.
+The person has sideburns, pointy nose, gray hair, and eyeglasses. 
+This man has gray hair, and eyeglasses. 
+This person has pointy nose, goatee, gray hair, and eyeglasses.
+This person has pointy nose, sideburns, and goatee.
+He has eyeglasses, gray hair, goatee, and sideburns.
+The man has goatee, and sideburns.
+He has goatee, pointy nose, and eyeglasses. 
+The man has sideburns.
+The man has goatee, pointy nose, gray hair, and sideburns.

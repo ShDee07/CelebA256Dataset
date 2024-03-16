@@ -1,0 +1,10 @@
+The person has narrow eyes, goatee, and sideburns.
+He has narrow eyes.
+The man has bags under eyes.
+He has sideburns.
+He has sideburns.
+This person has narrow eyes, and sideburns. 
+The man has bags under eyes, and sideburns. 
+This person has sideburns. 
+This man has sideburns, goatee, and narrow eyes.
+The man has sideburns, and bags under eyes. 

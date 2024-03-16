@@ -1,0 +1,10 @@
+This person has straight hair. He wears necktie. He is young.
+This man has straight hair and is wearing necktie. He is young.
+He is young and has straight hair. 
+The man has straight hair and is wearing necktie. He is young.
+This person is wearing necktie. He has straight hair.
+The man is wearing necktie. He has straight hair.
+The person is wearing necktie. He has straight hair. He is young.
+This person has bushy eyebrows and is wearing necktie.
+He wears necktie. He has straight hair. He is young.
+This young person has bushy eyebrows. 

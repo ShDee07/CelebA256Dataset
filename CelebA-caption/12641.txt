@@ -1,0 +1,10 @@
+This woman has big lips and wears lipstick.
+She has black hair and wears lipstick. She is young.
+The woman has black hair. She is wearing lipstick.
+She is wearing lipstick. She has big lips. She is young.
+She is wearing lipstick. She is young and has black hair.
+She has black hair. She is young and wears lipstick.
+She is young and has black hair. 
+This woman has black hair. She is young and wears lipstick.
+The person has big lips and wears lipstick.
+The person has black hair. She is young and wears lipstick.

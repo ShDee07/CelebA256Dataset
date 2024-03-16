@@ -1,0 +1,10 @@
+The woman has blond hair, and bags under eyes. She is wearing lipstick. She is young.
+She has bags under eyes, and blond hair. She wears lipstick.
+The person has straight hair, and blond hair and wears lipstick.
+She has straight hair. She is wearing lipstick.
+She has bags under eyes, and straight hair. She is young and wears lipstick.
+She is wearing lipstick. She has straight hair, and blond hair.
+The woman has bags under eyes, and straight hair. She is wearing lipstick.
+The woman has blond hair. She is young and wears lipstick.
+This woman is young and has straight hair. 
+She has straight hair, and blond hair and is wearing lipstick.

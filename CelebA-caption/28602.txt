@@ -1,0 +1,10 @@
+The person is attractive and has oval face. 
+The woman has oval face and is wearing heavy makeup.
+The person has oval face. She is wearing heavy makeup. She is attractive.
+This attractive woman has straight hair. 
+She is wearing heavy makeup. She has oval face. She is young.
+The person is young and has oval face. 
+The woman has oval face. She wears lipstick. She is young.
+She is wearing lipstick. She has straight hair. She is young.
+She wears lipstick. She has oval face. She is young.
+The person wears lipstick. She has straight hair.

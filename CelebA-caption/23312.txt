@@ -1,0 +1,10 @@
+This person has sideburns. He is young.
+This person has sideburns, narrow eyes, and mouth slightly open. He is young. He has beard.
+The man has mouth slightly open, sideburns, pointy nose, and black hair.
+This man has pointy nose, narrow eyes, sideburns, and mouth slightly open.
+This man has narrow eyes, sideburns, mouth slightly open, and pointy nose. He is young.
+The man has pointy nose. He is young. He has beard.
+The man has black hair, and sideburns.
+This person is young and has sideburns, mouth slightly open, narrow eyes, and black hair. 
+The person is young and has sideburns, black hair, and pointy nose.
+The person has pointy nose. He is young.

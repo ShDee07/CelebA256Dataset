@@ -1,0 +1,10 @@
+The woman has arched eyebrows, wavy hair, and pointy nose. She wears lipstick. She is attractive.
+The woman is wearing heavy makeup. She has wavy hair.
+She wears heavy makeup. She has pointy nose, wavy hair, and arched eyebrows. She is attractive.
+The person is attractive and has wavy hair, black hair, pointy nose, and arched eyebrows. 
+The woman wears heavy makeup. She has black hair, pointy nose, and arched eyebrows.
+This person is wearing lipstick. She has pointy nose. She is young.
+This person has black hair, arched eyebrows, and mouth slightly open. She is attractive. She wears heavy makeup.
+This person has black hair, wavy hair, mouth slightly open, and pointy nose. She is young and wears lipstick.
+She is wearing heavy makeup. She is young and has wavy hair.
+This woman has arched eyebrows, and pointy nose. She is wearing heavy makeup.

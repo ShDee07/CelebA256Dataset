@@ -1,0 +1,10 @@
+This woman is attractive and has blond hair. 
+The woman has pale skin and is wearing earrings. She is attractive.
+This woman is attractive and has pale skin, and blond hair. 
+She is wearing earrings. She has arched eyebrows, and blond hair.
+This woman has pale skin, and blond hair. She is young and wears earrings.
+This attractive woman has pale skin. 
+The woman wears earrings. She has arched eyebrows. She is young.
+The woman has blond hair, and pale skin and is wearing earrings. She is young.
+The person has arched eyebrows. She wears earrings. She is young.
+She has arched eyebrows, and blond hair. She is young. She is wearing earrings.

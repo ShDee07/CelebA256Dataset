@@ -1,0 +1,10 @@
+The man has blond hair. He is young. He is wearing hat. He has no beard.
+He is wearing hat. He has blond hair. He is young.
+He is young and has blond hair. 
+This person has blond hair. He is young. He is wearing hat. He has no beard.
+He is wearing hat. He is young and has blond hair.
+He is young and has blond hair. 
+The person wears hat. He has blond hair.
+He has blond hair and wears hat. He is young.
+He is young and has blond hair. 
+He has blond hair. He is young. He wears hat. He has no beard.

@@ -1,0 +1,10 @@
+The man has brown hair. He is chubby. He has beard.
+The person is chubby and has sideburns.
+This man is young and has oval face, and wavy hair.
+This person has brown hair. He is young.
+He has wavy hair, and sideburns. He is chubby. He has beard.
+This person has wavy hair, and sideburns.
+This person has brown hair, oval face, and wavy hair. He is chubby.
+This person has brown hair, sideburns, and oval face. He is young. He has beard.
+This man is chubby and has wavy hair, oval face, and brown hair. 
+This chubby person has wavy hair, and sideburns. 

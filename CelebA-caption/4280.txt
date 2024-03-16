@@ -1,0 +1,10 @@
+She wears lipstick. She has rosy cheeks, and oval face. She is young.
+This woman is attractive and has pointy nose. 
+She is wearing heavy makeup. She has oval face. She is young.
+She wears heavy makeup. She is attractive and has pointy nose, and oval face.
+She wears heavy makeup. She has oval face, and pointy nose.
+The person has pointy nose, and oval face. She is attractive. She wears lipstick.
+This person is young and has pointy nose, and oval face. 
+This woman is young and has pointy nose, and rosy cheeks. 
+This person has rosy cheeks, and pointy nose and is wearing lipstick.
+This young person has rosy cheeks, and oval face. 

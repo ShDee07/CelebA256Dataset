@@ -1,0 +1,10 @@
+The person has brown hair. He is attractive.
+This person has bangs.
+He has wavy hair, bangs, and brown hair. He is attractive. He has no beard.
+This person has bangs, and brown hair.
+This person has bangs, and pale skin.
+The man is attractive and has brown hair, and wavy hair. 
+The person has bangs.
+He has pale skin, bangs, and brown hair. He is young.
+The person has pale skin, bangs, and wavy hair.
+The man is attractive and has bangs, and brown hair. 

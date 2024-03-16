@@ -1,0 +1,10 @@
+The person has brown hair, mustache, straight hair, and pointy nose. He is young.
+The man has mustache. He is young.
+This person has brown hair, and mustache.
+This person is young and has brown hair, straight hair, pointy nose, and sideburns.
+He is young and has brown hair, and sideburns.
+The person has pointy nose, and sideburns. He is young.
+The man has straight hair. He is young.
+This person has pointy nose. He is young. He has beard.
+The person has sideburns.
+This man has pointy nose. He is young. He has beard.

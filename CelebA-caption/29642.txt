@@ -1,0 +1,10 @@
+The man has goatee, and sideburns. He is attractive.
+The person has goatee, and sideburns.
+The person has sideburns.
+He has sideburns, and mustache. He is attractive.
+This man has mustache, and sideburns.
+The person has goatee, and mustache.
+The person has goatee. He is attractive.
+This person is attractive and has mustache, and sideburns. 
+This attractive person has sideburns. 
+This person has mustache, and goatee.

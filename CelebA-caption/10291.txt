@@ -1,0 +1,10 @@
+The person is young and has mouth slightly open. 
+The woman has wavy hair. She is young and is wearing heavy makeup.
+This person has mouth slightly open. She is wearing lipstick. She is young.
+She has wavy hair. She wears heavy makeup.
+The person is wearing lipstick. She has wavy hair. She is young.
+She wears lipstick. She has wavy hair. She is young.
+The woman has wavy hair. She is young and is wearing lipstick.
+This person is young and has mouth slightly open. 
+She is wearing lipstick. She is young and has wavy hair.
+She wears lipstick. She is young and has wavy hair.

@@ -1,0 +1,10 @@
+This person has brown hair. She is attractive and is wearing lipstick.
+The woman is wearing lipstick. She has brown hair.
+She wears earrings. She is attractive and has arched eyebrows.
+She wears lipstick. She is attractive and has brown hair.
+The woman has brown hair. She is attractive. She wears lipstick.
+The woman has arched eyebrows and wears lipstick. She is attractive.
+She has brown hair. She is attractive and is wearing lipstick.
+The person has arched eyebrows. She wears earrings. She is attractive.
+She has arched eyebrows. She is attractive. She is wearing earrings.
+The woman has brown hair and wears earrings. She is attractive.

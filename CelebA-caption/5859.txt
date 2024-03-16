@@ -1,0 +1,10 @@
+The person is young and has pointy nose. 
+This woman has pointy nose. She is attractive. She wears heavy makeup.
+This woman has blond hair. She is wearing heavy makeup.
+She is wearing heavy makeup. She has blond hair. She is attractive.
+This person has pointy nose and wears lipstick. She is young.
+She is young and has pointy nose. 
+This young person has blond hair. 
+She has blond hair. She wears lipstick.
+She wears heavy makeup. She has blond hair. She is attractive.
+This woman has pointy nose. She wears lipstick.

@@ -1,0 +1,10 @@
+The person is young and has eyeglasses. 
+The man is young and has oval face. 
+This person has eyeglasses. He is young.
+This person has oval face. He is young.
+This man has eyeglasses.
+This man has eyeglasses. He is young. He has no beard.
+He has oval face. He is young.
+This young person has eyeglasses. 
+This man has eyeglasses.
+The person has eyeglasses. He is young. He has no beard.

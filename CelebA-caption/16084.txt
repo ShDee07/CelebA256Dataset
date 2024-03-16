@@ -1,0 +1,10 @@
+He wears necktie. He has oval face. He is young.
+The person has oval face. He is wearing necktie. He is young.
+The person has oval face and is wearing necktie.
+The person wears necktie. He has oval face. He is young.
+He has oval face and wears necktie. He is young.
+This man is young and has oval face. 
+The man is wearing necktie. He has oval face.
+He wears necktie. He has oval face. He is young.
+The person has oval face and is wearing necktie.
+This person is young and has oval face. 

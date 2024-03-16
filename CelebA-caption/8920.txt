@@ -1,0 +1,10 @@
+This woman wears lipstick, earrings. She has pointy nose. She is young.
+This woman has arched eyebrows. She wears heavy makeup.
+She is young and has oval face. 
+The woman has arched eyebrows, and oval face. She is attractive. She wears lipstick.
+The woman wears lipstick. She has arched eyebrows.
+She has oval face, and arched eyebrows. She is attractive and is wearing heavy makeup, and earrings.
+The woman has arched eyebrows and is wearing heavy makeup, and lipstick.
+She has oval face. She is young. She wears earrings.
+She is wearing earrings. She is attractive and has pointy nose, and oval face.
+The woman has arched eyebrows, and pointy nose. She is young and is wearing earrings, and lipstick.

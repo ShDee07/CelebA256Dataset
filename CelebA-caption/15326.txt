@@ -1,0 +1,10 @@
+This man has bags under eyes. He is attractive and wears necktie. He has beard.
+This person has bags under eyes and is wearing necktie. He is attractive.
+He has sideburns. He wears necktie. He is attractive.
+He has bags under eyes, and goatee. He is attractive and wears necktie. He has beard.
+This man has sideburns. He is attractive. He wears necktie. He has beard.
+He is wearing necktie. He is attractive and has goatee.
+The person has goatee. He is attractive. He wears necktie. He has beard.
+He wears necktie. He has goatee. He is attractive.
+The person has bags under eyes. He is wearing necktie. He is attractive.
+This person has sideburns. He is attractive. He wears necktie. He has beard.

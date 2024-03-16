@@ -1,0 +1,10 @@
+The man has eyeglasses. He is chubby and wears hat. He has no beard.
+The man has eyeglasses. He is chubby and is wearing necktie. He has no beard.
+This chubby man has eyeglasses. 
+This person has bags under eyes and is wearing hat. He is chubby.
+He wears necktie. He has bags under eyes, big nose, and double chin. He is chubby.
+This person has eyeglasses, double chin, and bags under eyes and wears hat. He is chubby.
+He has big nose and wears hat.
+The man wears necktie. He has double chin. He is chubby.
+He wears hat. He is chubby and has big nose.
+The man is wearing hat. He has big nose, bags under eyes, and eyeglasses. He is chubby.

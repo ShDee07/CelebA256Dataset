@@ -1,0 +1,10 @@
+This man has goatee. He is chubby.
+The man has goatee, and oval face.
+He is chubby and has receding hairline, and bags under eyes.
+The man is chubby and has goatee, receding hairline, and oval face.
+This person is chubby and has goatee, oval face, and receding hairline.
+The person has goatee, and oval face. He is chubby.
+The man is chubby and has bags under eyes. 
+He has bags under eyes, goatee, and oval face.
+The person is chubby and has receding hairline, and bags under eyes. 
+He is chubby and has bags under eyes, oval face, and goatee.

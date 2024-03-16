@@ -1,0 +1,10 @@
+The person is wearing hat. He has bangs.
+The man has bangs and is wearing hat.
+The man is young and has bangs. 
+This young man has bangs. 
+This man is wearing hat. He has bangs. He is young.
+He has bangs. He is young. He is wearing hat. He has no beard.
+This person has bangs. He is wearing hat.
+This person is young and has bangs. 
+This person has bangs. He is wearing hat. He is young.
+He wears hat. He has bangs. He is young.

@@ -1,0 +1,10 @@
+The woman has pointy nose. She is young.
+She is young and has pointy nose.
+This woman has black hair.
+This person has black hair. She is young.
+She has pointy nose. She is young.
+The woman has black hair. She is young.
+This woman has pointy nose.
+The woman is young and has pointy nose.
+She has black hair.
+This woman is young and has pointy nose. 

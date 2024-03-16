@@ -1,0 +1,10 @@
+This person is chubby and has eyeglasses. 
+He has eyeglasses, and bags under eyes. He is chubby.
+The person has eyeglasses, and bags under eyes. He is bald.
+This man has eyeglasses.
+This person is chubby and has bags under eyes. 
+This person has big nose.
+This person is bald and has eyeglasses.
+This person has eyeglasses, and big nose.
+The person is bald and has eyeglasses, and big nose.
+This man is bald and has bags under eyes, and big nose. 

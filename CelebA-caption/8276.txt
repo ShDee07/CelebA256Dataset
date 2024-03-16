@@ -1,0 +1,10 @@
+This person is young and has oval face. 
+This woman has oval face and is wearing necklace. She is young.
+This person has oval face. She is wearing necklace.
+This person is young and has oval face. 
+She has oval face and is wearing necklace.
+The woman has oval face. She is young. She wears necklace.
+She has oval face. She wears necklace.
+She wears necklace. She has oval face. She is young.
+The woman is young and has oval face. 
+The person has oval face and is wearing necklace. She is young.

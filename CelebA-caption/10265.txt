@@ -1,0 +1,10 @@
+He has mustache.
+The person has sideburns, eyeglasses, and goatee.
+The person has sideburns, eyeglasses, and goatee.
+He has eyeglasses, bangs, sideburns, and mustache.
+The man has mustache, eyeglasses, bangs, and sideburns.
+The man has bangs, sideburns, goatee, and mustache.
+This person has bangs, and sideburns.
+This man has goatee, bangs, and mustache.
+The person has goatee, and mustache.
+He has bangs.

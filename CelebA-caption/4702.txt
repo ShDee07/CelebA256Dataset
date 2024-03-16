@@ -1,0 +1,10 @@
+He wears hat. He has sideburns. He is young.
+He is wearing hat. He has sideburns. He is young.
+The man has sideburns. He is young. He is wearing hat. He has beard.
+The person is young and has goatee. 
+The person has sideburns. He wears hat. He is chubby.
+The person is chubby and has sideburns. 
+This person has sideburns. He is chubby. He is wearing hat. He has beard.
+This man has sideburns. He is chubby and wears hat. He has beard.
+This person has goatee. He wears hat.
+This man wears hat. He has sideburns. He is young.

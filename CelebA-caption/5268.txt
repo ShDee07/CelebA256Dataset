@@ -1,0 +1,10 @@
+The woman has eyeglasses and wears necklace. 
+She wears necklace. She has eyeglasses.
+She is wearing necklace. She has eyeglasses.
+She wears necklace. She has receding hairline.
+This person has eyeglasses. She is wearing necklace.
+The woman has receding hairline. She wears necklace. 
+This person is wearing necklace. She has eyeglasses.
+The person has eyeglasses. She is wearing necklace. 
+This woman is wearing necklace. She has receding hairline.
+This person has eyeglasses. She wears necklace.

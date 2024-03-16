@@ -1,0 +1,10 @@
+The man has blond hair, and high cheekbones. He is young. He has no beard.
+The man has high cheekbones. He is young. He has no beard.
+He has high cheekbones, and narrow eyes. He is young.
+The person has high cheekbones, narrow eyes, and oval face.
+The man has narrow eyes, and high cheekbones. He is young.
+The person has oval face, and high cheekbones. He is young. He has no beard.
+This person is young and has narrow eyes, oval face, and blond hair. 
+This person has oval face, and high cheekbones.
+He has narrow eyes. He is young. He has no beard.
+The man is young and has blond hair.

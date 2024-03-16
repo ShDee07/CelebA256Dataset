@@ -1,0 +1,10 @@
+The man has goatee.
+He has eyeglasses. He is young.
+The person has goatee, and sideburns.
+The person has eyeglasses, and goatee.
+He has eyeglasses, and sideburns.
+This person is young and has goatee, and sideburns.
+The man has sideburns, and goatee.
+This man has sideburns, and eyeglasses.
+This person has sideburns, and goatee. He is young. He has beard.
+He is young and has sideburns.

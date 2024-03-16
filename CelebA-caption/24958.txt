@@ -1,0 +1,10 @@
+This person has wavy hair, and brown hair. He is attractive. He has no beard.
+The man has wavy hair, and narrow eyes. He is young.
+The man has narrow eyes, and wavy hair. He is young.
+He has narrow eyes, and big lips.
+This man has wavy hair, and brown hair. He is young. He has no beard.
+This person has wavy hair, and narrow eyes.
+This person has big lips, wavy hair, and brown hair.
+This man has big lips. He is attractive.
+This man has big lips, and brown hair. He is attractive. He has no beard.
+This person is attractive and has narrow eyes, big lips, and brown hair. 

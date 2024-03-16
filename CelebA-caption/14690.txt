@@ -1,0 +1,10 @@
+He is wearing hat. He has eyeglasses, oval face, and big nose. He is chubby.
+He wears hat. He is chubby and has big nose, mustache, and oval face.
+He is wearing hat. He has eyeglasses, and oval face.
+This person has mustache, oval face, and big nose and is wearing hat. He is chubby.
+He has big nose, and mustache. He wears hat. He is chubby.
+This man has big nose, and eyeglasses. He wears hat.
+This man is chubby and has mustache, and oval face. 
+This person has big nose, oval face, and eyeglasses. He is chubby. He is wearing hat. He has beard.
+This person has eyeglasses and is wearing hat. He is chubby.
+The man is chubby and has big nose. 

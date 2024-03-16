@@ -1,0 +1,10 @@
+This woman has big lips and wears lipstick. She is young.
+This person has oval face, and arched eyebrows. She is attractive and is wearing lipstick.
+She is wearing heavy makeup. She is attractive and has blond hair.
+She wears heavy makeup. She is attractive and has big lips.
+This woman has arched eyebrows, blond hair, and oval face and is wearing heavy makeup.
+She wears heavy makeup. She has arched eyebrows, big lips, and blond hair. She is young.
+This person is attractive and has blond hair, and oval face. 
+She has blond hair, and arched eyebrows. She is young. She is wearing heavy makeup.
+She is young and has oval face, arched eyebrows, and blond hair. 
+She is wearing lipstick. She has oval face.

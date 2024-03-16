@@ -1,0 +1,10 @@
+This man has big nose, sideburns, and goatee.
+The person has bags under eyes.
+The person has goatee, sideburns, and bags under eyes.
+This man has big nose, sideburns, and bags under eyes.
+This man has big nose, and bags under eyes.
+This man has big nose, and bags under eyes.
+This man has sideburns, bags under eyes, and goatee.
+This man has sideburns, bags under eyes, and goatee.
+This man has sideburns, bags under eyes, and goatee.
+The person has big nose, goatee, and sideburns. 

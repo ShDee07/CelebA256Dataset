@@ -1,0 +1,10 @@
+This person has sideburns, bags under eyes, mustache, and bushy eyebrows.
+This person is bald and has bushy eyebrows, sideburns, big nose, and bags under eyes. 
+The person has mustache.
+The man has mustache, bushy eyebrows, and sideburns. He is bald. He has beard.
+This person has sideburns, and bags under eyes. He is bald.
+This person has bushy eyebrows. He is bald. He has beard.
+This man is bald and has big nose, and bags under eyes.
+This bald man has bags under eyes. 
+This man has big nose. He is bald.
+The man has bushy eyebrows, mustache, bags under eyes, and sideburns.

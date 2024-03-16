@@ -1,0 +1,10 @@
+This person is young and has black hair, bushy eyebrows, sideburns, and receding hairline.
+The man has black hair, and bags under eyes. He is young. He has beard.
+The man has sideburns.
+The man has black hair.
+The man has sideburns, and receding hairline.
+He has bags under eyes.
+He is young and has black hair, bags under eyes, receding hairline, and sideburns. 
+This person is young and has bushy eyebrows.
+This man has bushy eyebrows, receding hairline, black hair, and sideburns. He is young. He has beard.
+This person has bushy eyebrows, bags under eyes, receding hairline, and black hair. He is young.

@@ -1,0 +1,10 @@
+This woman has brown hair and wears lipstick. She is young.
+The person has high cheekbones, arched eyebrows, and mouth slightly open and wears lipstick. She is young.
+This woman has wavy hair, arched eyebrows, and bags under eyes and is wearing lipstick.
+The woman has arched eyebrows. She is young. She is wearing lipstick.
+She wears lipstick. She has arched eyebrows.
+She wears lipstick. She has wavy hair, bags under eyes, and arched eyebrows. She is young.
+She wears lipstick. She has high cheekbones, and mouth slightly open. She is young.
+The person has mouth slightly open, brown hair, wavy hair, arched eyebrows, and bags under eyes. She wears lipstick. She is young.
+The woman has mouth slightly open, brown hair, and bags under eyes and wears lipstick. She is young.
+She wears lipstick. She has arched eyebrows, and high cheekbones. She is young.

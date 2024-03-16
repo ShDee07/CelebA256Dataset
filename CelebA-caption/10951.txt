@@ -1,0 +1,10 @@
+The man has goatee. He is attractive.
+This person is young and has bushy eyebrows, and goatee.
+The man has bushy eyebrows, and goatee. He is young.
+This person is young and has sideburns.
+The person is young and has bushy eyebrows, and goatee.
+The man is attractive and has bushy eyebrows, and goatee.
+The person has bushy eyebrows. He is young. He has beard.
+The man has bushy eyebrows, and goatee. He is young.
+This person is attractive and has sideburns, and goatee. 
+He has bushy eyebrows.

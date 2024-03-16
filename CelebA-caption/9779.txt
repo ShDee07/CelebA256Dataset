@@ -1,0 +1,10 @@
+This person has bags under eyes, and wavy hair.
+The man has wavy hair.
+The man has eyeglasses, and bags under eyes.
+The person has wavy hair, and eyeglasses.
+The person has eyeglasses, and wavy hair. 
+This man has eyeglasses.
+The person has bags under eyes, and mustache.
+This person has eyeglasses, bags under eyes, and mustache.
+This man has wavy hair, eyeglasses, and mustache.
+This man has eyeglasses, wavy hair, and bags under eyes.

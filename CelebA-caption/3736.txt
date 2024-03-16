@@ -1,0 +1,10 @@
+This woman has black hair. She wears lipstick. She is attractive.
+This woman has black hair. She wears earrings.
+She wears heavy makeup. She is attractive and has black hair.
+This woman has black hair and is wearing earrings.
+She wears lipstick. She has black hair. She is attractive.
+She has black hair and is wearing heavy makeup, and lipstick.
+She has black hair and wears earrings, and lipstick.
+The person has black hair. She is attractive and is wearing earrings, and heavy makeup.
+She wears lipstick. She has black hair. She is attractive.
+The woman has black hair. She is attractive and is wearing earrings, and lipstick.

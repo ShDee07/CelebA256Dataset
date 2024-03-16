@@ -1,0 +1,10 @@
+This person has bangs. She is young.
+The person has bangs, and straight hair. She is young.
+She has brown hair. She is young.
+This woman has brown hair. She is young.
+She has bangs, and brown hair. She is young.
+The woman has brown hair, and straight hair.
+The woman is young and has brown hair, and straight hair.
+She has brown hair. She is young.
+The person has brown hair.
+This person is young and has brown hair. 

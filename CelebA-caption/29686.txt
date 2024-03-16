@@ -1,0 +1,10 @@
+This person has eyeglasses. He is young. He wears necklace. He has no beard.
+The person has eyeglasses, and big lips. He is wearing necklace.
+This person is young and has big lips, and mouth slightly open. 
+The person wears necklace. He has mouth slightly open. He is young.
+He wears necklace. He has big lips, and eyeglasses. He is young.
+This man is wearing necklace. He has big lips. He is young.
+He wears necklace. He is young and has big lips, and eyeglasses.
+This man has big lips, and mouth slightly open and wears necklace.
+He wears necklace. He has big lips. He is young.
+The person wears necklace. He has mouth slightly open, and eyeglasses.

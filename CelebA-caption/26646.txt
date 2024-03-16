@@ -1,0 +1,10 @@
+The man has oval face, and straight hair. He is attractive.
+This person has high cheekbones. He is attractive.
+The person has straight hair, and bushy eyebrows. He is attractive.
+This person has oval face, bushy eyebrows, and brown hair.
+This person is attractive and has bushy eyebrows.
+The person has high cheekbones, oval face, straight hair, and brown hair.
+The person is attractive and has straight hair, bushy eyebrows, high cheekbones, and brown hair.
+This man is attractive and has bushy eyebrows, high cheekbones, brown hair, and straight hair.
+This person has brown hair, bushy eyebrows, and straight hair. He is attractive.
+He has straight hair, bushy eyebrows, and brown hair. He is attractive. He has beard.

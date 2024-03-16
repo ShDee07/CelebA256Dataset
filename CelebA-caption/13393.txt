@@ -1,0 +1,10 @@
+This person has eyeglasses.
+This man has eyeglasses. He is bald. He has no beard.
+The person is bald and has eyeglasses.
+The man is bald and has eyeglasses. 
+This man has eyeglasses.
+This man has eyeglasses. He is bald.
+This person is bald and has eyeglasses.
+The man has eyeglasses. He is bald. He has no beard.
+This person has eyeglasses. He is bald. He has no beard.
+The person has eyeglasses.

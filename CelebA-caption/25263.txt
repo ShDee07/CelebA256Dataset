@@ -1,0 +1,10 @@
+This woman is wearing lipstick. She has bangs.
+This woman has narrow eyes, and pointy nose. She is young. She wears lipstick.
+This woman is wearing lipstick. She has pointy nose, and narrow eyes.
+She has bangs, and pointy nose. She is wearing lipstick. She is young.
+The person has pointy nose, and narrow eyes and wears lipstick. She is young.
+She has narrow eyes, and bangs. She is young and wears lipstick.
+This person has bangs, pointy nose, and pale skin and wears lipstick.
+She is wearing lipstick. She is young and has narrow eyes.
+She is wearing lipstick. She is young and has pale skin.
+The person has pale skin, narrow eyes, and bangs. She is wearing lipstick. She is young.

@@ -1,0 +1,10 @@
+This person has narrow eyes.
+This person has eyeglasses.
+This person has eyeglasses. 
+The man has narrow eyes.
+The man has eyeglasses.
+The man has eyeglasses.
+The man has eyeglasses.
+The person has narrow eyes.
+He has eyeglasses.
+He has eyeglasses.
